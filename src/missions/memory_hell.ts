@@ -1,0 +1,51 @@
+import { MissionInfo } from "nl-ktane-lib";
+
+export const memory_hell: MissionInfo = {
+  name: "Memory Hell",
+  missionPack: "Ryaninator's missions",
+  time: 60 * 60,
+  strikes: 7,
+  widgets: 10,
+  completions: [
+    {
+      time: 9 * 60 + 15,
+      vid: "https://www.youtube.com/watch?v=0oB-NTpY7iM",
+      completers: { defuser: "Zaakeil", experts: ["Cookiepocalypse", "KittyAshy"] },
+    },
+    {
+      time: 7 * 60 + 38,
+      vid: "https://www.youtube.com/watch?v=nxdbrjMnECU",
+      completers: { defuser: "Benjamin", experts: ["Bianca", "Burniel"] },
+    },
+    {
+      time: 5 * 60 + 20,
+      isFirst: true,
+      vid: "https://www.youtube.com/watch?v=Qky7EzQ0qkc",
+      completers: { defuser: "Draket", experts: ["Fish", "Zefod"] },
+    },
+  ],
+  solvedByTP: true,
+  modules: [
+    [3, "WireSequence"],
+    [2, "Password"],
+    [2, "Memory"],
+    [3, "MemoryV2"],
+    "ALL_NEEDY",
+    [2, "SouvenirModule"],
+    [4, "horribleMemory"],
+    [3, "TwoBits"],
+    [2, "SeaShells"],
+    [3, "spwizPerspectivePegs"],
+    "HexiEvilFMN",
+    [4, "SimonV2"],
+    "Simon",
+    [2, "PasswordV2"],
+    [2, "iPhone"],
+    [2, "buttonSequencesModule"],
+    "cube",
+    [2, "BlindMaze"],
+    "fizzBuzzModule",
+    [2, "Mastermind Simple"],
+    [4, "Mastermind Cruel"],
+  ],
+};
