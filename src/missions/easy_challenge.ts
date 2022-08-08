@@ -7,16 +7,22 @@ export const easy_challenge: MissionInfo = {
   strikes: 3,
   widgets: 5,
   completions: [
+    { time: 28 * 60 + 18, log: "file=5e7c165ed71fe54cbf44154b353b143de9e3a10c", completer: "LegendWilleh" },
     { time: 25 * 60 + 14, log: "file=f464d304826d15f71a138e440ccc4c13dd1b3406;bomb=B15TG3", completer: "Puddle" },
-    { time: 23 * 60 + 59, log: "file=e0357ebd9c976446aad9023aa1a1680b380af5f9;bomb=EG1RH3", completer: "LegendWilleh" },
+    { time: 24 * 60 + 37, log: "file=756266a92d8b67c0823ea0d60d58520aa22f8fc5;bomb=I45ZT1", completer: "Burniel" },
+    { time: 24 * 60 + 29, log: "file=087a70535d4770dd982690bd04f5c33510cedf78;bomb=386CJ4", completer: "Miki2003pl" },
     { time: 22 * 60 + 55, vid: "https://www.youtube.com/watch?v=oJ-1rh1o57Q", completer: "Espik" },
     { time: 22 * 60 + 46, log: "file=918bedb051dc2a0128d497ed4b9be0e41f300bb6;bomb=9Z2FK3", completer: "Danumbah" },
+    {
+      time: 22 * 60 + 42,
+      log: "file=3ebdadd44eae3893a990d5bc73e3ce585665f510;bomb=AE6FD1",
+      completer: "The Slapstick Dictator",
+    },
     {
       time: 22 * 60 + 14,
       vid: "https://www.youtube.com/watch?v=uXZN0yWz9tI",
       completers: { defuser: "Zaakeil", experts: ["Cookiepocalypse", "KittyAshy"] },
     },
-    { time: 21 * 60 + 39, log: "file=21771d1243e3f75c7b697064db0d1da120c33ac9;bomb=SL2FM5", completer: "Burniel" },
     { time: 21 * 60 + 22, log: "file=d87f36d6bbd14588eee6ebf6eb6bfb863d30fce0;bomb=JA3UG5", completer: "Asmir" },
     {
       time: 21 * 60 + 10,
@@ -31,12 +37,18 @@ export const easy_challenge: MissionInfo = {
     },
     { time: 20 * 60 + 16, log: "file=ff88890c8265e119a8cbb41a3c9fc2573715d431;bomb=GE3LV6", completer: "Gold" },
     { time: 19 * 60 + 58, log: "file=b0f45b951a670edbaf48776bc2202e25d3879357;bomb=SI8HZ8", completer: "Crazycaleb" },
+    {
+      time: 19 * 60 + 52,
+      log: "file=ab995b9558606fd2b299dfe272fb759e2d3ddbd9;bomb=2D4JS4",
+      completers: { defuser: "LegendWilleh", experts: ["Dicey"] },
+    },
     { time: 19 * 60 + 26, log: "file=68a65d1dadc9cb1ef5d213f14d26d661a263f091;bomb=816ZQ5", completer: "ManiaMate" },
     {
       time: 18 * 60 + 52,
       log: "file=a20ee593a701d559a82357f505a101d5caa7de18;bomb=0F6FD0",
       completer: "RandomKugelblitz",
     },
+    { time: 18 * 60 + 28, log: "file=3116983fd2b25ccb4e942d23a4ef58c291b1d2ae", completer: "Kuro" },
     { time: 18 * 60 + 17, log: "file=f91bc6afc7e330e88b181eecee033a4a676848b3;bomb=HT4VG3", completer: "Megum" },
     { time: 17 * 60 + 43, log: "file=d7c4f9a0d9345e2857d79a1968ce62e8ea4f2dfb;bomb=3T9PP9", completer: "Asew" },
     { time: 17 * 60 + 19, log: "file=d8d6b426ae18e8d120420616f8f73d69d6e285c5;bomb=026ZK7", completer: "Edan" },
@@ -75,6 +87,7 @@ export const easy_challenge: MissionInfo = {
       log: "file=2e9aababf795a7b28a7b6081945416ecacaafc89;bomb=I99EP4",
       completers: { defuser: "Wheaty", experts: ["MageMage"] },
     },
+    { time: 14 * 60 + 44, log: "file=47fba9ba1014b26ae48e3a3ef7a90d4f1e1204fd;bomb=N17DE6", completer: "GoodHood" },
     { time: 14 * 60 + 38, vid: "https://www.youtube.com/watch?v=JFEIlGZzi98&feature=youtu.be", completer: "Elias" },
     { time: 14 * 60 + 26, log: "file=ab5a130138e705b754866468d9e1e925f6bd9dfc;bomb=M64TX3", completer: "ConManAU" },
     { time: 14 * 60 + 19, log: "file=7277f6737a9ebf64dd2f5ee133246c4033d667ac;bomb=XR3UI0", completer: "Ugh_Sunlight" },
@@ -82,9 +95,24 @@ export const easy_challenge: MissionInfo = {
     { time: 13 * 60 + 59, vid: "https://www.youtube.com/watch?v=0kYhOdfKoGE", completer: "Jamessssss" },
     { time: 13 * 60 + 9, log: "file=9e9b41d0c8fbc01f06fd34be701e2f67914f529a;bomb=5E5QT1", completer: "Yabbaguy" },
     {
+      time: 12 * 60 + 43,
+      log: "file=7d21e509cca65d72a2d61a727cbb064ede12dffb;bomb=NZ3GB5",
+      completers: { defuser: "angel shaaark", experts: ["Kuro"] },
+    },
+    {
+      time: 12 * 60 + 32,
+      log: "file=3cd5e2fde4c8081f63eed9e8613d4cf013fc01fb;bomb=XR9JG6",
+      completers: { defuser: "dragonoidrules", experts: ["The Slapstick Dictator"] },
+    },
+    {
       time: 12 * 60 + 28,
       log: "file=2bd7c011776cee59f5a1a58e16a231deec17f842",
       completers: { defuser: "Želvík", experts: ["Macanek"] },
+    },
+    {
+      time: 12 * 60 + 24,
+      log: "file=3efa450add74b986b890b7c048f46a75575c05fe;bomb=SK5QX1",
+      completer: "Aaron Kitty Boiii",
     },
     { time: 12 * 60 + 22, log: "file=6c01f74c1c6234685a6560bfba5c4ea8d74aa475;bomb=739JN8", completer: "Azzaman" },
     {
@@ -113,6 +141,11 @@ export const easy_challenge: MissionInfo = {
       vid: "https://www.twitch.tv/videos/1412174162",
       completers: { defuser: "PippyInATopHat", experts: ["DeaderSurvival", "Pesh"] },
     },
+    {
+      time: 11 * 60 + 5,
+      vid: "https://www.youtube.com/watch?v=wPa07ND72V8",
+      completers: { defuser: "Deaf", experts: ["aGood_Usernam3", "Quinn Wuest"] },
+    },
     { time: 11 * 60 + 2, log: "file=cc88b0307f5c1fb444856daaed680d331e845b3b;bomb=SZ3FX2", completer: "SillyPuppy" },
     { time: 10 * 60 + 53, log: "file=c7cac5db74ed25dab125b03535a1a8e8d6d98264;bomb=GU3XU1", completer: "MásQuéÉlite" },
     {
@@ -136,9 +169,16 @@ export const easy_challenge: MissionInfo = {
       log: "file=f1a8a36b0c87b3d8094130d1a7266e74b5e359a9;bomb=4A5CL9",
       completers: { defuser: "Danumbah", experts: ["RandomKugelblitz"] },
     },
+    { time: 10 * 60 + 4, log: "file=efd8186645556037aea580d4f49b1c614931a944;bomb=PN5ZC8", completer: "Coolpapabell" },
     { time: 10 * 60, log: "file=7724b504032a22460e91462f10827f599b95c479;bomb=1P4RN5", completer: "Chestnut" },
     { time: 9 * 60 + 59, log: "file=470870e5dc18909a8b24817cc49a4fdc88610609;bomb=7V4KG3", completer: "mcd" },
     { time: 9 * 60 + 58, log: "file=2a4bdcebdd7248e80e5ed8602218e82db625f0f0;bomb=5W9HC2", completer: "FcbdaBoss" },
+    { time: 9 * 60 + 52, log: "file=6b6f789ac7b7cc7e04c3c50d691709d84ebd34d2;bomb=7Z3FG6", completer: "oli_theelite" },
+    {
+      time: 9 * 60 + 40,
+      log: "file=b9a9e1fdb4e896513301d7b1ee754bcfc5f90096;bomb=MW1HC6",
+      completers: { defuser: "angel shaaark", experts: ["Striker"] },
+    },
     {
       time: 9 * 60 + 39,
       vid: "https://www.youtube.com/watch?v=eQ899wfZd94",
@@ -152,6 +192,11 @@ export const easy_challenge: MissionInfo = {
     { time: 8 * 60 + 31, log: "file=1941176ed37360b3bd8ec879469de7674be33fec;bomb=AM0XC0", completer: "DireKrow" },
     { time: 8 * 60 + 26, log: "file=c92faabc6d8e3beec3edec1bffca52f2f19462af;bomb=HJ1CL7", completer: "Želvík" },
     {
+      time: 8 * 60,
+      log: "file=8f6a64da768b954719cb58c1c6347eb9f3f49623;bomb=KA5DN3",
+      completers: { defuser: "MaximumCombo", experts: ["Alpha8404"] },
+    },
+    {
       time: 7 * 60 + 56,
       log: "file=31131932a681e29edbcdc16cd8536b55d3479e16;bomb=EN6JG1",
       completers: { defuser: "Superstep", experts: ["Dicey"] },
@@ -162,7 +207,17 @@ export const easy_challenge: MissionInfo = {
       log: "file=638208bb1bccb4d65ceb83e65bd18fb4530f33ca;bomb=EJ6WQ0",
       completers: { defuser: "Mr. Punchy", experts: ["Danumbah"] },
     },
+    {
+      time: 7 * 60 + 30,
+      log: "file=2aa4ae78dea7d08aa698a372f95d81bbae43b6c0;bomb=CP4BF5",
+      completers: { defuser: "Badnoch", experts: ["Kuro"] },
+    },
     { time: 7 * 60 + 27, vid: "https://www.youtube.com/watch?v=gYh6BDFSj4M", completer: "t-chen" },
+    {
+      time: 7 * 60 + 23,
+      log: "file=60aeede875893d84deae22104a28cee0d6708ec4;bomb=3Z2UK4",
+      completers: { defuser: "The Slapstick Dictator", experts: ["dragonoidrules"] },
+    },
     {
       time: 7 * 60 + 22,
       log: "file=cba51e07e7ca4b668144dac1bb097b64237c63e3;bomb=EH8LM4",
@@ -191,6 +246,11 @@ export const easy_challenge: MissionInfo = {
     { time: 6 * 60 + 17, log: "file=fb24ae7e4b14b93d7c06b2aa65a7c7f32dc71a1f;bomb=9K1GC7", completer: "tandyCake" },
     { time: 6 * 60 + 17, log: "file=8ba1616d8fbf06c0e97b9d99b2efdac44dbfeef4;bomb=WA7NA4", completer: "KittyAshy" },
     {
+      time: 6 * 60 + 12,
+      log: "file=0ffd123f6a7df6e923b910c00155410dcf7b6940;bomb=NV6MR2",
+      completers: { defuser: "Kuro", experts: ["angel shaaark"] },
+    },
+    {
       time: 6 * 60 + 9,
       vid: "https://www.youtube.com/watch?v=raVIzagBvYc",
       completers: { defuser: "PoisonGreen", experts: ["NickLatkovich"] },
@@ -204,6 +264,11 @@ export const easy_challenge: MissionInfo = {
       time: 6 * 60 + 1,
       log: "file=3bcdf122c057fd21f1a18996ce92568903819147;bomb=R89KJ3",
       completers: { defuser: "DieBestenRutschen", experts: ["StormBlessed"] },
+    },
+    {
+      time: 5 * 60 + 59,
+      log: "file=aa8840bde97e3afc20c9092582c66920d3af6523",
+      completers: { defuser: "Striker", experts: ["angel shaaark"] },
     },
     { time: 5 * 60 + 28, vid: "https://www.youtube.com/watch?v=c2QeLJAiMxo&feature=youtu.be", completer: "Whalien" },
     { time: 5 * 60 + 25, log: "file=72722887462ce272b02a76c54731331843f97efc;bomb=ZS3LZ4", completer: "StormBlessed" },
@@ -222,12 +287,18 @@ export const easy_challenge: MissionInfo = {
       log: "file=41dd11b2004cd4cb41fbfbdfeb86aa2a7f044f01;bomb=SK3RU7",
       completers: { defuser: "MásQuéÉlite", experts: ["Da Best"] },
     },
+    { time: 4 * 60 + 41, log: "file=f0d784d96e0d21cfa0a771ba428309fca0f7e0f8;bomb=KM9HP1", completer: "angel shaaark" },
     {
       time: 4 * 60 + 38,
       vid: "https://www.youtube.com/watch?v=A34a8FNrr9w",
       completers: { defuser: "Aaron Kitty Boiii", experts: ["Sonoko Sakanoue"] },
     },
     { time: 4 * 60 + 32, log: "file=9f2dcd8870ec0d3a18625bbfb922f71a2965c3f3;bomb=LR6KZ4", completer: "Eltrick" },
+    {
+      time: 4 * 60 + 22,
+      log: "file=c5211222373539b46cbc93e6cc6d10ff42c29d8c;bomb=9Q3LA8",
+      completers: { defuser: "angel shaaark", experts: [""] },
+    },
     { time: 4 * 60 + 19, log: "file=fba10c36c272832c66a4427b1eaf3f395922e1bb", completer: "Mr. Punchy" },
     {
       time: 4 * 60 + 18,
@@ -243,6 +314,11 @@ export const easy_challenge: MissionInfo = {
       completers: { defuser: "MásQuéÉlite", experts: ["twinightcreep0"] },
     },
     { time: 3 * 60 + 58, log: "file=cc1530d821a5366df20ad493eab39f9f26d07d3c;bomb=TT9ZS0", completer: "DarkSly" },
+    {
+      time: 3 * 60 + 58,
+      log: "file=36b2b6cf5f9fa30866e95a2540c8bac5c3c1af8b;bomb=0E9EL7",
+      completers: { defuser: "SkipzPlays", experts: ["Striker"] },
+    },
     {
       time: 3 * 60 + 52,
       log: "file=fa99e71d36169dd92245e531c1e6731f56dbb348;bomb=C94AF9",
@@ -325,11 +401,21 @@ export const easy_challenge: MissionInfo = {
       vid: "https://www.youtube.com/watch?v=BKHQR5vcVB0",
       completers: { defuser: "Araca", experts: ["twinightcreep0"] },
     },
+    {
+      time: 1 * 60 + 24,
+      log: "file=ec6727a2ec937911dae92c726e0dc26efbf82148;bomb=F72XD8",
+      completers: { defuser: "RandomKugelblitz", experts: ["gwendolyn"] },
+    },
     { time: 1 * 60 + 19, log: "file=ce12104255051eaa4057aac230a52e79f996b75b;bomb=EB7GW1", completer: "Lily" },
     {
       time: 1 * 60 + 17,
       log: "file=49fbfc43b0ec3f34acaddc0da339a143508decc7;bomb=PL3WL6",
       completers: { defuser: "MasterOfDeviLP", experts: ["MásQuéÉlite"] },
+    },
+    {
+      time: 1 * 60 + 10,
+      log: "file=7f6aa86ba1ed1f641ba23bcafcaed82bd02204ed;bomb=TI9RC9",
+      completers: { defuser: "Taser", experts: ["RandomKugelblitz", "MásQuéÉlite"] },
     },
     {
       time: 1 * 60 + 9,
@@ -343,6 +429,11 @@ export const easy_challenge: MissionInfo = {
     },
     { time: 1 * 60 + 2, vid: "https://www.youtube.com/watch?v=-6x8DjJu0q0&t=7s", completer: "Dennis" },
     { time: 1 * 60 + 2, log: "file=32d5b11db6104568e3c27fa7778cc530079272f4;bomb=0J6QU1", completer: "Iniir" },
+    {
+      time: 1 * 60 + 1,
+      log: "file=cfb05b514cb76c5f0c1bbddf4ec1d9ca5dcb8288;bomb=XJ0EE9",
+      completers: { defuser: "Dennis", experts: ["Megum", "Wheaty"] },
+    },
     { time: 55, vid: "https://www.youtube.com/watch?v=HwcCX8mw01Q", completer: "Bagels" },
     {
       time: 49,
@@ -354,12 +445,12 @@ export const easy_challenge: MissionInfo = {
     {
       time: 39,
       log: "file=8dcfe13b451fc913b9c72da052e9d2f0be5ae1f3;bomb=E78AZ1",
-      completers: { defuser: "ShanmanT", experts: ["Sonoko Sakanoue", "el"] },
+      completers: { defuser: "ShanmanT", experts: ["Sonoko Sakanoue", "el", "Sierra"] },
     },
     {
       time: 36,
       log: "file=52050dc82001f414d2df95292911e60e2582d0c2;bomb=T88ER1",
-      completers: { defuser: "DarkSly", experts: ["Depresso", "Emitoz", "Sierra"] },
+      completers: { defuser: "DarkSly", experts: ["Depresso", "Emitoz"] },
     },
     { time: 35, log: "file=3cabea648e153cf8aa994a5b4d062945fbcca341;bomb=EG5XD9", completer: "Gwendolyn" },
     {

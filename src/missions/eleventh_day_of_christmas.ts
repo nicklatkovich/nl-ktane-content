@@ -32,6 +32,7 @@ export const eleventh_day_of_christmas: MissionInfo = {
       completers: { defuser: "Bianca", experts: ["Benjamin"] },
     },
     { time: 8 * 60 + 43, log: "file=f4feea5c2dbeadf1551348359897270fe8ec9f52;bomb=L39RR6", completer: "ManiaMate" },
+    { time: 8 * 60 + 18, log: "file=aa7da7f32cca3742841716a6f92a10e3cfe79b65;bomb=ZW9ZV8", completer: "SkipzPlays" },
     { time: 2 * 60 + 24, log: "file=cb515568f65d9591ded0089e27d4e7778d5bf3d8;bomb=EP2CE7", completer: "Burniel" },
     { time: 24, log: "file=c7728a5d9a5135552ffb68f4126f5adc6e496843;bomb=TE0GT9", completer: "Zefod" },
   ],

@@ -15,6 +15,7 @@ export const eh_not_so_bad: MissionInfo = {
     { time: 33 * 60 + 32, log: "file=3dce912010b68068f1b62e87bc67aea7153c1db6;bomb=MT5HB0", completer: "LegendWilleh" },
     {
       time: 25 * 60 + 23,
+      vid: "https://www.youtube.com/watch?v=lRm_mYr_qxw",
       log: "file=96a1b3605e58bcfbbe49cee1232267af158aefb9",
       completers: { defuser: "Espik", experts: ["Dicey", "Zefod"] },
     },
@@ -25,6 +26,11 @@ export const eh_not_so_bad: MissionInfo = {
       completers: { defuser: "Deaf", experts: ["Draket", "Rexkix"] },
     },
     { time: 21 * 60 + 41, log: "file=0eca9931c32548097f1fbe99b2f81b1c11bddb26;bomb=V00EU8", completer: "ManiaMate" },
+    {
+      time: 11 * 60 + 46,
+      vid: "https://youtu.be/FIRZD2Q4zeU",
+      completers: { defuser: "Danielstigman", experts: ["Kilo Bites", "Mythers"] },
+    },
     {
       time: 9 * 60 + 56,
       log: "file=b9d5c0d6bb2d6fbe64ffbeadc3dcb4833715edc3;bomb=PW4TA7",

@@ -31,6 +31,11 @@ export const experienced_efm: MissionInfo = {
     },
     { time: 16 * 60 + 7, log: "file=aab85d061c477440a7d4594f76f45cbbce7a7b38;bomb=ML4QR3", completer: "Benjamin" },
     { time: 14 * 60 + 40, log: "file=c6415c81e6c2f35289d7235bbdb3181f0f2c1ef1;bomb=KE8EQ7", completer: "ManiaMate" },
+    {
+      time: 13 * 60 + 28,
+      log: "file=fd72aefde8ca84f21da3f82c441351c1a9da79ae;bomb=IC5DE6",
+      completers: { defuser: "Aaron Kitty Boiii", experts: ["SkipzPlays", "Striker"] },
+    },
     { time: 12 * 60 + 18, vid: "https://www.youtube.com/watch?v=IAou0KPvcAM", completer: "Senri" },
     {
       time: 12 * 60 + 6,
@@ -50,6 +55,7 @@ export const experienced_efm: MissionInfo = {
     { time: 10 * 60 + 25, log: "file=00ce95350d22499564cceb842d8dd90f0ba51403;bomb=8R8HM3", completer: "Pokemine" },
     { time: 10 * 60 + 9, log: "file=f79f038b6c8485ccf3ab237bd22984dedbf7fa82;bomb=XE6KV7", completer: "Diffuse" },
     { time: 8 * 60 + 51, vid: "https://www.youtube.com/watch?v=URzHoKaY9H4&feature=youtu.be", completer: "GreenPower" },
+    { time: 8 * 60, log: "file=b0a31b81f5934ac9bdafe49c47b193638e70cb7a;bomb=MV4CQ6", completer: "VFlyer" },
     { time: 6 * 60 + 35, log: "file=a06094e612831c4fddd147ac1c833f9b2dabcb30;bomb=RB5TT4", completer: "Lone" },
     { time: 6 * 60 + 18, log: "file=8f14d680e85bdfd87fd9c1c2c3e6b0aa6d0019f9;bomb=BW3SL6", completer: "Ugh_Sunlight" },
     { time: 5 * 60 + 12, log: "file=fcfaab7e4774893f9de67c93d52b1298ce1488d6;bomb=EU4AS1", completer: "Shummel" },

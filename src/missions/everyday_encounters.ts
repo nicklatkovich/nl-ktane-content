@@ -20,6 +20,7 @@ export const everyday_encounters: MissionInfo = {
       vid: "https://www.youtube.com/watch?v=IK_hlP2z4vY&feature=youtu.be",
       completer: "Draket",
     },
+    { time: 10 * 60 + 28, log: "file=f674b2ef979b184844ff390c5ed36ba996145613;bomb=HN5FA5", completer: "Ugh_Sunlight" },
     { time: 10 * 60 + 25, log: "file=e00b3d67db4a03873019a0b0594f659d02a96fc1;bomb=CT2AG6", completer: "tandyCake" },
     { time: 7 * 60 + 35, log: "file=e0a2bd1806055f1dfcc5c75c251f0c22da09e124;bomb=US3EL2", completer: "ManiaMate" },
     { time: 6 * 60 + 54, log: "file=08839b3077c97cd2bb1493bff4e0e2ad8e309c8b;bomb=858SJ5", completer: "Crazycaleb" },
@@ -44,6 +45,7 @@ export const everyday_encounters: MissionInfo = {
       completers: { defuser: "Zefod", experts: ["Deaf", "Fish"] },
     },
     { time: 33, vid: "https://www.youtube.com/watch?v=3_2bIZ1dH0U", completer: "Benjamin" },
+    { time: 30, log: "file=018f14cc46f5969ef293d42f7eed1d1f1363af3e;bomb=957PH4", completer: "Puddle" },
   ],
   modules: [
     "algebra",

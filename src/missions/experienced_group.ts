@@ -13,6 +13,7 @@ export const experienced_group: MissionInfo = {
       completers: { defuser: "Zefod", experts: ["Edan", "ManiaMate"] },
     },
     { time: 22 * 60 + 7, log: "file=a59ef242d4e336015f5b4b111e70558d9a81a4c7;bomb=KJ5QE1", completer: "LegendWilleh" },
+    { time: 18 * 60 + 24, log: "file=161cdd3a4b674c7320eb2bc74dbba1a8ff86be3f;bomb=1F1EV7", completer: "Puddle" },
     { time: 17 * 60 + 35, log: "file=218ebcf75208ed3e06102765eebdd8588cda3427;bomb=0B5EX5", completer: "Megum" },
     {
       time: 15 * 60 + 27,
@@ -23,6 +24,11 @@ export const experienced_group: MissionInfo = {
       time: 13 * 60 + 56,
       vid: "https://www.youtube.com/watch?v=AuIfY0pL8iw",
       completers: { defuser: "Bianca", experts: ["Benjamin"] },
+    },
+    {
+      time: 11 * 60 + 22,
+      log: "file=f2cd5ba6037b22110e57899c08320d55c407973a",
+      completers: { defuser: "MageMage", experts: ["weird", "Wheaty"] },
     },
     {
       time: 10 * 60 + 36,
@@ -54,6 +60,11 @@ export const experienced_group: MissionInfo = {
       time: 7 * 60 + 47,
       vid: "https://www.youtube.com/watch?v=7pH7mgfl6WQ",
       completers: { defuser: "Wheaty", experts: ["Copperkettle", "Whalien"] },
+    },
+    {
+      time: 6 * 60 + 17,
+      log: "file=b6623eaa29bc830e67ea268a0a33b88721ad6960;bomb=2P4NG2",
+      completers: { defuser: "PippyInATopHat", experts: ["Cookiepocalypse", "Pilicious"] },
     },
     { time: 6 * 60 + 3, log: "file=8e0ac8cbf2e70c22508cb12e37d271ad62b61d66;bomb=FJ1IE9", completer: "Garuda" },
     {

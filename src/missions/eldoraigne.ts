@@ -53,6 +53,7 @@ export const eldoraigne: MissionInfo = {
       log: "file=9b97cad494c327ffde5a3f9f5d25d7c46d94f29b;bomb=WK1WJ0",
       completers: { defuser: "Wheaty", experts: ["Crazycaleb"] },
     },
+    { time: 17 * 60 + 40, log: "file=8ece579055c8564d869cd3985e03385fd695530d;bomb=C08XL7", completer: "Danumbah" },
     { time: 17 * 60 + 32, log: "file=158fc934371a8424062701b72967a458420ca6a0;bomb=JT9IT5", completer: "Megum" },
     {
       time: 16 * 60 + 58,
@@ -66,6 +67,11 @@ export const eldoraigne: MissionInfo = {
       completers: { defuser: "Wheaty", experts: ["Zaakeil"] },
     },
     {
+      time: 14 * 60 + 24,
+      log: "file=ddb25ce232bcd994f9f780bc81487fdb61df8e54;bomb=SZ4QL5",
+      completers: { defuser: "Wheaty", experts: ["Kuro"] },
+    },
+    {
       time: 14 * 60 + 19,
       log: "file=8f9523a8e9adac69a0a18d03cedeb6f43951d163;bomb=AI2WE1",
       completers: { defuser: "Wheaty", experts: ["tandyCake"] },
@@ -76,15 +82,27 @@ export const eldoraigne: MissionInfo = {
       completers: { defuser: "Wheaty", experts: ["Deaf"] },
     },
     {
+      time: 13 * 60 + 35,
+      log: "file=1503aa1c6b2e2ecd2e5ed5e15ecbec8ba3ae8166;bomb=KF2BE7",
+      completers: { defuser: "Wheaty", experts: ["Coolpapabell"] },
+    },
+    {
+      time: 12 * 60 + 40,
+      log: "file=3b0ed90e7e766c4002b2f21b8b29a144930ac2ec;bomb=214AU5",
+      completers: { defuser: "Wheaty", experts: ["Tarutao"] },
+    },
+    {
       time: 12 * 60 + 26,
       log: "file=fc666aa08e31c1bdee12f6e2dea36a312514bf26;bomb=6W0BQ3",
       completers: { defuser: "Wheaty", experts: ["Danielstigman"] },
     },
     {
       time: 12 * 60 + 9,
+      vid: "https://www.youtube.com/watch?v=g1bgimoaNGA",
       log: "file=06e0ccb2af272bb71c74bcf82a4a907ea6f29a8d;bomb=HR1NX0",
       completers: { defuser: "Wheaty", experts: ["Depresso", "Espik", "Whalien"] },
     },
+    { time: 11 * 60 + 37, log: "file=f54430081b2ac5d938d8ceeeb4af9a82c94be10c;bomb=XR9KS6", completer: "Wheaty" },
     {
       time: 11 * 60 + 24,
       log: "file=c18b08b2be7d6a13f63f298d5677595f565cb5d2;bomb=AT2DS7",
@@ -99,6 +117,11 @@ export const eldoraigne: MissionInfo = {
       time: 11 * 60 + 21,
       log: "file=2f2dcbb76deba08e063f9f0fd72c66fc66bf6d65;bomb=KR5EQ0",
       completers: { defuser: "Wheaty", experts: ["weird"] },
+    },
+    {
+      time: 11 * 60 + 12,
+      log: "file=a5eadb022e1300b0482f5b27eaac6e1937106fe7;bomb=JN3DW3",
+      completers: { defuser: "Wheaty", experts: ["Sonoko Sakanoue"] },
     },
     {
       time: 10 * 60 + 35,
@@ -130,6 +153,11 @@ export const eldoraigne: MissionInfo = {
       log: "file=71e6e5cfbd57082f602da9f871ebdb877ba1f0e8;bomb=TD8NX2",
       completers: { defuser: "Wheaty", experts: ["Goodhood"] },
     },
+    {
+      time: 8 * 60 + 39,
+      log: "file=556981d146218720064528ccda7bc6a7a3247d9a;bomb=3A7PC4",
+      completers: { defuser: "Wheaty", experts: ["Mythers"] },
+    },
     { time: 8 * 60 + 34, log: "file=f1c0864ad214ee907f327850d363661b570ff9e6;bomb=TI8WK4", completer: "Zefod" },
     {
       time: 8 * 60 + 30,
@@ -141,7 +169,11 @@ export const eldoraigne: MissionInfo = {
       vid: "https://www.youtube.com/watch?v=33gYiD3ESXU",
       completers: { defuser: "Deaf", experts: ["Blananas", "Fish"] },
     },
-    { time: 7 * 60 + 44, log: "file=861ad4cfa4b7cf8c755b8bb373c055ead522c6cb", completer: "Danumbah" },
+    {
+      time: 7 * 60 + 55,
+      log: "file=adfebc8fd37a4f266badcc757c8b2dbc5b096aff;bomb=G36VG0",
+      completers: { defuser: "SkipzPlays", experts: ["Aaron Kitty Boiii", "Striker"] },
+    },
     { time: 7 * 60 + 36, vid: "https://www.youtube.com/watch?v=jQXQUzZSbS0", completer: "Espik" },
     {
       time: 7 * 60 + 32,
@@ -163,18 +195,48 @@ export const eldoraigne: MissionInfo = {
       log: "file=fd60e7252060dd68b67e6e9221afd257852d226b;bomb=AP2QM5",
       completers: { defuser: "Wheaty", experts: ["Orinami"] },
     },
-    { time: 7 * 60 + 3, log: "file=84db0d4514c0713095ca12c1cec1db1291960c27;bomb=P44NP9", completer: "Wheaty" },
     {
       time: 6 * 60 + 58,
       log: "file=fb8d845e8fbc967d8e1945cf2495b0ca5f5f8ee9;bomb=L24HB2",
       completers: { defuser: "Želvík", experts: ["Asmir", "Cirax"] },
     },
     {
+      time: 6 * 60 + 45,
+      log: "file=d1873b19b950f33fee68e29e57d9531497819362;bomb=E04NB2",
+      completers: { defuser: "Wheaty", experts: ["Aaron Kitty Boiii"] },
+    },
+    { time: 6 * 60 + 30, log: "file=c54e703b7f6f36bdcb2adeaac584e80d6429eef1;bomb=V45VM8", completer: "SkipzPlays" },
+    {
       time: 6 * 60 + 25,
       vid: "https://www.youtube.com/watch?v=55jAj-ijjxI",
       completers: { defuser: "PowerSlaveAlfons", experts: ["EthanH", "S."] },
     },
+    {
+      time: 6 * 60 + 20,
+      log: "file=b14b02e7f4d0efa29c0f04496bd2918fa1b0cd3d;bomb=J82QR0",
+      completers: { defuser: "Wheaty", experts: ["Striker"] },
+    },
+    {
+      time: 6 * 60 + 17,
+      log: "file=fe890e66d3a2d526175e6768b8a85baf58fa2cd9;bomb=177NV4",
+      completers: { defuser: "Wheaty", experts: ["Axodeau"] },
+    },
+    {
+      time: 6 * 60 + 12,
+      log: "file=a6a9666f1dc79085b8ff2804fe01e53824eb48c2;bomb=CH8EL5",
+      completers: { defuser: "Kuro", experts: ["SkipzPlays", "Striker"] },
+    },
+    {
+      time: 5 * 60 + 57,
+      log: "file=26c294278fa2e0684d132cfaa4002fe724b5c5f3;bomb=464UN8",
+      completers: { defuser: "Wheaty", experts: ["angel shaaark"] },
+    },
     { time: 5 * 60 + 27, log: "file=c72a234c5e9bb7b1af8bb6fc6b55d0a04b095838;bomb=JM6SA6", completer: "ManiaMate" },
+    {
+      time: 5 * 60 + 10,
+      log: "file=8a20b0572cee297bf6877a56b2ba22f2af1af3bf;bomb=W89VI9",
+      completers: { defuser: "Wheaty", experts: ["neo_"] },
+    },
     {
       time: 5 * 60 + 6,
       log: "file=efacd70b492d8bdeed210b434d78bd35f8303d26;bomb=E92RE6",
@@ -209,6 +271,11 @@ export const eldoraigne: MissionInfo = {
       completers: { defuser: "Wheaty", experts: ["Mr. Punchy"] },
     },
     {
+      time: 4 * 60 + 4,
+      log: "file=975048bed8b3ade3c3dc895a27b945dc16e6b640;bomb=HD6PE7",
+      completers: { defuser: "Wheaty", experts: ["Lebossle"] },
+    },
+    {
       time: 3 * 60 + 54,
       isFirst: true,
       vid: "https://www.youtube.com/watch?v=oOfphwiBz-E",
@@ -219,6 +286,7 @@ export const eldoraigne: MissionInfo = {
       log: "file=13f9c94e4d9b32199c35695c76ecc2f89bc4e592;bomb=B33PF9",
       completers: { defuser: "Wheaty", experts: ["Puddle"] },
     },
+    { time: 3 * 60 + 52, log: "file=7baf6c098717790b64f712f8979fb960aad45a1d;bomb=E92AE0", completer: "Cure Chronos" },
     {
       time: 3 * 60 + 51,
       log: "file=026249ffd73e11b439e98219b4e32ef3065caa3f;bomb=MN1RE1",
@@ -241,10 +309,21 @@ export const eldoraigne: MissionInfo = {
       completers: { defuser: "Orinami", experts: ["Lily", "Sierra"] },
     },
     {
+      time: 3 * 60 + 19,
+      log: "file=727d863c9d3c0086791003da069791e1fead3cd3;bomb=NL1AF0",
+      completers: { defuser: "Wheaty", experts: ["Badnoch"] },
+    },
+    {
       time: 3 * 60 + 9,
       vid: "https://www.youtube.com/watch?v=yXOJpU_HhmU",
       completers: { defuser: "Bianca", experts: ["Benjamin"] },
     },
+    {
+      time: 3 * 60 + 5,
+      log: "file=a6056983219d29298a992db0568f0c4b0a2d74d3;bomb=FC9CC6",
+      completers: { defuser: "Wheaty", experts: ["VFlyer"] },
+    },
+    { time: 2 * 60 + 57, log: "file=cff00f19423df0f7593fa037f43edb454705490b;bomb=4J4BX2", completer: "SkipzPlays" },
     {
       time: 2 * 60 + 55,
       log: "file=0fbd2c9fa27851f9b7df75e9667a8cc5782e22c8;bomb=TR0DS8",
@@ -263,12 +342,32 @@ export const eldoraigne: MissionInfo = {
     },
     { time: 2 * 60 + 11, log: "file=6ce0ed8edd7627951d2471c8335d8b3913128828;bomb=RJ2PW7", completer: "Puddle" },
     {
+      time: 2 * 60 + 1,
+      log: "file=3054f1bdd87e4e09b917514d4e4d73111e56bcf2;bomb=744EB4",
+      completers: { defuser: "Wheaty", experts: ["Copperkettle"] },
+    },
+    {
       time: 1 * 60 + 50,
       log: "file=72194dc9b71c23fdb572e7c30f30e7efa475eb73;bomb=4D6CU1",
       completers: { defuser: "Wheaty", experts: ["Arceus"] },
     },
+    {
+      time: 1 * 60 + 24,
+      log: "file=6a4773510dbe11a6dafcb007424a1a49598cd093;bomb=NB4TQ0",
+      completers: { defuser: "Wheaty", experts: ["Andrio Celos"] },
+    },
+    {
+      time: 1 * 60 + 19,
+      log: "file=f031c7ac817cb0796462de7ff1132c510283a231;bomb=E78RS2",
+      completers: { defuser: "Wheaty", experts: ["SkipzPlays"] },
+    },
     { time: 1 * 60 + 3, log: "file=0e5711c4fa809dd37c87e5d0af3fb5f9dcbde63c;bomb=WN0UG2", completer: "Ugh_Sunlight" },
     { time: 58, log: "file=0f3e9db7aa199e3d92e2eac86f33a80eb0a71623;bomb=G82FJ5", completer: "Crazycaleb" },
+    {
+      time: 50,
+      log: "file=387755fe2d8752392225c510d319325b465d0961;bomb=JS3JD0",
+      completers: { defuser: "Striker", experts: ["Kuro", "SkipzPlays"] },
+    },
     {
       time: 48,
       log: "file=4566d5159d99a6b6b76f73e90578217522160fac;bomb=V94EK0",
@@ -291,7 +390,10 @@ export const eldoraigne: MissionInfo = {
       log: "file=e11b0588d9c769c93dded90413de828b7c63aa01;bomb=KF1FN0",
       completers: { defuser: "Wheaty", experts: ["Byron Krane"] },
     },
+    { time: 17, log: "file=c5abff87613b83d40cf6abe695cfb6d728f7cce6;bomb=K59ZK3", completer: "Aaron Kitty Boiii" },
     { time: 11, vid: "https://www.youtube.com/watch?v=kTCstZW2I8s&feature=youtu.be", completer: "t-chen" },
+    { time: 5, log: "file=ff22d69eaf08e47b2d9eff008374ee5fe4653b92;bomb=UV3EX7", completer: "Kuro" },
+    { time: 0, log: "file=1d538a45d2ebae9db0f579d62109b797eb0393eb", completer: "RandomKugelblitz" },
   ],
   modules: [
     "Probing",
