@@ -53,6 +53,7 @@ export const simplifier: MissionInfo = {
       completer: "RandomKugelblitz",
     },
     { time: 13 * 60 + 30, log: "file=1da1dd97c7ab7ec4a634a4d5004a89d9d0ddd1f3;bomb=QP7JD4", completer: "ManiaMate" },
+    { time: 13 * 60 + 18, vid: "https://www.youtube.com/watch?v=rzxKUpwqs5g", completer: "Gwendolyn" },
     { time: 11 * 60 + 27, log: "file=469b22ee3eb49e79ee76a5257292d2750ffbe5b5;bomb=BK4BK0", completer: "Jamessssss" },
     { time: 10 * 60 + 58, vid: "https://www.youtube.com/watch?v=-wU_EwhuzBI", completer: "Crazycaleb" },
     { time: 10 * 60, log: "file=08677e56de1feaccefd941e6c0536c1b9a01958d;bomb=CZ4TI2", completer: "Burniel" },

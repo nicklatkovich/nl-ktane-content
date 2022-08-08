@@ -35,6 +35,7 @@ export const second_riptide: MissionInfo = {
       completers: { defuser: "Vincology", experts: ["Crazycaleb", "Garuda"] },
     },
     { time: 4 * 60, log: "file=5fa43eb9ec80ec5b2aa64937e6dcf8b6ecb34e20;bomb=5T9CC5", completer: "LegendWilleh" },
+    { time: 3 * 60 + 58, log: "file=23e427b0673013ae3ce2983f2c72af074f64cee8", completer: "Danumbah" },
     {
       time: 2 * 60 + 59,
       log: "file=e64123a1be324c7a9cfe117acdaf567db83dc22b;bomb=WV0HN8",

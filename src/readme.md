@@ -43,6 +43,7 @@ TODO: ADD MANUALLY:
 * `Series Of Similarities`
 * `Seven Deadly Sins`
 * `Short Term, Big Effort`
+* `Scuffed Beyond Repair`
 * `Similar Thoughts, Complicated Measures`
 * `Tachturion (Easy)`
 * `Storm Before The Calm x3`
