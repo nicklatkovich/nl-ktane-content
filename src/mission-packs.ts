@@ -123,4 +123,6 @@ export const missionPacks: MissionPack[] = [
   { name: "The World's Greatest Mission Pack", author: "Dicey", steamId: 2513236161 },
   { name: "XP4 Heroes Missions", author: "Tachatat", steamId: 2006022885 },
   { name: "The Zulu Bravo", author: "Procyon", steamId: 1736844622 },
+  { name: "ShadowMeow's Verbally Challenge Pack", author: "ShadowMeow", steamId: 2794540634 },
+  { name: "Sunlight's Solarium of Surmountable Situations", author: "Ugh_Sunlight", steamId: 2522601329 },
 ];
