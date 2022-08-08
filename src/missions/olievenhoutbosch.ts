@@ -13,11 +13,22 @@ export const olievenhoutbosch: MissionInfo = {
       completers: { defuser: "Wheaty", experts: ["MásQuéÉlite", "Whalien"] },
     },
     {
+      time: 17 * 60 + 53,
+      log: "file=a734b0e107fa371c458b630bed931e27d770c30c;bomb=MU0NB3",
+      completers: { defuser: "Wheaty", experts: ["Espik", "Striker"] },
+    },
+    {
+      time: 16 * 60 + 45,
+      log: "file=fb89b9d3874ad5651a7f3785cbc55a9d929d93b5;bomb=Q47CZ7",
+      completers: { defuser: "Puddle", experts: ["Whalien"] },
+    },
+    {
       time: 16 * 60 + 31,
       vid: "https://www.youtube.com/watch?v=oAeSJXslg88",
       completers: { defuser: "Deaf", experts: ["Blananas", "Fish"] },
     },
     { time: 16 * 60 + 21, log: "file=fd9b12c90acde8be404066834ae32612be63704f;bomb=QM3LT8", completer: "Megum" },
+    { time: 12 * 60 + 16, log: "file=8fa01198d5163d4bfac6adba05c90058da333443;bomb=N05EK3", completer: "Pokemine" },
     {
       time: 10 * 60 + 57,
       log: "file=f16b4aeb1929269b934fd5fa8fac850cfbff74c4;bomb=1B6DU3",
@@ -34,6 +45,11 @@ export const olievenhoutbosch: MissionInfo = {
       completers: { defuser: "Wheaty", experts: ["Copperkettle", "MageMage"] },
     },
     { time: 10 * 60 + 23, vid: "https://www.youtube.com/watch?v=BI-Yb1qCt74", completer: "Whalien" },
+    {
+      time: 10 * 60 + 10,
+      log: "file=a19fd6800b9dfb797c1229d83341044b1e9cfaf1;bomb=TG9PA8",
+      completer: "Aaron Kitty Boiii",
+    },
     { time: 9 * 60 + 55, log: "file=d8a87390026aa457a11dfb45bb742174d8fc4cc2;bomb=M61IB0", completer: "Wheaty" },
     {
       time: 9 * 60 + 28,
@@ -52,6 +68,11 @@ export const olievenhoutbosch: MissionInfo = {
       vid: "https://www.youtube.com/watch?v=F_gfgdkUe-Y",
       completers: { defuser: "Orinami", experts: ["Lily", "Sierra"] },
     },
+    {
+      time: 7 * 60 + 41,
+      log: "file=7ccc6438ace7e5c51bc77825667325ac347a2f6a;bomb=7T3BU6",
+      completers: { defuser: "Striker", experts: ["Aaron Kitty Boiii", "Puddle"] },
+    },
     { time: 7 * 60 + 22, log: "file=6d06ddd47f8f8774de2e73fcc52ac071ecd2eeb0;bomb=VE3HF7", completer: "t-chen" },
     {
       time: 7 * 60 + 15,
@@ -64,6 +85,11 @@ export const olievenhoutbosch: MissionInfo = {
       completers: { defuser: "Dicey", experts: ["Azzaman", "bioplay"] },
     },
     {
+      time: 6 * 60 + 5,
+      log: "file=59a2b06b7116d48470f59e49882507db699b60ab;bomb=AQ3EJ8",
+      completers: { defuser: "SkipzPlays", experts: ["Aaron Kitty Boiii", "Cure Chronos"] },
+    },
+    {
       time: 5 * 60 + 24,
       log: "file=186ec6e497347b669cf3f94a28a254038b4b15b5;bomb=GD7FB6",
       completers: { defuser: "Wheaty", experts: ["Iniir", "MageMage"] },
@@ -74,10 +100,17 @@ export const olievenhoutbosch: MissionInfo = {
       log: "file=086dd1364389e8732224996666183c175b024f62;bomb=2G9SH5",
       completers: { defuser: "Wheaty", experts: ["DeaderSurvival", "weird"] },
     },
+    { time: 4 * 60 + 16, log: "file=767de948fa3966f03ed6dfc547b3e14613d3ddaf;bomb=EX4LQ2", completer: "SkipzPlays" },
     {
       time: 4 * 60 + 14,
       log: "file=179f4c2f16ac88780aec1901f15700f647adbd9c;bomb=6R4RN6",
       completers: { defuser: "Cookiepocalypse", experts: ["KittyAshy", "Zaakeil"] },
+    },
+    { time: 4 * 60 + 1, log: "file=43a4cce37b21647b1250d1e388690d185826744e;bomb=FV4EU1", completer: "Ugh_Sunlight" },
+    {
+      time: 3 * 60 + 47,
+      log: "file=7dd50ea6ced6d03c5f6ffb028afd52a7a333178b;bomb=F10DD6",
+      completer: "RandomKugelblitz",
     },
     {
       time: 3 * 60 + 38,
@@ -89,11 +122,22 @@ export const olievenhoutbosch: MissionInfo = {
       vid: "https://www.youtube.com/watch?v=6h28UDcD4N8",
       completers: { defuser: "PowerSlaveAlfons", experts: ["EthanH", "S."] },
     },
+    {
+      time: 2 * 60 + 46,
+      log: "file=d0b4e84e33faea7eb06a647a3262515f075a1ec2;bomb=5N8UQ2",
+      completers: { defuser: "Wheaty", experts: ["Kuro", "SkipzPlays"] },
+    },
+    { time: 2 * 60 + 20, log: "file=fb12e2ed9827b0b3f0447d799ece2ff026d8efb9;bomb=GM3IN6", completer: "Kuro" },
     { time: 2 * 60 + 9, log: "file=281d626955a19b72ef576e082e2214c575693db1;bomb=915PU7", completer: "Burniel" },
     {
       time: 1 * 60 + 18,
       log: "file=344dc659dae599ef12ea8aa805a7ebd98fb3dac0;bomb=K80QU0",
       completers: { defuser: "Cure Chronos", experts: ["Wheaty"] },
+    },
+    {
+      time: 34,
+      log: "file=59f6bd76ef2cabb0fb327d285acbe4ec9d4340be;bomb=HK5KH8",
+      completers: { defuser: "Kuro", experts: ["Striker"] },
     },
     {
       time: 32,

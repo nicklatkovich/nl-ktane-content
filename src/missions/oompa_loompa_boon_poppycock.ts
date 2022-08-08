@@ -12,8 +12,14 @@ export const oompa_loompa_boon_poppycock: MissionInfo = {
       vid: "https://www.youtube.com/watch?v=WX0cZWorfcY",
       completers: { defuser: "Deaf", experts: ["Blananas", "Fish"] },
     },
+    {
+      time: 17 * 60 + 14,
+      log: "file=5e50de2292dbb0ef50f96b1806d652567b93d799;bomb=NE9LV5",
+      completers: { defuser: "SkipzPlays", experts: ["Aaron Kitty Boiii", "Striker"] },
+    },
     { time: 15 * 60 + 57, log: "file=3eb4075c9662b5ac17ad81cd001d7a86bab069ae;bomb=GR2VE0", completer: "Asew" },
     { time: 14 * 60 + 58, log: "file=ce4d3a790430e922b4e6937b4da3c753e475a628;bomb=C36EQ6", completer: "Danumbah" },
+    { time: 14 * 60 + 54, log: "file=b54e02f6a712547c0bebf3c700c81a9d98f16ae4;bomb=CN0AC7", completer: "Whalien" },
     {
       time: 14 * 60 + 15,
       vid: "https://www.youtube.com/watch?v=n7qCCrOeNcY",
@@ -33,6 +39,7 @@ export const oompa_loompa_boon_poppycock: MissionInfo = {
     { time: 10 * 60 + 45, log: "file=5d15ceb9bfb5b05f75fed414278e033fb874bba2;bomb=SV0DQ0", completer: "Burniel" },
     { time: 10 * 60 + 22, log: "file=8b35bf257da5e29d5d9c292419544de6f76be9b2;bomb=W60TB1", completer: "t-chen" },
     { time: 9 * 60 + 20, log: "file=5f64f060a36de34c749f278d08d7b0994c971820;bomb=NM9SB7", completer: "ManiaMate" },
+    { time: 8 * 60 + 25, log: "file=a71e76afc17b4a1dc949b5844b1ecc2576e3e1e2;bomb=803FR5", completer: "Megum" },
     { time: 7 * 60 + 51, log: "file=3db2f68dfdded37b05f526d0ef646f3ffb28a6b8;bomb=218WW2", completer: "Vincology" },
     { time: 7 * 60 + 28, log: "file=4aed81db4c3baa06c1dbd9b52b49c5e8e3aba04a;bomb=SZ9LJ6", completer: "Ulv" },
     {
@@ -46,6 +53,11 @@ export const oompa_loompa_boon_poppycock: MissionInfo = {
       completers: { defuser: "Benjamin", experts: ["Bianca", "MásQuéÉlite"] },
     },
     {
+      time: 6 * 60 + 11,
+      log: "file=31620d637f0cf8429649920ddce86c1d8eaf4f76;bomb=7V9AB4",
+      completers: { defuser: "Espik", experts: ["Striker", "Wheaty"] },
+    },
+    {
       time: 6 * 60 + 1,
       log: "file=c8de6ae7caa869d6bdbfb119ca8ea92efa84100a;bomb=Q49RG6",
       completers: { defuser: "Cure Chronos", experts: ["Danumbah"] },
@@ -53,9 +65,20 @@ export const oompa_loompa_boon_poppycock: MissionInfo = {
     { time: 5 * 60 + 57, vid: "https://www.youtube.com/watch?v=1ZhTPcnlHKc", completer: "tandyCake" },
     { time: 5 * 60 + 52, log: "file=3511d1b9c034c1849f29e1f7b679f53b4c27fcba;bomb=E15DR9", completer: "Benjamin" },
     { time: 5 * 60 + 23, log: "file=371d01196e3d9efff3b960d95f8bc94ab301a266;bomb=SN4PB9", completer: "Garuda" },
+    { time: 5 * 60 + 22, log: "file=c3064dee67829c4bffca5e41d37be9a74bd8cb9b;bomb=WC1HE0", completer: "Ugh_Sunlight" },
     { time: 4 * 60 + 27, log: "file=79b0a48d10d309274f32ec4b5e3b78d4357754e2;bomb=2E1ES9", completer: "Superstep" },
     { time: 3 * 60 + 39, log: "file=f89f373e1a839276ec2a925f2d52a7e6b8335f93;bomb=SP2TH0", completer: "Asmir" },
+    {
+      time: 3 * 60 + 12,
+      log: "file=ca44f75f5dc29a1b34bbde4e0b4816bb62cb9db2;bomb=RC8GA0",
+      completers: { defuser: "Tarutao", experts: ["SkipzPlays", "Wheaty"] },
+    },
     { time: 1 * 60 + 38, log: "file=24f468859d401dd6abaaa9e0e8e79103327e1b53;bomb=9V8IQ6", completer: "Diffuse" },
+    {
+      time: 1 * 60 + 35,
+      log: "file=eba696445fc11c9ae36a359766d449995a5e74be;bomb=SV7IS5",
+      completer: "Aaron Kitty Boiii",
+    },
     {
       time: 1 * 60 + 18,
       log: "file=988393b9e12c5f43016dde087ab67ed48850530f;bomb=HI9DP1",

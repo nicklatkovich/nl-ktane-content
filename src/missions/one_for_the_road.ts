@@ -13,6 +13,7 @@ export const one_for_the_road: MissionInfo = {
       log: "file=acffa76b1b24878b385e5ed69825667d92ba98eb;bomb=109QD0",
       completer: "Miki2003pl",
     },
+    { time: 3 * 60 + 14, log: "file=d60be0793ba6475abd74e787a80dfef9c2c15a75;bomb=JG9PD2", completer: "Puddle" },
   ],
   modules: [
     "SetModule",

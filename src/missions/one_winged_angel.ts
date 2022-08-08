@@ -3,7 +3,6 @@ import { MissionInfo } from "nl-ktane-lib";
 export const one_winged_angel: MissionInfo = {
   name: "One Winged Angel",
   missionPack: "Kilo's Mission Pack",
-  author: "Kilo Bites",
   time: 240 * 60,
   strikes: 8,
   widgets: 5,

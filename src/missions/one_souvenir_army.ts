@@ -26,6 +26,7 @@ export const one_souvenir_army: MissionInfo = {
       completers: { defuser: "StKildaFan", experts: ["Espik", "Zefod"] },
     },
     { time: 8 * 60 + 8, vid: "https://www.youtube.com/watch?v=Gw_IIy8N23I", completer: "Senri" },
+    { time: 7 * 60 + 52, log: "file=325064d4687592c3dd5222b7329974ef327373f3;bomb=U50TQ2", completer: "Pokemine" },
     { time: 7 * 60 + 27, isFirst: true, vid: "https://www.youtube.com/watch?v=3-7ndcMKa3g", completer: "Draket" },
     {
       time: 6 * 60 + 42,
