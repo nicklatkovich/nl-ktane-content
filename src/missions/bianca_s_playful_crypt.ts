@@ -21,6 +21,7 @@ export const bianca_s_playful_crypt: MissionInfo = {
       vid: "https://www.youtube.com/watch?v=m4DqNnX7auI",
       completers: { defuser: "Benjamin", experts: ["Bianca", "BlvdBroken"] },
     },
+    { time: 1 * 60 + 26, log: "file=a2730616b99ebb4d74fb27fb77e7ecd3964da641;bomb=G01AU8", completer: "Dicey" },
     {
       time: 36,
       log: "file=15f30da3cda9bfafb89d76aefbbb8c582749842d;bomb=I73RS2",

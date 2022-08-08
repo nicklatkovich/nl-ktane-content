@@ -7,6 +7,7 @@ export const bimb: MissionInfo = {
   strikes: 6,
   widgets: 9,
   completions: [
+    { time: 50 * 60 + 40, log: "file=86e46ff4286d3d8c6ed9f8fa8f583c8f1d92e944;bomb=JU1ME2", completer: "Dicey" },
     { time: 43 * 60, log: "file=2e78427ff9c5b31d7af5ec84d0b9fb41065f2d62;bomb=JN5CR5", completer: "Asew" },
     { time: 42 * 60 + 1, log: "file=6ca63bd96ad8e5e8dc1c6fef903c5e6ec79fc50a;bomb=JQ1XE7", completer: "LegendWilleh" },
     {
@@ -24,6 +25,11 @@ export const bimb: MissionInfo = {
       time: 21 * 60 + 3,
       log: "file=25cb60e9d8ed9eae95607d9bbc2a854d39f42dcf",
       completers: { defuser: "Burniel", experts: ["Garuda"] },
+    },
+    {
+      time: 5 * 60 + 6,
+      log: "file=713d17cf71c00550e815f2c1988e84f0f1fb45db;bomb=VL3PL5",
+      completers: { defuser: "PippyInATopHat", experts: ["KittyAshy", "Zaakeil"] },
     },
   ],
   solvedByTP: true,

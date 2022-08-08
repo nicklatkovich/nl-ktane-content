@@ -8,6 +8,7 @@ export const bomb_shapiro_destroys_defusal_squad_with_facts_and_explosions: Miss
   widgets: 5,
   completions: [
     { time: 5 * 60 + 15, isFirst: true, vid: "https://www.youtube.com/watch?v=m41kzGD3saE", completer: "Draket" },
+    { time: 4 * 60 + 59, log: "file=f23e42a4eaa378ff7b7fcfe54ca2150f05aadc46;bomb=H42SM8", completer: "ManiaMate" },
   ],
   modules: [
     "CoordinatesModule",

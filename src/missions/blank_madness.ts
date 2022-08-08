@@ -7,6 +7,7 @@ export const blank_madness: MissionInfo = {
   strikes: 4,
   widgets: 5,
   completions: [
+    { time: 36 * 60 + 21, log: "file=3df0b8c92de2b40653a073059afd8cce8f7f3e63;bomb=334HG4", completer: "Ugh_Sunlight" },
     {
       time: 35 * 60 + 35,
       isFirst: true,

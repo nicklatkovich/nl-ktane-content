@@ -7,6 +7,7 @@ export const before_times: MissionInfo = {
   strikes: 6,
   widgets: 5,
   completions: [
+    { time: 38 * 60 + 13, log: "file=1ac5f3461e49ebe070bc6acef929b214868b60c1;bomb=QN7HM3", completer: "Dicey" },
     {
       time: 37 * 60 + 53,
       log: "file=8cca2552d29bfb660356da90782d61bde35362a0;bomb=CK6SI3",
@@ -39,6 +40,11 @@ export const before_times: MissionInfo = {
       time: 13 * 60 + 33,
       vid: "https://www.youtube.com/watch?v=rCQbJ_UDU6g",
       completers: { defuser: "Deaf", experts: ["aGood_Usernam3", "Blananas", "Fish"] },
+    },
+    {
+      time: 12 * 60 + 41,
+      vid: "https://www.youtube.com/watch?v=P3kmV00EP7U",
+      completers: { defuser: "Araca", experts: ["MásQuéÉlite", "twinightcreep0"] },
     },
     { time: 3 * 60 + 25, log: "file=29f69357397bddeaaeab43f8b99e91f9f9d6b678;bomb=MI0UZ9", completer: "Burniel" },
     {

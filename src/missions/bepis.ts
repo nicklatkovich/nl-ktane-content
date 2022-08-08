@@ -3,7 +3,6 @@ import { MissionInfo } from "nl-ktane-lib";
 export const bepis: MissionInfo = {
   name: "Bepis",
   missionPack: "Kilo's Mission Pack",
-  author: "Kilo Bites",
   time: 75 * 60,
   strikes: 7,
   widgets: 5,
@@ -15,6 +14,7 @@ export const bepis: MissionInfo = {
       completer: "Edan",
     },
     { time: 8 * 60 + 40, log: "file=8dd945f7cb95c528b988a15f9ee4d93aa3fb52ec;bomb=CB2SA6", completer: "Asew" },
+    { time: 5 * 60 + 59, log: "file=74b3d242916e3858e60ca553a7bb92792f052421;bomb=HP7TZ7", completer: "Dicey" },
   ],
   modules: [
     "memorableButtons",
