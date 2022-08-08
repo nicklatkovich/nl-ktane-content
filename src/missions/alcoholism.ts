@@ -18,6 +18,11 @@ export const alcoholism: MissionInfo = {
       vid: "https://www.youtube.com/watch?v=jLUuyoTaDiw",
       completers: { defuser: "Benjamin", experts: ["Megum"] },
     },
+    {
+      time: 13 * 60 + 1,
+      vid: "https://www.twitch.tv/videos/1528849413",
+      completers: { defuser: "Espik", experts: ["Crazycaleb", "Fish"] },
+    },
   ],
   solvedByTP: true,
   modules: [

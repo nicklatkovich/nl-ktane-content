@@ -7,6 +7,7 @@ export const a_not_so_hard: MissionInfo = {
   strikes: 5,
   widgets: 5,
   completions: [
+    { time: 19 * 60 + 55, log: "file=df3772ab3b8943c1c4cd1dc995681fdc61231c31;bomb=EL6XZ3", completer: "Miki2003pl" },
     { time: 17 * 60 + 3, log: "file=0ecc0e2c8452fe7ef1987bc17a26357807248244;bomb=L43BH8", completer: "LegendWilleh" },
     {
       time: 17 * 60 + 3,

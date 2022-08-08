@@ -16,6 +16,16 @@ export const acrux: MissionInfo = {
     },
     { time: 11 * 60 + 52, log: "file=90ce24a3d492167b043b2dfca41de260360054d2;bomb=2C8RV1", completer: "tandyCake" },
     {
+      time: 8 * 60 + 32,
+      log: "file=e84bdabf4fe8f459037ef5d261570d3c8e28a91f;bomb=RL4UQ3",
+      completers: { defuser: "Deaf", experts: ["Blananas", "Fish"] },
+    },
+    {
+      time: 6 * 60 + 18,
+      vid: "https://www.youtube.com/watch?v=NDrj6ZNAkfM&t=3775s",
+      completers: { defuser: "SillyPuppy", experts: ["Rexkix", "Skyeward"] },
+    },
+    {
       time: 4 * 60 + 58,
       log: "file=4aa82d724023422f76d81ee6615749034f865f91;bomb=L22DA8",
       completers: { defuser: "Zefod", experts: ["Edan", "ManiaMate"] },

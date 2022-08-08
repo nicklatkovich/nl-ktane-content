@@ -35,7 +35,12 @@ export const arcturian: MissionInfo = {
       vid: "https://www.youtube.com/watch?v=-pROHECVrhA",
       completers: { defuser: "Zefod", experts: ["Fish", "SillyPuppy"] },
     },
-    { time: 19, log: "file=f9c4e01f9a40ca602a9c26300d7ebe0a58d3b88f;bomb=T33ZE2", completer: "Crazycaleb" },
+    {
+      time: 19,
+      vid: "https://www.youtube.com/watch?v=PI204WL3ClA",
+      log: "file=f9c4e01f9a40ca602a9c26300d7ebe0a58d3b88f;bomb=T33ZE2",
+      completer: "Crazycaleb",
+    },
   ],
   solvedByTP: true,
   modules: [

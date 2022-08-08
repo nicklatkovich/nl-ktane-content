@@ -3,7 +3,6 @@ import { MissionInfo } from "nl-ktane-lib";
 export const agent_47: MissionInfo = {
   name: "Agent 47",
   missionPack: "Kilo's Mission Pack",
-  author: "Kilo Bites",
   time: 95 * 60,
   strikes: 5,
   widgets: 5,
@@ -16,6 +15,7 @@ export const agent_47: MissionInfo = {
       completer: "Edan",
     },
     { time: 12 * 60 + 14, log: "file=9a745b1f0682d919b0e4d8a6385173aab7910bb0;bomb=G36VA6", completer: "Garuda" },
+    { time: 7 * 60 + 42, log: "file=7da44cb9b06724baf3bd95fd18cd55a03d69519e", completer: "Arceus" },
   ],
   modules: [
     "BrokenGuitarChordsModule",

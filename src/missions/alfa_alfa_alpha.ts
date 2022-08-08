@@ -12,6 +12,11 @@ export const alfa_alfa_alpha: MissionInfo = {
     { time: 13 * 60 + 5, vid: "https://www.youtube.com/watch?v=MVAAHcg6_5I", completer: "Benjamin" },
     { time: 12 * 60 + 58, log: "file=3efe1b28715318fc5f0d4001fd2c8aa488f43d1a;bomb=236SE4", completer: "Burniel" },
     {
+      time: 12 * 60 + 8,
+      log: "file=8139eae1cd0abbdb3f20725f5f34ff7cd60d11df;bomb=MB0DW9",
+      completers: { defuser: "Deaf", experts: ["Blananas", "Fish"] },
+    },
+    {
       time: 7 * 60 + 31,
       log: "file=2af578c463a0e891b9b9c9c9d8fa3f83dc80ee4c;bomb=F87LV1",
       completers: { defuser: "Zaakeil", experts: ["Cookiepocalypse", "KittyAshy"] },
