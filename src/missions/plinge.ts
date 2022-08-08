@@ -1,19 +1,25 @@
 import { MissionInfo } from "nl-ktane-lib";
 
-export const plinge_: MissionInfo = {
+export const plinge: MissionInfo = {
   name: "Plinge.",
-  missionPack: "Reach For The Stars Mission Pack",
+  missionPack: "Espik's Harder Missions",
   time: 69 * 60,
   strikes: 6,
   widgets: 9,
   completions: [
     { time: 20 * 60 + 50, vid: "https://www.youtube.com/watch?v=FGE6LwzWlIs", completer: "Miki2003pl" },
     {
-      time: 12 * 60 + 22,
+      time: 13 * 60 + 2,
+      log: "file=2c4b0c3bb42cb9115b90132a2a96082d83efcaff;bomb=LE5ID4",
+      completers: { defuser: "Deaf", experts: ["Blananas", "Fish"] },
+    },
+    {
+      time: 12 * 60 + 23,
       isFirst: true,
       log: "file=68dba06b4b205ffcd4675d331a8dd36a6e3fd01a;bomb=HE6HB8",
       completer: "Edan",
     },
+    { time: 7 * 60 + 26, log: "file=8753220256edb6ddb4ab915ae7cf39c4bacac2b0;bomb=5A3XU4", completer: "Arceus" },
   ],
   modules: [
     "0",

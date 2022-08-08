@@ -7,6 +7,7 @@ export const outro_pt_3: MissionInfo = {
   strikes: 3,
   widgets: 5,
   completions: [
+    { time: 31 * 60 + 5, log: "file=34ac22b8e50992d9bb03a656f9fff24f1dd4e707;bomb=5E0VI0", completer: "Megum" },
     { time: 25 * 60 + 48, vid: "https://www.youtube.com/watch?v=FvnGO8mIE_c", completer: "Benjamin" },
     {
       time: 20 * 60 + 23,
@@ -23,6 +24,7 @@ export const outro_pt_3: MissionInfo = {
     { time: 10 * 60 + 40, log: "file=4f5b87fb2b1aed458ec7399ac02c77320fd06c2f;bomb=A58KQ0", completer: "Asmir" },
     { time: 10 * 60 + 9, log: "file=384641cb1bcb8398bbbaa3ad156eb1568e08d937;bomb=XU1ZV0", completer: "Burniel" },
     { time: 8 * 60 + 29, log: "file=d737c110e6b4016e7cd0edd2ea484bd6e6918797;bomb=GJ9NG5", completer: "Pokemine" },
+    { time: 5 * 60 + 36, log: "file=d55468cee9c2b93af21c6e9c4bcc5aeadf87f5a9;bomb=XW2KM6", completer: "Ugh_Sunlight" },
     { time: 4 * 60 + 13, log: "file=5b1f5256a4487c39fb639d57f0544dae3c82b744", completer: "Garuda" },
     { time: 3 * 60 + 5, log: "file=4eaa6e10623b87060b230fc7234f7f50fa5bca33;bomb=P56JW3", completer: "ManiaMate" },
     { time: 24, vid: "https://youtu.be/o2A1PQ-ezJs", completer: "Senri" },

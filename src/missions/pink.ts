@@ -15,9 +15,10 @@ export const pink: MissionInfo = {
     {
       time: 111 * 60 + 8,
       log: "url=https://cdn.discordapp.com/attachments/876040871076847687/885983850734448780/output_log.txt;bomb=IV3VA7",
-      completers: { defuser: "Lily", experts: ["Ivy", "Millie-Rose", "Orinami", "Sierra"] },
+      completers: { defuser: "Lily", experts: ["Puddle", "Millie-Rose", "Orinami", "Sierra"] },
     },
     { time: 108 * 60 + 5, log: "file=73a70e2ba00ba68dd8daad18dc627dd9bd0033f2;bomb=GJ2AF3", completer: "Miki2003pl" },
+    { time: 81 * 60 + 59, log: "file=439fcb48a7acbb2a96ac8a73a0f2f067025457bf;bomb=EE7GN5", completer: "Xorote" },
     {
       time: 79 * 60 + 35,
       vid: "https://www.youtube.com/watch?v=38DZQEfAXYc",
@@ -55,6 +56,17 @@ export const pink: MissionInfo = {
   modules: [
     [23, "redCipher", "yellowCipher", "greenCipher", "blueCipher", "orangeCipher", "whiteCipher", "blackCipher"],
     [23, "redArrowsModule", "yellowArrowsModule", "greenArrowsModule", "orangeArrowsModule", "blueArrowsModule"],
-    "coloredHexabuttons",
+    [
+      "blackHexabuttons",
+      "blueHexabuttons",
+      "brownHexabuttons",
+      "grayHexabuttons",
+      "greenHexabuttons",
+      "orangeHexabuttons",
+      "purpleHexabuttons",
+      "redHexabuttons",
+      "whiteHexabuttons",
+      "yellowHexabuttons",
+    ],
   ],
 };
