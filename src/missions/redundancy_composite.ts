@@ -13,6 +13,11 @@ export const redundancy_composite: MissionInfo = {
       log: "file=97db98b70eef9d7ba82b59f95638f64920afc285;bomb=E89KW9",
       completer: "LegendWilleh",
     },
+    {
+      time: 3 * 60 + 6,
+      log: "file=1340fa84a17066881352de8a2a003cf3285552aa;bomb=8W0FF9",
+      completers: { defuser: "Deaf", experts: ["Blananas", "Fish"] },
+    },
   ],
   modules: [
     "coprimeChecker",

@@ -17,14 +17,39 @@ export const quickly_now_unclaimall: MissionInfo = {
       vid: "https://www.youtube.com/watch?v=jQ8XcO59bfE",
       completers: { defuser: "Quinn Wuest", experts: ["Danielstigman", "Eltrick"] },
     },
+    {
+      time: 16 * 60 + 15,
+      vid: "https://www.youtube.com/watch?v=XLXK391yL1w",
+      completers: { defuser: "Quinn Wuest", experts: ["Danielstigman", "Gwendolyn"] },
+    },
     { time: 13 * 60 + 49, log: "file=a70da8fd9a7a83110baecd3dff346ffd44552bba;bomb=WX2IB7", completer: "Arceus" },
+    {
+      time: 13 * 60 + 13,
+      vid: "https://www.youtube.com/watch?v=XLXK391yL1w",
+      completers: { defuser: "Quinn Wuest", experts: ["Danielstigman", "Puddle"] },
+    },
+    {
+      time: 12 * 60 + 59,
+      vid: "https://www.youtube.com/watch?v=sVeAIWjHoWs",
+      completers: { defuser: "Quinn Wuest", experts: ["Crazycaleb", "Danielstigman"] },
+    },
     {
       time: 11 * 60 + 59,
       isFirst: true,
       log: "file=6d07dc592b5cf00c3a9fbe19e5905e91b8144f32;bomb=JG8CF1",
       completer: "Xorote",
     },
+    {
+      time: 10 * 60 + 10,
+      vid: "https://www.youtube.com/watch?v=-z2RQRlKgPs",
+      completers: { defuser: "Quinn Wuest", experts: ["Danielstigman", "VFlyer"] },
+    },
     { time: 9 * 60 + 16, log: "file=4304a82cb43cfc01542fa8832201d4272db2d211;bomb=FD1GG9", completer: "Quinn Wuest" },
+    {
+      time: 8 * 60 + 59,
+      log: "file=683426ed7a7d57fa92522b80b4b6a1af3979eb9f;bomb=V54UL4",
+      completers: { defuser: "Gwendolyn", experts: ["Puddle", "Quinn Wuest"] },
+    },
     {
       time: 6 * 60 + 6,
       log: "file=bed037d5453eaec653de661d1f17d434b6b9f4e9;bomb=FV1XF0",
@@ -36,6 +61,7 @@ export const quickly_now_unclaimall: MissionInfo = {
       vid: "https://www.youtube.com/watch?v=8fYJ8oa10Uo",
       completers: { defuser: "Xorote", experts: ["Danielstigman", "Miki2003pl"] },
     },
+    { time: 21, log: "file=d981b713d370b7efa7459af54147de8e9a08b77f;bomb=7E6WE0", completer: "RandomKugelblitz" },
     {
       time: 16,
       vid: "https://www.youtube.com/watch?v=DromtJkzhdU",

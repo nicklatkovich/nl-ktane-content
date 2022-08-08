@@ -10,6 +10,7 @@ export const reasonable: MissionInfo = {
     { time: 28 * 60 + 27, log: "file=b15f6841a06542dbb164e8213259620dbb5ed27d;bomb=7X2EV8", completer: "LegendWilleh" },
     { time: 23 * 60 + 42, log: "file=9920809506b7e936c7d5e5df36352fd9bd8bc977;bomb=G36LV0", completer: "Puddle" },
     { time: 16 * 60 + 50, log: "file=6025e5acfc048abf980907776246aa7b97c3f1b6;bomb=ZR5EL9", completer: "Dicey" },
+    { time: 13 * 60 + 39, vid: "https://www.youtube.com/watch?v=GMHHUDq6p7I", completer: "TracksJosh" },
     {
       time: 12 * 60 + 56,
       isFirst: true,
@@ -21,6 +22,7 @@ export const reasonable: MissionInfo = {
     { time: 2 * 60 + 37, log: "file=9e1d9f3cccdbc11dc68dfac23ac14a254c5dd063;bomb=LF5DP6", completer: "Diffuse" },
     { time: 1 * 60 + 40, log: "file=bf05ada62f13486220862b9f70383f35da41da64;bomb=II0FD1", completer: "Shummel" },
     { time: 1 * 60 + 5, log: "file=62bcc23e979e282da45d898eba4c5d9766a008ff;bomb=E32PC9", completer: "Ugh_Sunlight" },
+    { time: 54, log: "file=1ade63fca89bebd0448e4a924f92a5a159846cb2;bomb=MZ4FD4", completer: "aGood_Usernam3" },
     { time: 35, log: "file=bbaa2dca45ed4ff66e79dafe6d1edf4638fd3c80;bomb=FJ8MP2", completer: "Burniel" },
   ],
   solvedByTP: true,

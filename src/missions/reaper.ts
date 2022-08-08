@@ -12,6 +12,7 @@ export const reaper: MissionInfo = {
       log: "file=34ca6cc39c4aa4754e29d8b7afa5054e4834c3a8;bomb=SB8JP8",
       completers: { defuser: "Zefod", experts: ["Edan", "ManiaMate"] },
     },
+    { time: 31 * 60 + 51, log: "file=08a71cacd11944d70a329a6d6042ccc644520b3c;bomb=T04IT7", completer: "Puddle" },
     {
       time: 26 * 60 + 38,
       vid: "https://www.youtube.com/watch?v=taDCk1Nh8Uk&feature=youtu.be",
@@ -19,6 +20,7 @@ export const reaper: MissionInfo = {
     },
     { time: 18 * 60 + 31, vid: "https://www.youtube.com/watch?v=lcmbx-34tCM", completer: "Crazycaleb" },
     { time: 16 * 60 + 52, isFirst: true, vid: "https://www.youtube.com/watch?v=CMI94TqMmr8", completer: "Draket" },
+    { time: 12 * 60 + 45, log: "file=4cc795fa745c7cb41565c5046db853b86539b3ef;bomb=WB2WX8", completer: "Megum" },
     {
       time: 7 * 60 + 49,
       vid: "https://www.youtube.com/watch?v=IrXsjafKfE0",
