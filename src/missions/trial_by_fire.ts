@@ -25,6 +25,7 @@ export const trial_by_fire: MissionInfo = {
       log: "file=4b1a8d1782c44764c409dd00197e140dd00df064;bomb=MR0DT1",
       completers: { defuser: "Zefod", experts: ["Edan", "ManiaMate"] },
     },
+    { time: 1 * 60 + 8, log: "file=22165f3243ce075e5a9860e56a257085e17021a3;bomb=QB4EJ4", completer: "Puddle" },
   ],
   modules: [
     ["rng", "buttonMasherNeedy", "EdgeworkModule"],

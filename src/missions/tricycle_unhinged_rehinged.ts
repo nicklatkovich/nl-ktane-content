@@ -8,6 +8,11 @@ export const tricycle_unhinged_rehinged: MissionInfo = {
   widgets: 3,
   completions: [
     { time: 15 * 60 + 30, log: "file=feca03333fd3e2e7b4d0c043d9b75e9ad75e05af;bomb=9J4WQ4", completer: "LegendWilleh" },
+    {
+      time: 6 * 60 + 26,
+      log: "file=61f8b681b4c9e76e0ba77438ac633d5e3a289cdc;bomb=VQ6PK6",
+      completer: "aGood_Usernam3",
+    },
     { time: 6 * 60 + 20, isFirst: true, vid: "https://www.youtube.com/watch?v=pRzIOYr5UME", completer: "Deaf" },
   ],
   modules: [

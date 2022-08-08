@@ -7,6 +7,11 @@ export const triblribryune_mini: MissionInfo = {
   strikes: 5,
   widgets: 5,
   completions: [
+    {
+      time: 32 * 60 + 8,
+      log: "file=396a401baff77b0f623c00f1d4ac6e560927b071;bomb=DU2EV1",
+      completers: { defuser: "Zaakeil", experts: ["Cookiepocalypse", "KittyAshy"] },
+    },
     { time: 31 * 60 + 52, log: "file=47f7c6a33b4cb68c86c062b4e73e1e5feed1c5c5;bomb=AE4IL3", completer: "LegendWilleh" },
     { time: 10 * 60 + 48, log: "file=d0ec6c61e763f0940a30bf4dcec064ee89c605db;bomb=RZ2PG1", completer: "Edan" },
     {
@@ -14,6 +19,7 @@ export const triblribryune_mini: MissionInfo = {
       vid: "https://www.youtube.com/watch?v=t7SrUwENAVo",
       completers: { defuser: "Deaf", experts: ["aGood_Usernam3", "Fish"] },
     },
+    { time: 4 * 60 + 10, log: "file=7ec5fc02ba3ef93b9076fdaa6dac60f6b2d3ebe8;bomb=091KP0", completer: "Megum" },
     {
       time: 3 * 60 + 35,
       log: "file=be79296c138919688d4cc0fad33f7d795a0688ee;bomb=2K0VW8",

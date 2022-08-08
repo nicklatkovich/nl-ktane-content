@@ -21,8 +21,14 @@ export const tricycle: MissionInfo = {
       completer: "aGood_Usernam3",
     },
     { time: 9 * 60 + 44, log: "file=d836d804d43db3b1d1ae253868714131c0c35558;bomb=R49RR2", completer: "Arceus" },
+    {
+      time: 9 * 60 + 15,
+      log: "file=190cdc746b6fac9cee06fe50431c66cb911d938f;bomb=MN8MU8",
+      completers: { defuser: "ManiaMate", experts: ["Dicey", "Garuda"] },
+    },
     { time: 7 * 60 + 41, isFirst: true, vid: "https://www.youtube.com/watch?v=_SefR0qjvEw", completer: "Deaf" },
     { time: 3 * 60 + 40, log: "file=7f8193e1d9a1c44b9e26051c10958e586e75439e;bomb=KG1CE0", completer: "Garuda" },
+    { time: 3 * 60 + 21, log: "file=9b9c829d4f601f2854b78be5aa82ae3649901ec4;bomb=1F6WL1", completer: "Ugh_Sunlight" },
   ],
   modules: [
     [3, "metamem"],

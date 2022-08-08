@@ -19,6 +19,11 @@ export const tsundere: MissionInfo = {
       completers: { defuser: "Wheaty", experts: ["Megum"] },
     },
     {
+      time: 8 * 60 + 3,
+      log: "file=3051d214f624459a7892bf65358a9f5135a26637;bomb=LI4SS6",
+      completers: { defuser: "Dicey", experts: ["Fish", "Garuda"] },
+    },
+    {
       time: 5 * 60 + 51,
       log: "file=94670f9ea867fc58489674cc725a698b056fda2f;bomb=603SL5",
       completers: { defuser: "Wheaty", experts: ["Copperkettle", "MageMage"] },
