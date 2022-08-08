@@ -7,6 +7,7 @@ export const remix_2: MissionInfo = {
   strikes: 5,
   widgets: 5,
   completions: [
+    { time: 18 * 60 + 9, log: "file=a23f50b6c3111d9545374c211ac30d86c5060c2e;bomb=EK3LQ5", completer: "Puddle" },
     {
       time: 12 * 60 + 34,
       isFirst: true,
@@ -14,6 +15,7 @@ export const remix_2: MissionInfo = {
       completer: "ktane1",
     },
     { time: 2 * 60 + 57, vid: "https://youtu.be/dNwAesreJrk", completer: "weird" },
+    { time: 2 * 60 + 17, log: "file=996809b243e1c17880ec66a174a908fa3f1a28a5;bomb=918AW6", completer: "Ugh_Sunlight" },
   ],
   modules: [
     "whiteout",

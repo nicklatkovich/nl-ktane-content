@@ -1,6 +1,6 @@
 import { MissionInfo } from "nl-ktane-lib";
 
-export const schwarz_und_wei_: MissionInfo = {
+export const schwarz_und_wei: MissionInfo = {
   name: "Schwarz und Weiß",
   missionPack: "Danielstigman's Pission Mack",
   author: "MageMage",
@@ -9,6 +9,11 @@ export const schwarz_und_wei_: MissionInfo = {
   widgets: 5,
   completions: [
     { time: 13 * 60 + 13, isFirst: true, vid: "https://www.youtube.com/watch?v=KhN55yInQ3E", completer: "Draket" },
+    {
+      time: 9 * 60 + 54,
+      vid: "https://youtu.be/wmL95cZsyt4",
+      completers: { defuser: "Danielstigman", experts: ["MageMage", "Puddle"] },
+    },
   ],
   modules: [
     "visual_impairment",

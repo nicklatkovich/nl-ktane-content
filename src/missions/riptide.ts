@@ -35,6 +35,7 @@ export const riptide: MissionInfo = {
       completers: { defuser: "Senri", experts: ["Danumbah", "Puddle"] },
     },
     { time: 5 * 60 + 35, isFirst: true, igl: true, completer: "Edan" },
+    { time: 4 * 60 + 32, log: "file=b874ac7ee1bc84c65fbf5c753b2f8561d9ece9ac;bomb=NH2UL0", completer: "Kuro" },
     { time: 3 * 60 + 35, log: "file=89c1bd5605ca49de21043f9587e27bdce5798172;bomb=CE8VR8", completer: "Burniel" },
     {
       time: 2 * 60 + 19,

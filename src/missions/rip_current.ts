@@ -30,6 +30,7 @@ export const rip_current: MissionInfo = {
       vid: "https://www.youtube.com/watch?v=E7Mf2yref5E",
       completers: { defuser: "Zaakeil", experts: ["Cookiepocalypse", "KittyAshy"] },
     },
+    { time: 9 * 60 + 42, log: "file=e3e91f8dfa6893ade5604dfaa594da8408e5da8a", completer: "Danumbah" },
     { time: 8 * 60 + 59, log: "file=52cf33fcb4a609c514eb8822d8773208bae9f772;bomb=186BR7", completer: "Senri" },
     { time: 8 * 60 + 29, vid: "https://www.youtube.com/watch?v=1CaXCAddpD8", completer: "Crazycaleb" },
     {

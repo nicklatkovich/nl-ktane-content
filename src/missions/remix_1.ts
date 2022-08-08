@@ -8,6 +8,7 @@ export const remix_1: MissionInfo = {
   widgets: 5,
   completions: [
     { time: 25 * 60 + 3, log: "file=b2fde017fa7be0b35957b5b32a0d027ae27825da;bomb=DC3GM7", completer: "LegendWilleh" },
+    { time: 20 * 60 + 41, log: "file=4a390af066d5a7d41f5bbf2a4591b48cfa894b45;bomb=JM1GQ0", completer: "Puddle" },
     {
       time: 15 * 60 + 17,
       vid: "https://www.youtube.com/watch?v=RM6pKDYX6ZY",

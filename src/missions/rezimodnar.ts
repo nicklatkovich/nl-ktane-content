@@ -7,6 +7,7 @@ export const rezimodnar: MissionInfo = {
   strikes: 9,
   widgets: 5,
   completions: [
+    { time: 15 * 60 + 31, log: "file=e91487dfe592d824fe32a474c67b5f827f0812e2;bomb=BC6QA1", completer: "Edan" },
     {
       time: 15 * 60 + 4,
       isFirst: true,

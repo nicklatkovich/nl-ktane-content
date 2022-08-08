@@ -7,6 +7,7 @@ export const rendezvous_pt_1: MissionInfo = {
   strikes: 3,
   widgets: 5,
   completions: [
+    { time: 16 * 60 + 46, log: "file=8e083ae1989af5ba84562228dc19c408955f8946;bomb=9L7JV2", completer: "Pokemine" },
     {
       time: 14 * 60 + 38,
       isFirst: true,
@@ -33,9 +34,20 @@ export const rendezvous_pt_1: MissionInfo = {
     { time: 6 * 60, log: "file=3c4c4a8cf7c3a3e042359817af04cfbd6d46c97c;bomb=RD0LD9", completer: "ManiaMate" },
     { time: 5 * 60 + 26, log: "file=eef88a9f2dafbb38b40d8e8fafd1f2ae9247aa7a;bomb=5L3JW7", completer: "Vincology" },
     { time: 4 * 60 + 36, log: "file=555384c80fadc05ac200e5237e5646fc02980e0e;bomb=BT2UK4", completer: "LegendWilleh" },
+    { time: 4 * 60 + 36, log: "file=7bc9be26a4d12c39fc8e98664fb85283cb378e28;bomb=9C9VQ3", completer: "Ugh_Sunlight" },
     { time: 4 * 60 + 34, log: "file=899de8ba92459a95887e40558e16c4d553c71717;bomb=778LL3", completer: "MásQuéÉlite" },
     { time: 4 * 60 + 12, log: "file=187b3ac1927247e9a3cc69bb6f18e79360ce77cd;bomb=4B6EU2", completer: "Garuda" },
+    {
+      time: 3 * 60 + 45,
+      log: "file=105ac8d96db8d625f393ffd34b4165dd7ddc5da3;bomb=4F6QG0",
+      completers: { defuser: "Crazycaleb", experts: ["Danumbah", "OEGamer"] },
+    },
     { time: 3 * 60 + 9, log: "file=c89672c1cbb4a679cdc88cf99ad455e903374637;bomb=PE5MB2", completer: "Asmir" },
+    {
+      time: 3 * 60 + 6,
+      log: "file=81e06505c8eb20c93869dcb237cc126a57fae057;bomb=KG7PI3",
+      completer: "RandomKugelblitz",
+    },
     {
       time: 2 * 60 + 35,
       log: "file=ce59acdcdd349734c5506c2c822995ff0d46c78f;bomb=EF8ME1",

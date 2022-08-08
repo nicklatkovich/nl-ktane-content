@@ -421,7 +421,7 @@ export * from "./missions/sanguine_arpeggio";
 export * from "./missions/satan_says";
 export * from "./missions/say_my_name";
 export * from "./missions/scanning_for_clues";
-export * from "./missions/schwarz_und_wei_";
+export * from "./missions/schwarz_und_wei";
 export * from "./missions/second_riptide";
 export * from "./missions/seedfarm";
 export * from "./missions/seifar_toy_company_reservation";

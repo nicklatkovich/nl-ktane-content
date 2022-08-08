@@ -9,6 +9,11 @@ export const russian_roulette: MissionInfo = {
   completions: [
     { time: 24 * 60 + 59, log: "file=0cc046412c70b7df94042851ceb7e3e2a7d2253a;bomb=B18NH5", completer: "LegendWilleh" },
     {
+      time: 10 * 60 + 27,
+      log: "file=85ff702d1b1e20457a0065fe351986e01a50471c;bomb=F14JI1",
+      completers: { defuser: "Zaakeil", experts: ["Cookiepocalypse", "KittyAshy"] },
+    },
+    {
       time: 9 * 60 + 8,
       log: "file=728f10d611ca7944d6502d3ebf79c99c9a233a5d;bomb=F65JG0",
       completers: { defuser: "OEGamer", experts: ["Garuda", "Millie-Rose"] },
@@ -32,6 +37,11 @@ export const russian_roulette: MissionInfo = {
       completer: "Edan",
     },
     { time: 1 * 60 + 40, log: "file=4ce16970ae3acd28a2c5f781bfb5c1c306d00cda;bomb=5V8LP6", completer: "Arceus" },
+    {
+      time: 1 * 60 + 28,
+      log: "file=e57ad8bbe8fc97a14d50127aa1f569ef3d39c190;bomb=5G3MV6",
+      completers: { defuser: "Bianca", experts: ["Benjamin", "Megum"] },
+    },
     { time: 49, log: "file=3ae991cb5368b634064fef5cde2e6234bda8549d;bomb=5F2JQ8", completer: "Crazycaleb" },
   ],
   solvedByTP: true,
