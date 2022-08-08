@@ -1,6 +1,6 @@
 import { MissionInfo } from "nl-ktane-lib";
 
-export const xp4_villains_must_shine_: MissionInfo = {
+export const xp4_villains_must_shine: MissionInfo = {
   name: "XP4 Villains Must Shine!",
   missionPack: "OSA and XP4 Missions",
   time: 150 * 60,

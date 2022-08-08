@@ -8,6 +8,11 @@ export const zulu_bravo: MissionInfo = {
   widgets: 9,
   completions: [
     {
+      time: 22 * 60 + 47,
+      log: "file=43a271a459169ad72676083c96817277cc032af7;bomb=WR1NE2",
+      completers: { defuser: "Zaakeil", experts: ["Cookiepocalypse", "KittyAshy"] },
+    },
+    {
       time: 21 * 60 + 47,
       vid: "https://www.youtube.com/watch?v=g_cXvyi8-Ho",
       completers: { defuser: "Burniel", experts: ["Benjamin", "Bianca", "Megum"] },

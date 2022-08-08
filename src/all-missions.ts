@@ -533,7 +533,7 @@ export * from "./missions/wire_madness";
 export * from "./missions/with_defusers_like_these";
 export * from "./missions/woodsievous";
 export * from "./missions/xp4_collaborations_project";
-export * from "./missions/xp4_villains_must_shine_";
+export * from "./missions/xp4_villains_must_shine";
 export * from "./missions/xturion";
 export * from "./missions/ye_emoji_71";
 export * from "./missions/yes";

@@ -8,7 +8,17 @@ export const ye_emoji_71: MissionInfo = {
   widgets: 5,
   completions: [
     { time: 57 * 60 + 10, log: "file=1eedbf9237bf55c640f6a72bb959af693e10dcda;bomb=5J5AB3", completer: "LegendWilleh" },
+    {
+      time: 50 * 60 + 20,
+      log: "file=b0022ab878d32b8f0b408fd2512139863acb0e35;bomb=TC7ZR7",
+      completers: { defuser: "Wheaty", experts: ["Macanek", "Megum"] },
+    },
     { time: 39 * 60 + 24, log: "file=b214036f7215ab09996349da4703cd2c8d3bfc59;bomb=CU4CP3", completer: "Megum" },
+    {
+      time: 37 * 60 + 56,
+      log: "file=70957bbc6fcd483be0541f57d895ed8e1432c03a",
+      completers: { defuser: "Espik", experts: ["Danielstigman", "Wheaty"] },
+    },
     { time: 37 * 60 + 5, log: "file=009be6b5d86fe3ac6d4f410e2b121b8a5ad30260;bomb=KG0UG2", completer: "Puddle" },
     {
       time: 36 * 60 + 1,
@@ -33,6 +43,7 @@ export const ye_emoji_71: MissionInfo = {
       log: "file=926bcda246d9847b24e2805260b1e79c63c75fed;bomb=UU4DI1",
       completers: { defuser: "SillyPuppy", experts: ["Draket", "Rexkix"] },
     },
+    { time: 21 * 60 + 17, log: "file=98f043ab5c524535e7c963fc88490790db2c70e1;bomb=E45FM4", completer: "ManiaMate" },
     { time: 18 * 60 + 31, vid: "https://www.youtube.com/watch?v=cf69emGLtBQ", completer: "Wheaty" },
     { time: 17 * 60 + 59, log: "file=f0bea13be2dab0e73d0a74a9feee5ee0f160a944;bomb=G91AE6", completer: "Danumbah" },
     {
@@ -52,6 +63,17 @@ export const ye_emoji_71: MissionInfo = {
       completers: { defuser: "StKildaFan", experts: ["Azzaman", "Zaphod_Beeblebrox"] },
     },
     { time: 11 * 60 + 14, log: "file=b4c0cb05b2c344cd1c2164fb8fdd0a6a7df969ac;bomb=AL8QH6", completer: "Asmir" },
+    {
+      time: 10 * 60 + 41,
+      log: "file=6bc222a877892fcce60079a79c343bbdae6bb2b0;bomb=4E6GP7",
+      completers: { defuser: "alpha8404", experts: ["MaximumCombo", "Raicho", "t-chen"] },
+    },
+    { time: 9 * 60 + 4, log: "file=a618530f9ef2166d6ec273b76436f0c33f1beece;bomb=W62CZ7", completer: "Pokemine" },
+    {
+      time: 7 * 60 + 42,
+      log: "file=12bbfcba0ab8bf93f37e7f4acad321eedc27ecdd;bomb=NA4ZX9",
+      completers: { defuser: "Wheaty", experts: ["Copperkettle", "weird"] },
+    },
     {
       time: 6 * 60 + 46,
       vid: "https://www.youtube.com/watch?v=eNnCsFzfBVA",
