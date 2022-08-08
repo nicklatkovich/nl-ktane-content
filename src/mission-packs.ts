@@ -29,6 +29,7 @@ export const missionPacks: MissionPack[] = [
   { name: "Burniel's Bombs", author: "Burniel", steamId: 2254772683 },
   { name: "The Centurion", author: "Ashthebash", steamId: 952828429 },
   { name: "Cerberus", author: "LeGeND", steamId: 1622764236 },
+  { name: "Kilo's Mission Pack", author: "Kilo Bites", steamId: 2560087405 },
   { name: "The Chaos Star", author: "JerryEris", steamId: 1780949902 },
   { name: "The Chegginator", author: "Starbucks", steamId: 2186259689 },
   { name: "The Chuzzinator", author: "Starbucks", steamId: 2766620539 },
