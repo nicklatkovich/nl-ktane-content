@@ -1,5 +1,3 @@
-TODO: CONTINUE PARSING WITH SKIP = `60`
-
 TODO: ADD MANUALLY:
 * `[]/\O`
 * `A Bit of Everything`
@@ -56,9 +54,6 @@ TODO: ADD ALT VARIANTS
 * `Centurion` NO NEEDY
 * `Conqueror of Fate` NO NEEDY
 * `M.O.A.B.` TP VERSION
-
-FIXME: ADD PACKS MANUALLY:
-`Kilo's Mission Pack`
 
 TODO: CHECK AUTHOR:
 * `The Bombs Blan Made`
