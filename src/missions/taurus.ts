@@ -7,6 +7,11 @@ export const taurus: MissionInfo = {
   strikes: 5,
   widgets: 6,
   completions: [
+    {
+      time: 30 * 60,
+      log: "file=3c5c22371beda3277637cfa90bb797523dee9394;bomb=530NZ2",
+      completers: { defuser: "Zaakeil", experts: ["Cookiepocalypse", "KittyAshy"] },
+    },
     { time: 17 * 60 + 12, vid: "https://www.youtube.com/watch?v=1g3tq3C3gsk", completer: "Benjamin" },
     { time: 17 * 60 + 6, log: "file=bae6a4e287e9e0a3b190a33dae4c7e54dd3d3525;bomb=LE6BW0", completer: "LegendWIlleh" },
     { time: 10 * 60 + 44, log: "file=76563f1a13349371d9a10ad3f8b3daa6de93e5cd;bomb=765NX4", completer: "ManiaMate" },

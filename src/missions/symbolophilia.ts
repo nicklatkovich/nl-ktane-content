@@ -3,7 +3,6 @@ import { MissionInfo } from "nl-ktane-lib";
 export const symbolophilia: MissionInfo = {
   name: "Symbolophilia",
   missionPack: "Tepel's Missions",
-  author: "Tepel",
   time: 121 * 60,
   strikes: 8,
   widgets: 5,

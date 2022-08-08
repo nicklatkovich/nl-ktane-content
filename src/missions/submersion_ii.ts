@@ -12,7 +12,7 @@ export const submersion_ii: MissionInfo = {
     {
       time: 12 * 60 + 40,
       log: "file=46888a42261351860ec31cb995c977598d87c832",
-      completers: { defuser: "Espeon", experts: ["Whalien", "Wheaty"] },
+      completers: { defuser: "Espik", experts: ["Whalien", "Wheaty"] },
     },
     { time: 12 * 60 + 19, log: "file=1e64fab365975b4e916083d4b1aaefdde9202cdd;bomb=MK8UX4", completer: "Burniel" },
     {

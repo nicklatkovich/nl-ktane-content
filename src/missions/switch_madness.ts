@@ -13,6 +13,7 @@ export const switch_madness: MissionInfo = {
       log: "file=30838836b89da4d7667c847c1cb871a56836369a;bomb=JT4EF8",
       completer: "LegendWilleh",
     },
+    { time: 30 * 60 + 36, log: "file=6ba418eaa104c81f8f6915af631d96272be766ce;bomb=UC4DU9", completer: "Ugh_Sunlight" },
     { time: 29 * 60 + 47, log: "file=c7571130bc6d61c1a96dd143239aa6385e1e6829;bomb=793FU1", completer: "ManiaMate" },
     {
       time: 25 * 60 + 36,

@@ -25,6 +25,12 @@ export const tenth_day_of_christmas: MissionInfo = {
       scr: "https://cdn.discordapp.com/attachments/306830460443426816/655296286005788692/Screenshot_117.png",
       completer: "Crazycaleb",
     },
+    { time: 29 * 60 + 35, log: "file=02b082be841a51db22f1e6669f5c4c41890ac393;bomb=4K7BA5", completer: "Ugh_Sunlight" },
+    {
+      time: 24 * 60 + 12,
+      log: "file=b7388c2ca60343d162d1f892b1a84a5200e5a65e;bomb=EJ3GC1",
+      completers: { defuser: "SkipzPlays", experts: ["Aaron Kitty Boiii", "Mage Mage"] },
+    },
     {
       time: 23 * 60 + 47,
       log: "file=d8bfd26e1e9856d290f2fd2edc8076be27dc13fa;bomb=BC2VT2",
