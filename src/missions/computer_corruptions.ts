@@ -28,6 +28,7 @@ export const computer_corruptions: MissionInfo = {
     },
     {
       time: 4,
+      vid: "https://www.youtube.com/watch?v=7SgiMpHdCSM",
       log: "file=d2a9703658d705c55d7c172d790b375e3f83f54c;bomb=QP0RT6",
       completers: { defuser: "Espik", experts: ["Burniel", "Chestnut"] },
     },

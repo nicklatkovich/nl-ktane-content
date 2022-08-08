@@ -8,6 +8,11 @@ export const color_square_madness: MissionInfo = {
   widgets: 5,
   completions: [
     {
+      time: 25 * 60 + 7,
+      log: "file=c06605445dda6cd3a31c5235bc423007117a3e5b;bomb=JU8WK5",
+      completer: "PippyInATopHat",
+    },
+    {
       time: 23 * 60 + 5,
       isFirst: true,
       log: "file=a5bdd4714cca1bf8088b24e7b5378092b8fa65f1;bomb=939ED4",
@@ -35,12 +40,18 @@ export const color_square_madness: MissionInfo = {
     { time: 11 * 60 + 33, log: "file=eaa5110d4287407beb64f2f2d9021d5f4cd05764;bomb=II8XI9", completer: "Whalien" },
     { time: 10 * 60 + 37, log: "file=34bf22e5da01b5a967ac8bedf9aefba26f015148;bomb=645HI2", completer: "SillyPuppy" },
     {
+      time: 10 * 60 + 29,
+      log: "file=021729eee93034f0021888748c388a253443d988;bomb=Q22LE3",
+      completers: { defuser: "PippyInATopHat", experts: ["DeaderSurvival", "Pesh"] },
+    },
+    {
       time: 10 * 60 + 4,
       vid: "https://www.youtube.com/watch?v=zp1Qn15oQoA",
       completers: { defuser: "Maddie", experts: ["Danumbah"] },
     },
     { time: 9 * 60 + 53, vid: "https://www.youtube.com/watch?v=ehTjJkBrqwU", completer: "bioplay" },
     { time: 9 * 60 + 6, log: "file=1de76b978099bfd3efcba2709f150b887713f4ce;bomb=5G1XD4", completer: "Iniir" },
+    { time: 8 * 60 + 56, log: "file=cc36fe3620465fa96ba3a8d99234ba50b2a75dd7;bomb=K60VT8", completer: "Pokemine" },
     { time: 8 * 60 + 27, vid: "https://www.youtube.com/watch?v=Rg4-0GpGesI", completer: "NickLatkovich" },
     { time: 8 * 60 + 8, log: "file=f1d2f5d98d5dd662be12d4da48eac86c11c40ece;bomb=UT3FG4", completer: "Zefod" },
     { time: 7 * 60 + 6, log: "file=d6294d374bc5247c895e758b06155adfde412473;bomb=572TC4", completer: "Shummel" },

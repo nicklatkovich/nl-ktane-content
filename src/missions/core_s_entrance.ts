@@ -44,6 +44,11 @@ export const core_s_entrance: MissionInfo = {
       completers: { defuser: "Danielstigman", experts: ["Miki2003pl", "Puddle"] },
     },
     { time: 4 * 60 + 17, vid: "https://www.youtube.com/watch?v=gG2haHs8xkU", completer: "RandomChamps" },
+    {
+      time: 4 * 60 + 9,
+      log: "file=d096073dbd258690123541db9e6bb798f0660c3a;bomb=V18UG4",
+      completers: { defuser: "Wheaty", experts: ["MageMage", "Copperkettle"] },
+    },
   ],
   solvedByTP: true,
   modules: [

@@ -7,6 +7,7 @@ export const crazyturion: MissionInfo = {
   strikes: 10,
   widgets: 5,
   completions: [
+    { time: 35 * 60, log: "file=8232cbea80504ea971a912f7561e964d4d5a48ae;bomb=QA9HG0", completer: "ManiaMate" },
     { time: 34 * 60 + 31, log: "file=1fc09ef6a8e08ec8eff8a988be3d47a688528789;bomb=9D0BX7", completer: "Edan" },
     { time: 22 * 60 + 9, isFirst: true, vid: "https://www.youtube.com/watch?v=y4h64ISfr8w", completer: "Crazycaleb" },
   ],

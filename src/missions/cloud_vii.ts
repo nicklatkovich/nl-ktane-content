@@ -3,7 +3,6 @@ import { MissionInfo } from "nl-ktane-lib";
 export const cloud_vii: MissionInfo = {
   name: "Cloud VII",
   missionPack: "Kilo's Mission Pack",
-  author: "Kilo Bites",
   time: 100 * 60,
   strikes: 8,
   widgets: 5,

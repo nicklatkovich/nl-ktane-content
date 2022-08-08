@@ -8,6 +8,7 @@ export const climactic_collection: MissionInfo = {
   widgets: 5,
   completions: [
     { time: 51 * 60 + 45, log: "file=3b723bde04f144dd81498122d0de5f01573952c6;bomb=AC1TE5", completer: "Dicey" },
+    { time: 49 * 60 + 29, log: "file=f9bce257ac90e9020be4665cfdd4129dfd19580b;bomb=AC8UC8", completer: "Miki2003pl" },
     { time: 47 * 60 + 27, log: "file=23e1872153b4ae24c383a351193847dc6c8babaa;bomb=JC2PI6", completer: "LegendWilleh" },
     { time: 39 * 60 + 8, log: "file=4bfb074725f410112d9e104dace537a07fb776a0;bomb=S45EA5", completer: "ManiaMate" },
     {
