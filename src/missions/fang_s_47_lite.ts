@@ -7,14 +7,18 @@ export const fang_s_47_lite: MissionInfo = {
   strikes: 8,
   widgets: 5,
   completions: [
-    { time: 60 * 60 + 8, log: "file=668b62f60cacf278ecc9809ce864196fab1bb25d;bomb=LC4KS9", completer: "LegendWilleh" },
     {
       time: 42 * 60,
+      isFirst: true,
       vid: "https://www.youtube.com/watch?v=iBlGX9QMkHo",
       completers: { defuser: "Danielstigman", experts: ["Miki2003pl", "Puddle", "Xorote"] },
     },
+    {
+      time: 34 * 60 + 4,
+      log: "file=e8ba87d6e95c073cb0b23d0b328ec42884c28b72;bomb=1I9EI4",
+      completers: { defuser: "KittyAshy", experts: ["Cookiepocalypse", "Zaakeil"] },
+    },
     { time: 18 * 60 + 55, vid: "https://www.youtube.com/watch?v=XCoEGidtDMg", completer: "Crazycaleb" },
-    { time: 2, isFirst: true, log: "file=ba9084a0ab2e33668ea425e1343ba1cd96e2986f;bomb=1S9PR6", completer: "Diffuse" },
   ],
   solvedByTP: true,
   modules: [

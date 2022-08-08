@@ -12,6 +12,7 @@ export const flag_madness: MissionInfo = {
       log: "file=f49aa348a32b740f94b7d3c79c2cb564dcf15178;bomb=899JT5",
       completers: { defuser: "Edan", experts: ["Zefod"] },
     },
+    { time: 43 * 60 + 13, log: "file=70aa7e1fa735d1ac3a21f55cc38f197d52002808;bomb=6U0RU2", completer: "ManiaMate" },
     {
       time: 24 * 60 + 46,
       vid: "https://www.youtube.com/watch?v=fpnFRrXFJz8",

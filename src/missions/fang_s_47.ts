@@ -10,14 +10,13 @@ export const fang_s_47: MissionInfo = {
     {
       time: 101 * 60 + 13,
       vid: "https://www.youtube.com/watch?v=KIIkINRIW6s",
-      completers: { defuser: "Deaf", experts: ["aGood_Usernam3", "tandyCake", "Edan"] },
+      completers: { defuser: "Deaf", experts: ["aGood_Usernam3", "Edan", "tandyCake"] },
     },
-    { time: 97 * 60 + 35, log: "file=03125e690d6e3b6af9d0ea6c1069dce778149abb;bomb=DR0WC3", completer: "LegendWilleh" },
     { time: 90 * 60 + 27, isFirst: true, vid: "https://www.youtube.com/watch?v=Ju-z1k0wpWk", completer: "Draket" },
     {
-      time: 70 * 60 + 13,
-      vid: "https://www.youtube.com/watch?v=p5EfKXV--5M",
-      completers: { defuser: "Danielstigman", experts: ["Miki2003pl", "Puddle", "Xorote"] },
+      time: 82 * 60,
+      vid: "https://www.youtube.com/watch?v=BAdzm-ShJKE",
+      completers: { defuser: "Quinn Wuest", experts: ["Danielstigman", "Eltrick", "Mage Mage"] },
     },
     { time: 13, vid: "https://youtu.be/li89kr_QbKY", completer: "Dicey" },
   ],

@@ -181,6 +181,7 @@ export * from "./missions/flamingo";
 export * from "./missions/flyer_s_half_baked_insanity_lte";
 export * from "./missions/flyer_s_half_baked_insanity";
 export * from "./missions/flyer_s_insanity_lite";
+export * from "./missions/flyer_s_selection";
 export * from "./missions/fmn_hell_3";
 export * from "./missions/food_madness";
 export * from "./missions/forgetful_hell_set_4_only";

@@ -22,6 +22,7 @@ export const flyer_s_half_baked_insanity_lte: MissionInfo = {
       vid: "https://www.youtube.com/watch?v=iTzy27ZEVxA",
       completers: { defuser: "Danielstigman", experts: ["Miki2003pl"] },
     },
+    { time: 229 * 60 + 18, vid: "https://www.youtube.com/watch?v=e-CP59kHnGM", completer: "Megum" },
     { time: 226 * 60 + 2, log: "file=c48be365d2f5e643b79e2eaf584ea0b01ab7bca5;bomb=0R2ZG1", completer: "Crazycaleb" },
     {
       time: 225 * 60 + 55,

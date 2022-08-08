@@ -18,6 +18,11 @@ export const extraction_pt_1: MissionInfo = {
       vid: "https://www.youtube.com/watch?v=_G2MxHZX7U0",
       completers: { defuser: "Deaf", experts: ["Fish", "Zefod"] },
     },
+    {
+      time: 11 * 60 + 47,
+      log: "file=efd9d84c75ff4b464b19091cd649c9fb9ff02fed;bomb=HW6LW1",
+      completers: { defuser: "KittyAshy", experts: ["Cookiepocalypse", "Zaakeil"] },
+    },
     { time: 10 * 60 + 57, log: "file=131d11af3bdc23699fa83e94467168dd26aa6b9c;bomb=VX5JW0", completer: "ManiaMate" },
     {
       time: 8 * 60 + 24,
