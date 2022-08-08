@@ -9,6 +9,7 @@ export const frontier_alpha: MissionInfo = {
   completions: [
     { time: 16 * 60 + 8, log: "file=0cffb7a1f8c03f41f5bfe2f0a9f8c8eecf979083;bomb=H63RD4", completer: "LegendWilleh" },
     { time: 11 * 60 + 20, vid: "https://www.youtube.com/watch?v=045LPjP510k", completer: "Espik" },
+    { time: 10 * 60 + 48, log: "file=d30895c0c9db47b975a802762081283bc9247cdb;bomb=MD7EV8", completer: "Ugh_Sunlight" },
     {
       time: 9 * 60 + 16,
       vid: "https://www.youtube.com/watch?v=i4Q7_d_pH3k",

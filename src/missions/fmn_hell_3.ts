@@ -25,6 +25,7 @@ export const fmn_hell_3: MissionInfo = {
     { time: 14 * 60 + 42, vid: "https://www.youtube.com/watch?v=44iQtWV7ZEM", completer: "GreenPower" },
     { time: 13 * 60, log: "file=9ff3f8636b273b64b66b639d5bb30ec91723841f;bomb=0B1IE6", completer: "Danumbah" },
     { time: 11 * 60 + 16, log: "file=fc4f66b0900855bef75b3ad930574f70af2c93ef;bomb=IN3PW2", completer: "LegendWilleh" },
+    { time: 7 * 60 + 37, vid: "https://youtu.be/FIvd9ETE-Yk", completer: "t33554432" },
     { time: 3 * 60 + 24, vid: "https://www.youtube.com/watch?v=j8mDRTe1cEM", completer: "Blananas" },
     { time: 3 * 60 + 21, isFirst: true, vid: "https://www.youtube.com/watch?v=lk7Mg2XYvsE", completer: "Deaf" },
     { time: 2 * 60 + 6, log: "file=8064e9ef328b4e02da323eff019924355069c57f;bomb=2E7CS0", completer: "Diffuse" },

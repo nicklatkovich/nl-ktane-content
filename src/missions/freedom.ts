@@ -8,6 +8,11 @@ export const freedom: MissionInfo = {
   widgets: 5,
   completions: [
     {
+      time: 31 * 60 + 52,
+      log: "file=8ec34bc5f0672850df39bfbad1dd6d0659276f54;bomb=GM4HZ1",
+      completers: { defuser: "KittyAshy", experts: ["Cookiepocalypse", "Zaakeil"] },
+    },
+    {
       time: 13 * 60 + 33,
       vid: "https://www.youtube.com/watch?v=Qrb2c_Bq86Y",
       completers: { defuser: "Benjamin", experts: ["Bianca", "Burniel"] },

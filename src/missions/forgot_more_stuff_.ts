@@ -30,6 +30,8 @@ export const forgot_more_stuff_: MissionInfo = {
       completers: { defuser: "Orinami", experts: ["Danielstigman", "Quinn Wuest"] },
     },
     { time: 7 * 60 + 12, log: "file=0cbc60198ebed7dd5c239c4ce80591103dbe935f;bomb=ZM1KR4", completer: "Diffuse" },
+    { time: 6 * 60 + 40, log: "file=b2e2ce2d06af6373f3c5cad6bbc5a5ec3014388e;bomb=EV9PC7", completer: "Xorote" },
+    { time: 5 * 60 + 5, log: "file=ae683650a1aebef974e6c0026a18a3170f281ebd;bomb=QE3DQ3", completer: "Poke" },
   ],
   solvedByTP: true,
   modules: [

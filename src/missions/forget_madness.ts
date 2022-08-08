@@ -13,6 +13,11 @@ export const forget_madness: MissionInfo = {
       log: "file=e52ca3e1d32b5a50e8b38849f0b284f00ce60340;bomb=4B7EP0",
       completer: "LegendWilleh",
     },
+    {
+      time: 17 * 60 + 24,
+      vid: "https://youtu.be/Qx7B0Rmr_bI",
+      completers: { defuser: "Danielstigman", experts: ["Miki2003pl", "Xorote"] },
+    },
   ],
   modules: [
     "BigCircle",

@@ -27,6 +27,7 @@ export const forty_blevins: MissionInfo = {
       completers: { defuser: "Bianca", experts: ["Benjamin", "Burniel"] },
     },
     { time: 34 * 60 + 16, log: "file=9f653e97d7fe0f5a722004ebf4515172d33e6dc5;bomb=0C2HM3", completer: "Dicey" },
+    { time: 28 * 60 + 28, vid: "https://www.youtube.com/watch?v=V2ou8IW6hGw", completer: "Megum" },
     { time: 24 * 60 + 17, vid: "https://www.youtube.com/watch?v=duJcrPjBHbI", completer: "Cookiepocalypse" },
     { time: 20 * 60 + 1, log: "file=6c36b8cc8268da3c1524445717b1d0323e0a0271;bomb=U37NX9", completer: "Garuda" },
     { time: 19 * 60 + 37, log: "file=875b82698a4a3ca279ed2ce1f6996c6fb4b416bc;bomb=QE4UL7", completer: "ManiaMate" },
