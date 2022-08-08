@@ -29,7 +29,11 @@ export const chalenj_bmob: MissionInfo = {
       vid: "https://www.twitch.tv/videos/1081274816",
       completers: { defuser: "StKildaFan", experts: ["Asew", "ManiaMate"] },
     },
-    { time: 12 * 60 + 32, completers: { defuser: "Procyon", experts: ["Crazycaleb", "Espik"] } },
+    {
+      time: 12 * 60 + 32,
+      vid: ["https://www.twitch.tv/videos/844212773", "https://www.twitch.tv/videos/844215786"],
+      completers: { defuser: "Procyon", experts: ["Crazycaleb", "Espik"] },
+    },
     {
       time: 10 * 60 + 28,
       log: "file=431547f4b37ac9117f16ada0672070a464ac08ff;bomb=WA8KJ4",

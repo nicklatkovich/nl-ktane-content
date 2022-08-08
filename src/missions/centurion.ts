@@ -164,7 +164,15 @@ export const centurion: MissionInfo = {
       vid: "https://www.youtube.com/watch?v=m7o0ImRfC84",
       completers: { defuser: "S.", experts: ["EthanH", "PowerSlaveAlfons"] },
     },
-    { time: 1 * 60 + 28, completers: { defuser: "Procyon", experts: ["Crazycaleb", "Garuda"] } },
+    {
+      time: 1 * 60 + 28,
+      vid: [
+        "https://www.twitch.tv/videos/844221348",
+        "https://www.twitch.tv/videos/844224417",
+        "https://www.twitch.tv/videos/844228215",
+      ],
+      completers: { defuser: "Procyon", experts: ["Crazycaleb", "Garuda"] },
+    },
     {
       time: 1 * 60 + 2,
       vid: "https://www.youtube.com/watch?v=6m2Mgq5CTf4",
