@@ -12,6 +12,7 @@ export const mynutshang7972981890554: MissionInfo = {
       vid: "https://www.youtube.com/watch?v=YBKRQXH74Uw",
       completers: { defuser: "Zefod", experts: ["Fish", "Vincology"] },
     },
+    { time: 46 * 60 + 24, log: "file=f65bba7ee1d13eb562e1c0011c8cc2730dad6d31;bomb=3B9MI9", completer: "Puddle" },
     { time: 46 * 60 + 17, log: "file=debf1c574e9f53c5bbedd8b0e66e581884c2967e;bomb=B78CF3", completer: "LegendWilleh" },
     { time: 45 * 60 + 35, log: "file=51bb1fbaba7f82f0b07a8f11a828351cb1598d47;bomb=ER4NV6", completer: "Arceus" },
     { time: 40 * 60 + 7, isFirst: true, log: "file=20528b333223d156e3735a021163bebbddb0fccc", completer: "Dicey" },

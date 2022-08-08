@@ -30,6 +30,7 @@ export const no_mistakes: MissionInfo = {
       completers: { defuser: "Draket", experts: ["Garuda"] },
     },
     { time: 9 * 60 + 20, log: "file=9dc52ae2741b1de8f73ec9b5b9b9be0aec328d9d;bomb=1T8VP8", completer: "Asew" },
+    { time: 6 * 60 + 35, log: "file=1f01f56f02c8fdcf51a658f0d6468e9d973e84e6;bomb=EA6DD2", completer: "Ugh_Sunlight" },
     { time: 6 * 60 + 31, log: "file=5515b385d3fe3d1b49bf5ae947427cfdaa99c22b;bomb=BC2PE9", completer: "Puddle" },
     {
       time: 5 * 60 + 15,

@@ -10,6 +10,7 @@ export const myosotis: MissionInfo = {
   completions: [
     { time: 18 * 60 + 38, log: "file=8eb9d3343934c3020ca2fceda11bc28feb878355", completer: "LegendWilleh" },
     { time: 11 * 60 + 42, log: "file=aee56bc9a68f61bb7af4a44b9266e3dd5b8072c7;bomb=F37KQ3", completer: "Dicey" },
+    { time: 10 * 60 + 14, log: "file=3731b5d754186bf460455797b488c596a6f9cb6a;bomb=ZW7FF4", completer: "Danumbah" },
     {
       time: 9 * 60 + 55,
       vid: "https://www.youtube.com/watch?v=2T4Ni5xtMrw&feature=youtu.be",
@@ -44,6 +45,8 @@ export const myosotis: MissionInfo = {
     { time: 2 * 60 + 40, log: "file=1c200c0738cc883ad87cfb933c35754b8fbae117;bomb=QE0IA7", completer: "ManiaMate" },
     { time: 2 * 60, log: "file=579fc704ef0aaf6bbb5912fac9bb49b1ff6258f7;bomb=B59UZ1", completer: "Burniel" },
     { time: 1 * 60 + 26, log: "file=13729e3574dc9945cff679de8c5363f18cb6da2e;bomb=RJ1XW2", completer: "Crazycaleb" },
+    { time: 1 * 60 + 18, log: "file=e28426ff27089c67a321f7c5ca90065e7bb30065;bomb=3J8QA3", completer: "Ugh_Sunlight" },
+    { time: 34, vid: "https://www.youtube.com/watch?v=C1Uzqovkh4s", completer: "Whalien" },
   ],
   modules: [
     "WireSequence",
