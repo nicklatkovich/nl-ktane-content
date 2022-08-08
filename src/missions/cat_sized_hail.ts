@@ -13,6 +13,7 @@ export const cat_sized_hail: MissionInfo = {
       log: "file=9ca132e79bf12f6a8ed77f9fe223317cb70366c5;bomb=ZJ5MR0",
       completer: "Danumbah",
     },
+    { time: 22, log: "file=411b053d3e3271bffa2ae49170b0d4a2a73c8cb3;bomb=DB6RZ8", completer: "Edan" },
   ],
   modules: [
     "bakery",

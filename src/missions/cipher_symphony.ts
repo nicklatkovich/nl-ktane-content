@@ -18,6 +18,11 @@ export const cipher_symphony: MissionInfo = {
       vid: "https://www.youtube.com/watch?v=y77pn6U6EYo",
       completers: { defuser: "Dicey", experts: ["aGood_Usernam3", "BlvdBroken", "Diffuse", "LegendWilleh"] },
     },
+    {
+      time: 6 * 60 + 22,
+      vid: "https://www.youtube.com/watch?v=DiUnFM9B5rs",
+      completers: { defuser: "Kilo Bites", experts: ["Mythers", "weird", "Zaphod_Beeblebrox"] },
+    },
   ],
   solvedByTP: true,
   modules: [

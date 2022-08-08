@@ -9,6 +9,11 @@ export const circumstances_and_instances_that_may_cause_twitch_plays_to_require_
     widgets: 5,
     completions: [
       {
+        time: 21 * 60 + 46,
+        log: "file=59706e794df0705484e46b861745930ba098ed7b;bomb=HL8MW9",
+        completers: { defuser: "KittyAshy", experts: ["Cookiepocalypse", "Zaakeil"] },
+      },
+      {
         time: 6 * 60 + 25,
         isFirst: true,
         vid: "https://www.youtube.com/watch?v=OpjFraE6gYc&feature=youtu.be",

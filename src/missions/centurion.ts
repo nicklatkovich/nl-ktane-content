@@ -37,6 +37,7 @@ export const centurion: MissionInfo = {
       log: "url=https://cdn.discordapp.com/attachments/268371889594826752/537314240701136896/output_log.txt;bomb=7K9ED3",
       completer: "Draket",
     },
+    { time: 15 * 60 + 54, vid: "https://www.youtube.com/watch?v=ZHgy0GDcYfc", completer: "Crazycaleb" },
     { time: 15 * 60 + 50, vid: "https://www.youtube.com/watch?v=X3Ya3VHs0s4", completer: "Espik" },
     { time: 14 * 60 + 52, vid: "https://www.youtube.com/watch?v=MIep7xvPfxc", completer: "KittyAshy" },
     {
@@ -52,6 +53,11 @@ export const centurion: MissionInfo = {
       completers: { defuser: "Asmir", experts: ["DieBestenRutschen", "Želvík"] },
     },
     { time: 10 * 60 + 16, vid: "https://www.youtube.com/watch?v=WQD3azGzyz4&pp=sAQA", completer: "Senri" },
+    {
+      time: 9 * 60 + 45,
+      vid: "https://www.youtube.com/watch?v=QmE4cOPozT0",
+      completers: { defuser: "ManiaMate", experts: ["Dicey", "Garuda"] },
+    },
     {
       time: 9 * 60 + 15,
       vid: "https://www.youtube.com/watch?v=mKnSFhzdZcc",
@@ -73,7 +79,6 @@ export const centurion: MissionInfo = {
       vid: "https://www.google.com/url?q=https://youtu.be/APw1ypZ9atg&sa=D&source=editors&ust=1634880269441000&usg=AOvVaw3hIghNbeKiVdT87ml0QOFF",
       completers: { defuser: "Wheaty", experts: ["Copperkettle", "MageMage"] },
     },
-    { time: 7 * 60 + 57, log: "file=c105354bb2e925c72f3f7e151df40c4d3f5dc891;bomb=M73XV9", completer: "Crazycaleb" },
     {
       time: 7 * 60 + 46,
       vid: "https://www.youtube.com/watch?v=PiJV9_tNCBo",
@@ -96,6 +101,11 @@ export const centurion: MissionInfo = {
       completers: { defuser: "PowerSlaveAlfons", experts: ["EthanH", "S."] },
     },
     {
+      time: 5 * 60 + 46,
+      log: "file=ee8d1143323cd9296c85d3bb49bf23edc7ecbc22;bomb=HK7BW3",
+      completer: "Cookiepocalypse",
+    },
+    {
       time: 4 * 60 + 15,
       vid: "https://www.youtube.com/watch?v=-BbDZx36yQg",
       completers: { defuser: "Orinami", experts: ["Millie-Rose", "Lily", "Sierra"] },
@@ -111,6 +121,16 @@ export const centurion: MissionInfo = {
       time: 3 * 60 + 23,
       vid: "https://www.twitch.tv/videos/518953839",
       completers: { defuser: "Espik", experts: ["Procyon"] },
+    },
+    {
+      time: 3 * 60 + 1,
+      vid: "https://www.youtube.com/watch?v=HeS1Dr4hH0Y",
+      completers: { defuser: "Wheaty", experts: ["Espik"] },
+    },
+    {
+      time: 3 * 60,
+      log: "file=830f45c61865edeace9a8ae520c1169c508b4015;bomb=ZF5JQ0",
+      completers: { defuser: "Cure Chronos", experts: ["Aaron Kitty Boiii", "Striker"] },
     },
     { time: 3 * 60, vid: "https://youtu.be/feX5FACuAYc", completer: "t-chen" },
     {
@@ -128,6 +148,11 @@ export const centurion: MissionInfo = {
       vid: "https://www.youtube.com/watch?v=9n_WfEIsLww",
       completers: { defuser: "Benjamin", experts: ["Bianca", "Megum"] },
     },
+    {
+      time: 1 * 60 + 54,
+      log: "file=867b8dfc34691d447fae6130a40f95b79c730a5e",
+      completers: { defuser: "Kuro", experts: ["angel shaaark", "Striker"] },
+    },
     { time: 1 * 60 + 48, isFirst: true, vid: "https://www.youtube.com/watch?v=BSE2RcVmw1w", completer: "Elias" },
     {
       time: 1 * 60 + 47,
@@ -139,15 +164,7 @@ export const centurion: MissionInfo = {
       vid: "https://www.youtube.com/watch?v=m7o0ImRfC84",
       completers: { defuser: "S.", experts: ["EthanH", "PowerSlaveAlfons"] },
     },
-    {
-      time: 1 * 60 + 28,
-      vid: [
-        "https://www.twitch.tv/videos/844221348",
-        "https://www.twitch.tv/videos/844224417",
-        "https://www.twitch.tv/videos/844228215",
-      ],
-      completers: { defuser: "Procyon", experts: ["Crazycaleb", "Garuda"] },
-    },
+    { time: 1 * 60 + 28, completers: { defuser: "Procyon", experts: ["Crazycaleb", "Garuda"] } },
     {
       time: 1 * 60 + 2,
       vid: "https://www.youtube.com/watch?v=6m2Mgq5CTf4",
@@ -166,6 +183,11 @@ export const centurion: MissionInfo = {
     { time: 9, log: "file=b8a0ace2b93209f303287a040881443c136e4635;bomb=DR2WK2", completer: "Pokemine" },
     { time: 9, vid: "https://www.youtube.com/watch?v=rKWKtGeu1vE", completer: "Asew" },
     { time: 8, log: "file=a4787bce234e14087f1be185ce9b63df5634cfb2;bomb=1D0EE7", completer: "Sam Porter Bridges" },
+    {
+      time: 7,
+      log: "file=497637d2fa5f7fb033c49667686b939b4bea6e1b;bomb=7T0QP6",
+      completers: { defuser: "Striker", experts: ["Kuro", "SkipzPlays"] },
+    },
     { time: 1, log: "file=9a4362e4ac9b4196f88783b5af4978543cbe3a7e;bomb=L01QU4", completer: "ConManAU" },
   ],
   solvedByTP: true,

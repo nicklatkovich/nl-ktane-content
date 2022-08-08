@@ -7,6 +7,7 @@ export const chegginator: MissionInfo = {
   strikes: 7,
   widgets: 8,
   completions: [
+    { time: 52 * 60 + 6, log: "file=e71177d7078209bae6027f3d417d42306457976a;bomb=H98DF4", completer: "Miki2003pl" },
     {
       time: 40 * 60 + 58,
       vid: "https://www.youtube.com/watch?v=tWab5GaE_1w",

@@ -7,6 +7,11 @@ export const chalenj_bmob: MissionInfo = {
   strikes: 5,
   widgets: 8,
   completions: [
+    {
+      time: 28 * 60 + 14,
+      vid: "https://www.youtube.com/watch?v=o9w4Rq2zefs",
+      completers: { defuser: "Danielstigman", experts: ["Danumbah", "Miki2003pl"] },
+    },
     { time: 24 * 60 + 8, log: "file=cc915c13f0c1e452862083feb62a9f28b10125c7;bomb=WD0GN6", completer: "LegendWilleh" },
     {
       time: 20 * 60 + 25,
@@ -18,16 +23,13 @@ export const chalenj_bmob: MissionInfo = {
       log: "file=bd98af2cb84b2a1d7885d5672be2e5297beb3106;bomb=IF7PS5",
       completers: { defuser: "Burniel", experts: ["Zefod"] },
     },
+    { time: 12 * 60 + 55, vid: "https://www.youtube.com/watch?v=n88_Q7mFH1M&feature=youtu.be", completer: "Whalien" },
     {
       time: 12 * 60 + 48,
       vid: "https://www.twitch.tv/videos/1081274816",
       completers: { defuser: "StKildaFan", experts: ["Asew", "ManiaMate"] },
     },
-    {
-      time: 12 * 60 + 32,
-      vid: ["https://www.twitch.tv/videos/844212773", "https://www.twitch.tv/videos/844215786"],
-      completers: { defuser: "Procyon", experts: ["Crazycaleb", "Espik"] },
-    },
+    { time: 12 * 60 + 32, completers: { defuser: "Procyon", experts: ["Crazycaleb", "Espik"] } },
     {
       time: 10 * 60 + 28,
       log: "file=431547f4b37ac9117f16ada0672070a464ac08ff;bomb=WA8KJ4",

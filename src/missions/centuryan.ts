@@ -44,6 +44,7 @@ export const centuryan: MissionInfo = {
     { time: 58 * 60 + 25, log: "file=38b2e4cf7f7631b6183cb63627066c0d8b7e395d;bomb=VU4QA1", completer: "MageMage" },
     { time: 57 * 60, vid: "https://www.youtube.com/watch?v=0TirQoBXG9Y", completer: "t-chen" },
     { time: 55 * 60 + 22, log: "file=b417aca529851ba7499fa67c6d0ee4b4bad16f3c;bomb=Q01WQ2", completer: "Crazycaleb" },
+    { time: 49 * 60 + 49, log: "file=ae325b4063ca0180cdbc14f66e978a5056871440;bomb=KE4WF3", completer: "VFlyer" },
     { time: 47 * 60 + 18, vid: "https://www.twitch.tv/videos/827287012", completer: "Procyon" },
     { time: 47 * 60 + 6, log: "file=3af15ae968eefc4c9361ab00c39863932b0da394;bomb=PJ5PL8", completer: "Pokemine" },
     { time: 46 * 60 + 24, log: "file=58f8d48902ca35bf6d86b22372bf15d42ba1182f;bomb=2B8LE2", completer: "KittyAshy" },
