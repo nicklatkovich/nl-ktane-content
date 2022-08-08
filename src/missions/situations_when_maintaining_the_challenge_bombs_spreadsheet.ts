@@ -19,6 +19,7 @@ export const situations_when_maintaining_the_challenge_bombs_spreadsheet: Missio
       completers: { defuser: "StKildaFan", experts: ["Asew", "Dicey"] },
     },
     { time: 24 * 60 + 59, log: "file=e1f0ad5fa4c51320d3128114d219cb6eb4c59b71;bomb=6F6CJ3", completer: "Garuda" },
+    { time: 24 * 60 + 15, vid: "https://youtu.be/WkrzjRMy1H4", completer: "Megum" },
     {
       time: 18 * 60 + 54,
       isFirst: true,

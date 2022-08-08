@@ -23,6 +23,7 @@ export const speeding_lap_2: MissionInfo = {
     },
     { time: 1 * 60 + 21, vid: "https://www.youtube.com/watch?v=jAXMUlc2MWA&feature=youtu.be", completer: "Draket" },
     { time: 1 * 60 + 13, log: "file=7434d82fd3757b89d53e7301668792b7592922d6;bomb=AB4GE5", completer: "ManiaMate" },
+    { time: 1 * 60 + 3, vid: "https://www.youtube.com/watch?v=MPuMcWhWI1c", completer: "Megum" },
     {
       time: 47,
       log: "file=7122974ca4dcc59a761156e280255c76e0d4cc82;bomb=LM9IN8",

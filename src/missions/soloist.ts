@@ -23,6 +23,7 @@ export const soloist: MissionInfo = {
       vid: "https://www.youtube.com/watch?v=WENv-w7FT1c",
       completers: { defuser: "Deaf", experts: ["Fish", "Vincology"] },
     },
+    { time: 62 * 60 + 20, log: "file=5ef1169658b66d7ceb144797e5911071cad844b9;bomb=E69UU0", completer: "VFlyer" },
     { time: 61 * 60 + 38, log: "file=a8f6b616fe7d07815a16641ad475b35c4afe8d54", completer: "Diffuse" },
     { time: 59 * 60 + 50, log: "file=3547c6d31c5a625a1072e4dbf19e89f9522cc340;bomb=QP4ZE5", completer: "Zefod" },
     { time: 59 * 60 + 28, log: "file=aa17fcd8c44acff966521a856eec35fc41acd507;bomb=VN7PV2", completer: "Pokemine" },
@@ -44,6 +45,7 @@ export const soloist: MissionInfo = {
       completer: "GiveMeHeals",
     },
     { time: 53 * 60 + 42, log: "file=c8994d4eb0fc867fa77eedfbfe79ee3577ec2369;bomb=T23EN4", completer: "Puddle" },
+    { time: 48 * 60 + 44, log: "file=bba1182e7fdc8857704a9ecf7ea58a6961a83c50;bomb=PI5QN0", completer: "Kilo Bites" },
     { time: 47 * 60 + 42, log: "file=1bbe41b0cb445d746c162f210da1f94e671e2d0b;bomb=B51PM9", completer: "SillyPuppy" },
     {
       time: 44 * 60 + 35,
@@ -52,6 +54,11 @@ export const soloist: MissionInfo = {
     },
     { time: 42 * 60 + 24, log: "file=3e6dda3554f8aacaa3c79e17659be7a95ef59770;bomb=2E5QP3", completer: "Megum" },
     { time: 40 * 60 + 48, log: "file=a812e2bcd336a1589e8223355193246982938184;bomb=6G1EE1", completer: "Azzaman" },
+    {
+      time: 39 * 60 + 15,
+      log: "file=94dd4b96d4ec302e4595921c4c061e9edc348b49;bomb=PH4KB9",
+      completers: { defuser: "Seefop", experts: ["Byron Krane"] },
+    },
     {
       time: 38 * 60 + 58,
       vid: "https://youtu.be/uRi_q8c0ePI",

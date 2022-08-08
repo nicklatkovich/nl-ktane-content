@@ -8,6 +8,7 @@ export const speeding: MissionInfo = {
   widgets: 5,
   completions: [
     { time: 12 * 60 + 3, log: "file=ebefd9dd00996329e71a3603df69926679dfdddc;bomb=411GE9", completer: "LegendWilleh" },
+    { time: 10 * 60 + 26, log: "file=81efe50f3c563562030cec1757c8396243437f1e;bomb=QC2EL2", completer: "Miki2003pl" },
     { time: 8 * 60 + 53, log: "file=ede3b318da3ce1a64867f17911fff293ba82fabe", completer: "Asew" },
     {
       time: 5 * 60 + 39,

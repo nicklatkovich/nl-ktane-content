@@ -31,6 +31,7 @@ export const solorion: MissionInfo = {
     },
     { time: 36 * 60 + 47, log: "file=9353712b8e0df8ab91100f69530bab5d350dfca3;bomb=GW5RS6", completer: "ManiaMate" },
     { time: 31 * 60 + 4, log: "file=5b011daf3df7e624aea51b962ab0e90a7d493674;bomb=AR5GJ1", completer: "Zefod" },
+    { time: 26 * 60 + 58, log: "file=83a66ca709e24378a71ed4a3032a4860922c34db;bomb=WE2GH8", completer: "Ugh_Sunlight" },
     { time: 24 * 60 + 12, log: "file=1725f51d8e974656b8657aabfb5f0f964b09dc99;bomb=UE3EE7", completer: "Ulv" },
     {
       time: 22 * 60 + 49,

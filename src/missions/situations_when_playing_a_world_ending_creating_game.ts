@@ -7,6 +7,7 @@ export const situations_when_playing_a_world_ending_creating_game: MissionInfo =
   strikes: 5,
   widgets: 5,
   completions: [
+    { time: 10 * 60 + 2, log: "file=2fad0e1b2bf65afd9131cf82340ad3202688653d;bomb=FN6TI2", completer: "Edan" },
     { time: 7 * 60 + 5, isFirst: true, vid: "https://www.youtube.com/watch?v=x8Tok201juQ", completer: "Draket" },
   ],
   modules: [

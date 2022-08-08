@@ -441,6 +441,7 @@ export * from "./missions/situations_when_maintaining_the_challenge_bombs_spread
 export * from "./missions/situations_when_playing_a_world_ending_creating_game";
 export * from "./missions/situations_when_surviving_in_a_russian_summer_camp";
 export * from "./missions/small_hope";
+export * from "./missions/snivy_s_arrogance";
 export * from "./missions/solo_connoisseur";
 export * from "./missions/soloist";
 export * from "./missions/solo_madness";
