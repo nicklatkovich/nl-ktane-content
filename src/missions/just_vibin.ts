@@ -49,6 +49,12 @@ export const just_vibin: MissionInfo = {
     },
     { time: 10 * 60 + 3, log: "file=59095fdfec93e9191276b2cd68eedf20fc105fb6;bomb=6T5IW3", completer: "SillyPuppy" },
     {
+      time: 10 * 60 + 2,
+      log: "file=55f9226075ee1c56333fa607c27968aa3d927e9f;bomb=8P9HK9",
+      completers: { defuser: "SkipzPlays", experts: ["Aaron Kitty Boiii", "Striker"] },
+    },
+    { time: 9 * 60 + 8, log: "file=f6fef65324666bede3fa89197b5ae2809564db31;bomb=VU6AR5", completer: "alpha8404" },
+    {
       time: 9 * 60,
       log: "file=af2d54f68de38a469bd056efd88c228eadc81b0b;bomb=AE8EK4",
       completers: { defuser: "Danielstigman", experts: ["Puddle", "Obvious"] },
@@ -90,6 +96,7 @@ export const just_vibin: MissionInfo = {
     { time: 5 * 60 + 55, log: "file=2bd1700e737d039697ac3b95f13f55aa2f6c0cda;bomb=676EM3", completer: "Diffuse" },
     { time: 5 * 60 + 55, log: "file=fe3272ed411948ada7420c88e8e374bd57296782;bomb=SF2UD3", completer: "weird" },
     { time: 5 * 60 + 43, log: "file=7ea0a0acb720fa0f5500fe59f767536ec58bf77e;bomb=4U5IZ2", completer: "bioplay" },
+    { time: 5 * 60 + 38, log: "file=829c483ee0dfd8d0c1d6506c84496d490d9d73bb;bomb=LS7XZ6", completer: "SkipzPlays" },
     { time: 4 * 60 + 34, log: "file=78a4f1e7d5392c9bc172ee56ecbb67816f77cd4d;bomb=QG0BE6", completer: "Whalien" },
     {
       time: 4 * 60 + 34,
@@ -107,6 +114,11 @@ export const just_vibin: MissionInfo = {
     { time: 3 * 60 + 17, log: "file=84275ca0dc56afab4ae2ab6c39612fae177181ef;bomb=WX5KH0", completer: "Cyber" },
     { time: 2 * 60 + 54, log: "file=bf2b460c577b8f198d5f7574d51dd39e1c136c94;bomb=256JH5", completer: "Wheaty" },
     {
+      time: 2 * 60 + 45,
+      log: "file=f7a8bd6ec7b82e1d0774696db655b30fbb0d0441;bomb=0I2TH8",
+      completers: { defuser: "alpha8404", experts: ["MaximumCombo", "Raicho"] },
+    },
+    {
       time: 2 * 60 + 32,
       log: "file=68c0a36bde6553366c6475ba6d7b6b8734684e4f;bomb=1I2KX6",
       completer: "RandomKugelblitz",
@@ -121,6 +133,11 @@ export const just_vibin: MissionInfo = {
       time: 1 * 60 + 44,
       vid: "https://www.youtube.com/watch?v=pf16uVOCZCk",
       completers: { defuser: "Aaron Kitty Boiii", experts: ["Sonoko Sakanoue"] },
+    },
+    {
+      time: 1 * 60 + 19,
+      log: "file=742a923f41219737f6b0e696549b87ddbd47fd1a;bomb=FB5BV3",
+      completer: "Aaron Kitty Boiii",
     },
     {
       time: 1 * 60 + 4,
@@ -139,6 +156,7 @@ export const just_vibin: MissionInfo = {
       vid: "https://www.youtube.com/watch?v=SaN8TlSEdVM",
       completers: { defuser: "Deaf", experts: ["aGood_Usernam3", "TasThing"] },
     },
+    { time: 29, log: "file=15e3635197141d91a16da0ba010d8dad05c1791e;bomb=NC4HD0", completer: "oli_theelite" },
     { time: 24, log: "file=8adaf6a384aad3df362697f28f5233d0917996be;bomb=LZ4DT1", completer: "GoodHood" },
     { time: 17, log: "file=867f02e613396c9f43fb217cba8bed546d18f0b2;bomb=DW3AS6", completer: "MásQuéÉlite" },
     { time: 11, vid: "https://www.youtube.com/watch?v=RmTLr-md9Lk", completer: "Short_c1rcuit" },

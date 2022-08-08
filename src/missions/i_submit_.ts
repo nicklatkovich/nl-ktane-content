@@ -17,6 +17,11 @@ export const i_submit_: MissionInfo = {
     { time: 16 * 60 + 25, vid: "https://www.youtube.com/watch?v=eyJngRLYaX8", completer: "tandyCake" },
     { time: 15 * 60 + 26, log: "file=b381c682e67345d4926f4edc4e1fd80f807cc3bb;bomb=JA5BJ9", completer: "Zefod" },
     {
+      time: 15 * 60 + 4,
+      log: "file=95e43af17970ceb0858df418e3134e6539f06fe3;bomb=HL4SC8",
+      completers: { defuser: "Wheaty", experts: ["Copperkettle", "MageMage"] },
+    },
+    {
       time: 14 * 60 + 33,
       log: "file=95e43af17970ceb0858df418e3134e6539f06fe3;bomb=HL4SC8",
       completers: { defuser: "Fish", experts: ["Blananas", "Deaf"] },
@@ -27,6 +32,7 @@ export const i_submit_: MissionInfo = {
       vid: "https://www.youtube.com/watch?v=k-g1mKsgQvY",
       completers: { defuser: "Benjamin", experts: ["Bianca", "MásQuéÉlite", "Megum"] },
     },
+    { time: 10 * 60 + 21, log: "file=3a6e89686ab33fdb6c09b3fdafe96d4cfbfb7fc2;bomb=QM7AH2", completer: "Wheaty" },
     { time: 10 * 60 + 18, log: "file=3ddb6ebaefddc1537e683682145adc66f733f420;bomb=9V6EE3", completer: "Edan" },
     { time: 8 * 60 + 52, log: "file=b9b15298f68ba3b882bfc1d234fad2868f74e0ea;bomb=676ET4", completer: "Vincology" },
     { time: 8 * 60 + 38, log: "file=e5d949dc1062e656f8a1875823de2267d82492b2;bomb=NW8US8", completer: "Garuda" },

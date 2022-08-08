@@ -28,6 +28,11 @@ export const klaxon_quartet: MissionInfo = {
       log: "file=eb4cafd6ce6073e4ea998ecfe19b3928e8b29ce0;bomb=AW7XH0",
       completers: { defuser: "Fish", experts: ["aGood_Usernam3", "tandyCake"] },
     },
+    {
+      time: 23,
+      log: "file=49bbd0f41ad5244fb5e2ab51971087a3f648914d;bomb=BV8EL8",
+      completers: { defuser: "Rexkix", experts: ["SillyPuppy", "Skyeward"] },
+    },
   ],
   solvedByTP: true,
   modules: [

@@ -8,12 +8,28 @@ export const irene: MissionInfo = {
   widgets: 7,
   completions: [
     {
+      time: 22 * 60 + 7,
+      log: "file=34f98ceed3bd5148ed0878df586421ba2e9e5294;bomb=GF3MA6",
+      completers: { defuser: "Wheaty", experts: ["Copperkettle", "MageMage"] },
+    },
+    {
+      time: 17 * 60 + 56,
+      log: "file=2a17d2cbb2d7e3b749fc8a5380183643ef37b645;bomb=V56RR1",
+      completers: { defuser: "Wheaty", experts: ["Cure Chronos", "SkipzPlays"] },
+    },
+    {
       time: 17 * 60 + 10,
       vid: "https://www.youtube.com/watch?v=J2DQkfzsM_8",
       completers: { defuser: "Deaf", experts: ["Blananas", "Fish"] },
     },
     { time: 16 * 60 + 42, log: "file=1ba8c4d2e03fab764768835ed4dede1a2b9eb447;bomb=MG7ER9", completer: "Puddle" },
+    { time: 15 * 60 + 33, log: "file=ccaa51fd6aa4adc42c5ba64a40ce05b575d69754;bomb=169EQ9", completer: "Danumbah" },
     { time: 14 * 60 + 45, log: "file=a66f7494a622a22ff32cfa0d87640c054ba892cb;bomb=SC3JA2", completer: "LegendWilleh" },
+    {
+      time: 14 * 60 + 45,
+      log: "file=5aae600c8602b0d81f89aaaa45ccf592cfc9ab62;bomb=1G7IT4",
+      completers: { defuser: "Wheaty", experts: ["Espik", "Striker"] },
+    },
     {
       time: 14 * 60 + 41,
       vid: "https://www.youtube.com/watch?v=wHKrXNGttxk",
@@ -32,6 +48,11 @@ export const irene: MissionInfo = {
     },
     { time: 12 * 60 + 39, log: "file=dfcc3c26f02f4a994e5c8d1db2105642699c41b1;bomb=BC1AL0", completer: "ManiaMate" },
     {
+      time: 11 * 60 + 54,
+      log: "file=5bad878300c8b78718cd3f7744b75484e8f1d33b;bomb=ND4WU6",
+      completers: { defuser: "Wheaty", experts: ["Gwendolyn", "SkipzPlays"] },
+    },
+    {
       time: 10 * 60 + 31,
       log: "file=91531b1571ff035735b8de3aa996af1b31666cfa;bomb=WW8QV6",
       completers: { defuser: "Wheaty", experts: ["Macanek", "Prism Ghost"] },
@@ -47,11 +68,20 @@ export const irene: MissionInfo = {
       vid: "https://www.twitch.tv/videos/1153923597",
       completers: { defuser: "Wheaty", experts: ["Azzaman", "Copperkettle"] },
     },
-    { time: 8 * 60 + 50, log: "file=d2335ad3b3f110658398c1f3044dc605672b5c1b", completer: "Danumbah" },
+    {
+      time: 8 * 60 + 12,
+      log: "file=8d1e0d421b83a7b434f5a9cf6aa60d75a1e3830a;bomb=ZE2RH7",
+      completers: { defuser: "Wheaty", experts: ["Blananas", "Quinn Wuest"] },
+    },
     {
       time: 8 * 60 + 11,
       log: "file=061ce5aa151b8b59e5ccc1044ca260d45a29484a;bomb=5K9SB5",
       completers: { defuser: "Wheaty", experts: ["MageMage", "Mr. Punchy"] },
+    },
+    {
+      time: 8 * 60 + 4,
+      log: "file=5245f77832e91cb8f9f06a81be038de2ade2f96c",
+      completers: { defuser: "Kuro", experts: ["Wheaty", "SkipzPlays"] },
     },
     {
       time: 7 * 60 + 33,
@@ -75,12 +105,19 @@ export const irene: MissionInfo = {
       vid: "https://www.youtube.com/watch?v=X2WSn4BdnlE#t=70m47s",
       completers: { defuser: "Skyeward", experts: ["Garuda", "Rexkix"] },
     },
+    { time: 5 * 60 + 22, log: "file=4897ec9cf3cf8ddff51c8b228bd4de39db7d5485;bomb=3H7ET5", completer: "Pokemine" },
     { time: 4 * 60 + 57, log: "file=ea7ce598f8389fde038dd8a2e6d614de0effa7ba;bomb=DT3XS5", completer: "Burniel" },
     { time: 4 * 60 + 50, log: "file=57edd051c8f3e67c9457bfca2e97214f212df9ef;bomb=4P7HJ6", completer: "Ugh_Sunlight" },
+    { time: 4 * 60 + 44, log: "file=5d0c46bc46ae876bdb3b0f653b66975fa2da0657;bomb=QN8XN0", completer: "Kuro" },
     {
       time: 4 * 60 + 41,
       log: "file=17367cc6dfd915850a0cd27b450e4ade274b6526;bomb=9D8EI7",
       completers: { defuser: "Wheaty", experts: ["Kilo Bites", "MageMage"] },
+    },
+    {
+      time: 4 * 60 + 32,
+      log: "file=17367cc6dfd915850a0cd27b450e4ade274b6526;bomb=9D8EI7",
+      completers: { defuser: "SkipzPlays", experts: ["Aaron Kitty Boi", "Striker"] },
     },
     { time: 4 * 60 + 21, log: "file=5d1ef2ae7fbc1c4842a356874cf2bbe0e782ad9e;bomb=KD2WQ0", completer: "Asmir" },
     {
@@ -89,6 +126,11 @@ export const irene: MissionInfo = {
       completers: { defuser: "Zaakeil", experts: ["KittyAshy", "TasThing"] },
     },
     { time: 3 * 60 + 45, log: "file=f4901433d7f77b64f420339121a3c00c7c68310e;bomb=TM4GE1", completer: "Wheaty" },
+    {
+      time: 3 * 60 + 20,
+      log: "file=55a24cac4b65d783920ac5229a77b1a16f263f32;bomb=J47ES1",
+      completers: { defuser: "Aaron Kitty Boiii", experts: ["SkipzPlays"] },
+    },
     {
       time: 3 * 60 + 20,
       log: "file=55a24cac4b65d783920ac5229a77b1a16f263f32;bomb=J47ES1",
@@ -111,6 +153,16 @@ export const irene: MissionInfo = {
       completers: { defuser: "Orinami", experts: ["Lily", "Sierra"] },
     },
     {
+      time: 1 * 60 + 59,
+      log: "file=a10d3d21251bafde9f63c15cc61c4f573e1bac8a;bomb=RI0PK7",
+      completers: { defuser: "Striker", experts: ["Coolpapabell", "Kuro"] },
+    },
+    {
+      time: 1 * 60 + 37,
+      log: "file=f10632ef814e04e346eeb296b3d7e5c07c79e889;bomb=JM5UG6",
+      completer: "RandomKugelblitz",
+    },
+    {
       time: 1 * 60 + 32,
       vid: "https://www.youtube.com/watch?v=G9R2sYJJk4c",
       completers: { defuser: "KittyAshy", experts: ["Cookiepocalypse", "Zaakeil"] },
@@ -128,12 +180,19 @@ export const irene: MissionInfo = {
     },
     { time: 54, log: "file=b4889175b644d32fd5892f879f6fa5cf14828395;bomb=CW1TE6", completer: "Dicey" },
     { time: 50, log: "file=a840b6e2a9d07b7ae0203671cd14724bcbc7e07c;bomb=NX2RN3", completer: "t-chen" },
+    { time: 45, log: "file=150b4231da2b33263a4186953eeae41ce0e0a65f;bomb=378DE3", completer: "Tarutao" },
+    {
+      time: 42,
+      log: "file=1b6aeb3e0a5fb13a1d7f91d7a8ced7d4d26994c3;bomb=9J5HZ5",
+      completers: { defuser: "SkipzPlays", experts: ["Aaron Kitty Boiii"] },
+    },
     {
       time: 39,
       log: "file=62cc9fa9f1b289e854837ce955b2c84e1cdb39af;bomb=CV5BP1",
       completers: { defuser: "Wheaty", experts: ["MageMage", "Puddle"] },
     },
     { time: 30, log: "file=08231db5b6481ddfeb5f33df63fabdc5ba2f7bc1;bomb=KS7RA3", completer: "Asew" },
+    { time: 25, log: "file=2d17f27782da95d09aa5d9349618373994308480;bomb=ZJ2AB3", completer: "SkipzPlays" },
     {
       time: 8,
       log: "file=33ad572c42b2197999f4adda1b3dac456f8aff05;bomb=4C6TG1",
@@ -144,6 +203,7 @@ export const irene: MissionInfo = {
       log: "file=a6b106a822745c4904be077fb358ef93fdd7ec22;bomb=C37ZV8",
       completers: { defuser: "Cure Chronos", experts: ["Danumbah"] },
     },
+    { time: 2, log: "file=05fa4e2ec1fbd5d025e23bdc1a010f445b9c72fd;bomb=VK8CS9", completer: "Aaron Kitty Boiii" },
     {
       time: 1,
       log: "file=ec10038b839c329b10bdaa8e90fe40e632740135;bomb=E33JE1",

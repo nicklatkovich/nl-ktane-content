@@ -13,6 +13,7 @@ export const invasion: MissionInfo = {
       vid: "https://www.youtube.com/watch?v=B5fMEefQiYE",
       completers: { defuser: "Zefod", experts: ["Deaf", "Draket"] },
     },
+    { time: 8 * 60 + 55, log: "file=d635fa9c811ad0249ed5438a3f114ef2eef234be;bomb=5F9ZA2", completer: "Edan" },
   ],
   modules: [
     [

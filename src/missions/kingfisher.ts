@@ -22,11 +22,11 @@ export const kingfisher: MissionInfo = {
   modules: [
     "7",
     "TwennyWan",
-    "beans",
     "binaryGrid",
     "BooleanKeypad",
     "BrokenButtonsModule",
     "curriculum",
+    "coprimeChecker",
     "digisibility",
     "EncryptedMorse",
     "europeanTravel",

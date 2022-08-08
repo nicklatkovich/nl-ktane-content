@@ -21,6 +21,7 @@ export const jjjjjjjjjj: MissionInfo = {
       completer: "Cookiepocalypse",
     },
     { time: 15 * 60 + 17, log: "file=7d5bfb6c3523917022feaa8587c458e5361e79e4;bomb=AM1NG9", completer: "Edan" },
+    { time: 10 * 60 + 16, log: "file=30f35eadfb4096929c910779e25c91ec35157e3e;bomb=8V6VS5", completer: "Sierra" },
     {
       time: 6 * 60 + 21,
       vid: "https://www.youtube.com/watch?v=-IIE2o1I204",

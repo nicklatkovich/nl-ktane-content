@@ -14,6 +14,11 @@ export const killer_bees: MissionInfo = {
       completer: "LegendWilleh",
     },
     {
+      time: 5 * 60 + 5,
+      log: "file=dfb3e885134f332986e8af3faaaab8976fe7782a;bomb=UR9VJ9",
+      completers: { defuser: "Zaakeil", experts: ["Cookiepocalypse", "KittyAshy"] },
+    },
+    {
       time: 3 * 60 + 27,
       vid: "https://www.youtube.com/watch?v=RS3VXr9Ky5k",
       completers: { defuser: "Benjamin", experts: ["Bianca", "Burniel", "Megum"] },
