@@ -8,6 +8,7 @@ export const maween: MissionInfo = {
   widgets: 5,
   completions: [
     { time: 30 * 60 + 15, log: "file=1e1c96073a85afc2eb56843fd58ec7a8d4c21e35;bomb=5K2KD7", completer: "LegendWilleh" },
+    { time: 21 * 60 + 21, log: "file=d040f12f633a1b0311910dd1613ab8523b31f36f;bomb=8R7IC2", completer: "Edan" },
     {
       time: 19 * 60 + 11,
       log: "file=2bac119a91956cda26c37480dfca001f92864f70;bomb=CZ5QV3",
@@ -25,6 +26,11 @@ export const maween: MissionInfo = {
       time: 12 * 60 + 28,
       vid: "https://www.youtube.com/watch?v=lkDAII8yLlc",
       completers: { defuser: "Zaakeil", experts: ["KittyAshy", "TasThing"] },
+    },
+    {
+      time: 11 * 60 + 25,
+      vid: "https://youtu.be/bhaVuZ-jzHI",
+      completers: { defuser: "Danielstigman", experts: ["MageMage", "Miki2003pl"] },
     },
     { time: 8 * 60 + 33, log: "file=81f3082b92318eca7e4dce68b18ac205a6b470b4;bomb=ZL7NZ4", completer: "EpicToast" },
     { time: 7 * 60 + 20, log: "file=b3d9fadd16aef23df68c8112dc8af289a3dd07aa;bomb=WL3GP2", completer: "GiveMeHeals" },

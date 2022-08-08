@@ -20,6 +20,7 @@ export const mario_emoji_frowning: MissionInfo = {
       log: "file=3447be4c4a0485fcd8dc0b03d646d2cc679293bb;bomb=LW8NQ5",
       completers: { defuser: "Garuda", experts: ["Cookiepocalypse", "Fish"] },
     },
+    { time: 6 * 60 + 53, log: "file=fff55408a30e0518ef1a6be915f24783a3f829ac;bomb=D23GK1", completer: "Dicey" },
   ],
   solvedByTP: true,
   modules: [

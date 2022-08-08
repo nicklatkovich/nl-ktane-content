@@ -26,6 +26,7 @@ export const minitorian: MissionInfo = {
     },
     { time: 5 * 60 + 27, log: "file=12c5d2b8066c87a524172e377fe6343cf5dc4617;bomb=3W1NB1", completer: "Dicey" },
     { time: 4 * 60 + 53, vid: "https://www.youtube.com/watch?v=RmYJWHhBtJs", completer: "Draket" },
+    { time: 3 * 60 + 47, log: "file=c35e606ccf00c41c0fc9b2c8c7f7ce237da31040;bomb=QJ8KW4", completer: "Pokemine" },
     {
       time: 2 * 60 + 45,
       vid: "http://youtube.com/watch?v=-jPqlDZqR5Q",

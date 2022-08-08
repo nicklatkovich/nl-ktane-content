@@ -1,10 +1,10 @@
 import { MissionInfo } from "nl-ktane-lib";
 
-export const mib__moved_to_back: MissionInfo = {
+export const mib_moved_to_back: MissionInfo = {
   name: "MIB: Moved to Back",
   missionPack: "Fang's Random Bombs",
   time: 512 * 60,
-  strikes: 20,
+  strikes: 10,
   widgets: 5,
   completions: [
     {

@@ -18,11 +18,17 @@ export const memory_hell: MissionInfo = {
       completers: { defuser: "Benjamin", experts: ["Bianca", "Burniel"] },
     },
     {
+      time: 6 * 60 + 20,
+      log: "file=220ad756d77636bf0a41a242103a3601a9345477;bomb=HT8AK7",
+      completers: { defuser: "Wheaty", experts: ["Danielstigman", "Espik"] },
+    },
+    {
       time: 5 * 60 + 20,
       isFirst: true,
       vid: "https://www.youtube.com/watch?v=Qky7EzQ0qkc",
       completers: { defuser: "Draket", experts: ["Fish", "Zefod"] },
     },
+    { time: 2 * 60 + 1, log: "file=8da453e9e631265159237e92878a1891693208ee;bomb=RC5KM5", completer: "Danumbah" },
   ],
   solvedByTP: true,
   modules: [

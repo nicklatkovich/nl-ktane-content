@@ -10,6 +10,7 @@ export const mathematicality: MissionInfo = {
     {
       time: 5 * 60 + 18,
       isFirst: true,
+      vid: "https://www.youtube.com/watch?v=v4L4EG9TpOw",
       log: "file=d4bc09d53a131098d8b616955f3472822530ab8d;bomb=C62UF3",
       completers: { defuser: "Dicey", experts: ["Cookiepocalypse", "Draket"] },
     },
