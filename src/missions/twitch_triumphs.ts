@@ -18,6 +18,7 @@ export const twitch_triumphs: MissionInfo = {
       completers: { defuser: "Benjamin", experts: ["Bianca", "Burniel"] },
     },
     { time: 28 * 60 + 45, log: "file=4219b2eb6983823ef988e2528aa47625066f2cc3;bomb=FM5IG6", completer: "LegendWilleh" },
+    { time: 9 * 60 + 55, log: "file=71e4692afe4552b7be70285d185870a639cfbf19;bomb=JG7ST6", completer: "Pokemine" },
     { time: 2 * 60 + 30, log: "file=34754da31c2d115a3a3d2dec3fba29a0e266d4ae;bomb=4Z4KI6", completer: "Asew" },
     { time: 1 * 60 + 59, vid: "https://www.youtube.com/watch?v=_Xc7Ro4P1tA", completer: "Diffuse" },
     {

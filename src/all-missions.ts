@@ -56,7 +56,7 @@ export * from "./missions/beekeeper";
 export * from "./missions/before_times";
 export * from "./missions/benturion";
 export * from "./missions/bepis";
-export * from "./missions/_bercharge";
+export * from "./missions/bercharge";
 export * from "./missions/bianca_s_playful_crypt";
 export * from "./missions/bimb";
 export * from "./missions/binary_madness";

@@ -17,7 +17,17 @@ export const turion: MissionInfo = {
       vid: "https://www.twitch.tv/videos/1096676921",
       completers: { defuser: "Espik", experts: ["Garuda", "ManiaMate"] },
     },
+    {
+      time: 18 * 60 + 59,
+      vid: "https://www.youtube.com/watch?v=BaSYbHqgAig",
+      completers: { defuser: "Dicey", experts: ["Danumbah", "Fish"] },
+    },
     { time: 16 * 60 + 49, vid: "https://www.youtube.com/watch?v=9ybOArP3VSU", completer: "Senri" },
+    {
+      time: 7 * 60 + 12,
+      log: "file=95cc04b12695feedcda88d714c4edee518236fe3",
+      completers: { defuser: "KittyAshy", experts: ["Cookiepocalypse", "Zaakeil"] },
+    },
     {
       time: 1 * 60 + 49,
       isFirst: true,

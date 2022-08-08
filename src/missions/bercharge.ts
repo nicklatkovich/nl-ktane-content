@@ -1,6 +1,6 @@
 import { MissionInfo } from "nl-ktane-lib";
 
-export const _bercharge: MissionInfo = {
+export const bercharge: MissionInfo = {
   name: "Übercharge",
   missionPack: "Rdzanu's big missions pack",
   time: 80 * 60,

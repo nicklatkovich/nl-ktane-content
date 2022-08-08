@@ -7,6 +7,7 @@ export const verbal_madness: MissionInfo = {
   strikes: 4,
   widgets: 5,
   completions: [
+    { time: 37 * 60 + 29, log: "file=454baf360e6cca801e5a306641b44404a6a17518;bomb=286ZL2", completer: "Edan" },
     {
       time: 26 * 60 + 58,
       isFirst: true,

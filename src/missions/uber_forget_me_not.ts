@@ -14,6 +14,7 @@ export const uber_forget_me_not: MissionInfo = {
       vid: "https://www.youtube.com/watch?v=7nC2QuQ_u7E",
       completers: { defuser: "Zaakeil", experts: ["KittyAshy"] },
     },
+    { time: 68 * 60 + 19, log: "file=c4ef94572ba2990d8050830aaf5e08168d92bafc", completer: "Pokemine" },
     { time: 68 * 60 + 19, vid: "https://www.youtube.com/watch?v=54I9Oc9bHcA&feature=youtu.be", completer: "Espik" },
     {
       time: 67 * 60 + 58,

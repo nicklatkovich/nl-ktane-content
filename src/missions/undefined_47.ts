@@ -8,6 +8,7 @@ export const undefined_47: MissionInfo = {
   widgets: 2,
   completions: [
     { time: 70 * 60 + 55, log: "file=d503d71d98a7b5f993f9921b11c653ab04a534b9;bomb=EN5EU4", completer: "LegendWilleh" },
+    { time: 67 * 60 + 37, log: "file=9aa61c6954cba5e242b20aaf9dc367525b73d4f8;bomb=310XT4", completer: "Miki2003pl" },
     { time: 57 * 60 + 54, vid: "https://www.youtube.com/watch?v=KunK8zws-To", completer: "tandyCake" },
     { time: 51 * 60 + 51, vid: "https://www.youtube.com/watch?v=hzlBmTcXqio", completer: "Senri" },
     {
@@ -18,6 +19,11 @@ export const undefined_47: MissionInfo = {
     { time: 46 * 60 + 38, log: "file=85ec3942cb375df6a44c0ae1037970f3a927bd31;bomb=P88BQ3", completer: "Megum" },
     { time: 45 * 60 + 10, log: "file=38d529177006ce92da5da8341594b980351e8f8b;bomb=011QM1", completer: "Vincology" },
     {
+      time: 43 * 60 + 50,
+      log: "file=7d7c0e5266bf158089158776e51c5bfbf9ffb1ac;bomb=UE1HH8",
+      completers: { defuser: "Striker", experts: ["Aaron Kitty Boiii", "SkipzPlays"] },
+    },
+    {
       time: 43 * 60 + 8,
       log: "file=c49d4cc57626fe0adbae03278c9f118e15627775;bomb=8X1GS7",
       completers: { defuser: "Cookiepocalypse", experts: ["KittyAshy", "Zaakeil"] },
@@ -27,6 +33,7 @@ export const undefined_47: MissionInfo = {
     { time: 39 * 60 + 50, log: "file=30d6cd2e47fea977ca1dbadabac3ccf78f4371e9;bomb=5V4QZ9", completer: "Wheaty" },
     { time: 39 * 60 + 15, log: "file=80852b41d509cadcd6a79016cbb65be9baad20f2;bomb=0W0RZ9", completer: "Ugh_Sunlight" },
     { time: 38 * 60 + 31, log: "file=6bbf75bf384b00df67a26432ecca5fb8e4d57ee2;bomb=H32QI3", completer: "Puddle" },
+    { time: 38 * 60 + 12, vid: "https://www.youtube.com/watch?v=SwVlYBanaHc", completer: "t-chen" },
     {
       time: 36 * 60 + 50,
       vid: "https://www.youtube.com/watch?v=qxk6HN43jxw",
@@ -58,8 +65,19 @@ export const undefined_47: MissionInfo = {
       completers: { defuser: "Byron Krane", experts: ["GoodHood", "Whalien"] },
     },
     { time: 26 * 60 + 12, log: "file=fa7a2a27c31d5bba47dcb8b30cda3008801b5659;bomb=S03TN5", completer: "Diffuse" },
+    {
+      time: 25 * 60 + 57,
+      log: "file=2b5d209516fc92786f96c826d4311f980574975d;bomb=365LI3",
+      completers: { defuser: "Wheaty", experts: ["Macanek", "MageMage"] },
+    },
     { time: 25 * 60 + 18, log: "file=b822f20e6fbf5dcb76a1d3fcb67bec717d382b87;bomb=KX4FF9", completer: "Zefod" },
     { time: 19 * 60 + 37, vid: "https://youtu.be/dyS79sF8vI4", completer: "MageMage" },
+    {
+      time: 19 * 60 + 33,
+      log: "file=ef8b9021c6f5047993660e99c8bc4b6984c06571;bomb=B39TJ4",
+      completers: { defuser: "alpha8404", experts: ["Hatosable", "MaximumCombo"] },
+    },
+    { time: 18 * 60 + 37, log: "file=50a1865d3e49e1a0512f85c2b75e61bed06323e4;bomb=UW5CX4", completer: "Kuro" },
     { time: 13 * 60 + 8, log: "file=e93ae055c5a27ad06338505dba15400078838d20;bomb=U74RC5", completer: "Dicey" },
     {
       time: 11 * 60 + 42,
