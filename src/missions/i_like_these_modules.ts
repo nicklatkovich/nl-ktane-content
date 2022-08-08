@@ -7,6 +7,7 @@ export const i_like_these_modules: MissionInfo = {
   strikes: 6,
   widgets: 5,
   completions: [
+    { time: 30 * 60 + 13, log: "file=1423de3bee0c7bda4a5e0b813443a7ba5e1f530e;bomb=3V3FE6", completer: "Miki2003pl" },
     {
       time: 19 * 60 + 36,
       log: "file=7f9b8ba1baefcb962437ed87d0b076db2711afe4;bomb=LB9TD1",

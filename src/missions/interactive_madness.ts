@@ -13,6 +13,7 @@ export const interactive_madness: MissionInfo = {
       log: "file=f557d644daf8f73ffc37e8709508d52d6afb8198",
       completer: "LegendWilleh",
     },
+    { time: 20 * 60 + 23, log: "file=4f88aefbab529725d2c4a6c53a938477e02c533c;bomb=FU5RT7", completer: "Edan" },
   ],
   modules: [
     "ModuleMaze",

@@ -14,6 +14,7 @@ export const hon: MissionInfo = {
       vid: "https://www.youtube.com/watch?v=duoh8vBeZiA",
       completers: { defuser: "Asew", experts: ["Dicey", "Orinami"] },
     },
+    { time: 11 * 60 + 8, log: "file=3105f63046f6d3470425074a68e7bbb5381d6b71;bomb=7I4LT6", completer: "Edan" },
     { time: 23, log: "file=6c7d1ff9fc3d4400035679c8411047ca2f7a7417;bomb=EK4WE3", completer: "VFlyer" },
     { time: 20, log: "file=aa394a0973369340cd3e6d9a3a2e594929b7033f;bomb=TG3UW5", completer: "Cookiepocalypse" },
   ],

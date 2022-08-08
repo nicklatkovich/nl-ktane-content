@@ -14,6 +14,7 @@ export const interactive_hell: MissionInfo = {
       vid: "https://www.youtube.com/watch?v=Rx9Xcozj0Gw",
       completers: { defuser: "Zefod", experts: ["Burniel", "Edan"] },
     },
+    { time: 8 * 60 + 54, vid: "https://youtu.be/aG0uYj7VqVM", completer: "Megum" },
   ],
   solvedByTP: true,
   modules: [
