@@ -3,12 +3,17 @@ import { MissionInfo } from "nl-ktane-lib";
 export const gunkturion: MissionInfo = {
   name: "Gunkturion",
   missionPack: "Grunkle's Missions",
-  time: 240 * 60,
+  time: 180 * 60,
   strikes: 10,
   widgets: 5,
   completions: [
     {
-      time: 97 * 60 + 14,
+      time: 57 * 60 + 17,
+      log: "file=ecfe450cd3c42229002f336d3bd6604b842e2c83;bomb=6F5CW0",
+      completers: { defuser: "Dicey", experts: ["Cookiepocalypse", "Garuda"] },
+    },
+    {
+      time: 37 * 60 + 14,
       isFirst: true,
       log: "file=77aa10a940906b345ef38e57d3621b9059bb4148;bomb=DJ4FN1",
       completer: "LegendWilleh",

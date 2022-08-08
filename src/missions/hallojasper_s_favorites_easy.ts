@@ -1,6 +1,6 @@
 import { MissionInfo } from "nl-ktane-lib";
 
-export const hallojasper_s_favorites__easy_: MissionInfo = {
+export const hallojasper_s_favorites_easy: MissionInfo = {
   name: "Hallojasper's Favorites (Easy)",
   missionPack: "Ulv's Bombs",
   author: "Hallojasper",
@@ -13,6 +13,11 @@ export const hallojasper_s_favorites__easy_: MissionInfo = {
       isFirst: true,
       log: "file=84f38c4f777a169c671cf4f3453ee165b8d0fd21;bomb=A56KC8",
       completer: "LegendWilleh",
+    },
+    {
+      time: 12 * 60 + 44,
+      log: "file=21d24bad24f1ed23707d7664137b32183b6bc3bf;bomb=WZ8ML8",
+      completers: { defuser: "Cookiepocalypse", experts: ["KittyAshy", "Zaakeil"] },
     },
   ],
   modules: [
@@ -33,7 +38,7 @@ export const hallojasper_s_favorites__easy_: MissionInfo = {
     "goofysgame",
     "GridlockModule",
     "GridMatching",
-    "heraldry",
+    "MayhemModule",
     "horribleMemory",
     "TheHypercubeModule",
     "kyudoku",

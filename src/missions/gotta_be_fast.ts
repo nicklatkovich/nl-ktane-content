@@ -12,6 +12,7 @@ export const gotta_be_fast: MissionInfo = {
     { time: 53, log: "file=ec8000d4a3a1500e3fb63795fd0b99c4778e7ff0;bomb=KS2MT3", completer: "aGood_Usernam3" },
     { time: 44, log: "file=5bcc821d21f639428e79d3f344f0a0f1524fc3d7;bomb=EQ5EE5", completer: "Danumbah" },
     { time: 31, log: "file=3980381963dcdad057b5d51f2c69b4acde144237;bomb=776KW1", completer: "Edan" },
+    { time: 21, log: "file=bc2241d0d7a9ccf6ae8ebb442586748a498f2757;bomb=7Z5AZ9", completer: "Ugh_Sunlight" },
     { time: 20, log: "file=98ed1cc21aa8cddced7ca675f0371381a02dd665;bomb=2A4DQ8", completer: "Puddle" },
     { time: 18, isFirst: true, vid: "https://www.youtube.com/watch?v=1A_1mCq_WJw", completer: "Crazycaleb" },
     {

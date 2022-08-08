@@ -6,7 +6,10 @@ export const gridlock_gridlock: MissionInfo = {
   time: 100 * 60,
   strikes: 6,
   widgets: 5,
-  completions: [{ time: 1 * 60 + 15, isFirst: true, vid: "https://youtu.be/ePEfRj1ZeJs", completer: "Draket" }],
+  completions: [
+    { time: 19 * 60 + 26, log: "file=c84718b0b78454e29f35807a214277e17420dcbc;bomb=NZ2XR1", completer: "Edan" },
+    { time: 1 * 60 + 15, isFirst: true, vid: "https://youtu.be/ePEfRj1ZeJs", completer: "Draket" },
+  ],
   modules: [
     "MazeV2",
     "TicTacToeModule",

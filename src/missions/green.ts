@@ -11,12 +11,18 @@ export const green: MissionInfo = {
       time: 45 * 60 + 56,
       isFirst: true,
       log: "file=b95e347467009b5959ccba5614f065b3c4d1026e;bomb=MI5PF1",
+      vid: "https://www.youtube.com/watch?v=65DA8sccegk&feature=youtu.be",
       completer: "Miki2003pl",
     },
     {
       time: 37 * 60 + 24,
       vid: "https://www.youtube.com/watch?v=euOJcbh5Ex8",
       completers: { defuser: "Dicey", experts: ["Draket", "Garuda"] },
+    },
+    {
+      time: 34 * 60 + 30,
+      vid: "https://youtu.be/65DA8sccegk",
+      completers: { defuser: "Miki2003pl", experts: ["Puddle", "Xorote"] },
     },
   ],
   modules: [
