@@ -15,6 +15,7 @@ export const weezerion: MissionInfo = {
       log: "file=74dd8eeedee801100a025785e57662a2acee4466;bomb=9E0IN0",
       completers: { defuser: "Garuda", experts: ["Cookiepocalypse", "Vincology"] },
     },
+    { time: 24 * 60 + 7, log: "file=f9d18bed141be5de8ce4243b9259eb5bfd0fa9ea;bomb=5A3FP3", completer: "Ugh_Sunlight" },
     { time: 23 * 60 + 58, log: "file=fae395d5a30dd249bb0abe591220a5a96b56058d;bomb=TD6DM9", completer: "Zefod" },
     {
       time: 23 * 60 + 53,
@@ -30,6 +31,7 @@ export const weezerion: MissionInfo = {
     },
     { time: 14 * 60 + 32, log: "file=ba9d358d0ddfd8260e3dba284fa1bad618243b3d;bomb=1E4DW2", completer: "Diffuse" },
     { time: 14 * 60, log: "file=c5505002daf2fb01ffe97c393cb70c26939f51b6;bomb=AW4NP1", completer: "Crazycaleb" },
+    { time: 10 * 60 + 45, vid: "https://youtu.be/TzB_q9s9AHw", completer: "Megum" },
     {
       time: 9 * 60 + 58,
       log: "file=0cd03a58a7799e01e60d0ff6550793d260ff9663;bomb=JX6UH3",

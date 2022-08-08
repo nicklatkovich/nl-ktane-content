@@ -3,7 +3,6 @@ import { MissionInfo } from "nl-ktane-lib";
 export const weird_s_bomb_of_confusing_explosions: MissionInfo = {
   name: "Weird's Bomb of Confusing Explosions",
   missionPack: "weird's remix pack",
-  author: "Weird",
   time: 87 * 60 + 44,
   strikes: 7,
   widgets: 5,

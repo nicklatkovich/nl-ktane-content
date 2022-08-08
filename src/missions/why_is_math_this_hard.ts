@@ -1,6 +1,6 @@
 import { MissionInfo } from "nl-ktane-lib";
 
-export const why_is_math_this_hard_: MissionInfo = {
+export const why_is_math_this_hard: MissionInfo = {
   name: "Why is Math This Hard?",
   missionPack: "Flyer's Mission Pack",
   time: 90 * 60,
@@ -14,6 +14,11 @@ export const why_is_math_this_hard_: MissionInfo = {
       completers: { defuser: "ManiaMate", experts: ["Edan", "Zefod"] },
     },
     { time: 42 * 60 + 16, vid: "https://www.youtube.com/watch?v=CZAM6hZ7Ysw", completer: "Benjamin" },
+    {
+      time: 38 * 60 + 14,
+      vid: "https://youtu.be/V_cmq8MIRf4",
+      completers: { defuser: "Danielstigman", experts: ["MageMage", "Miki2003pl"] },
+    },
     {
       time: 36 * 60 + 54,
       vid: "https://youtu.be/yKYPjCVW8Gw",

@@ -10,7 +10,7 @@ export const wire_madness: MissionInfo = {
     {
       time: 29 * 60 + 29,
       vid: "https://www.youtube.com/watch?v=122lAWMl2uk",
-      completers: { defuser: "Danielstigman", experts: ["Puddle", "Miki2003pl"] },
+      completers: { defuser: "Danielstigman", experts: ["Miki2003pl", "Puddle"] },
     },
     {
       time: 28 * 60 + 57,
@@ -39,6 +39,7 @@ export const wire_madness: MissionInfo = {
     { time: 6 * 60 + 25, log: "file=b6b26b66f855c90153b1f64d799884a29367a0c2;bomb=BR5RM3", completer: "Ugh_Sunlight" },
     { time: 4 * 60 + 24, log: "file=6cdbb8e13a56867211c270ea0017ac2864c2523b;bomb=HD0NM8", completer: "Diffuse" },
   ],
+  solvedByTP: true,
   modules: [
     [2, "booleanWires"],
     [2, "Venn"],

@@ -11,7 +11,7 @@ export const werewolf: MissionInfo = {
     {
       time: 21 * 60 + 29,
       vid: "https://www.youtube.com/watch?v=dyCWqRVZnG4",
-      completers: { defuser: "Cookiepocalypse", experts: ["Ashy", "Zefod"] },
+      completers: { defuser: "Cookiepocalypse", experts: ["KittyAshy", "Zefod"] },
     },
     {
       time: 18 * 60 + 42,

@@ -19,6 +19,11 @@ export const warrior: MissionInfo = {
       completers: { defuser: "Deaf", experts: ["Rexkix", "Zaakeil"] },
     },
     {
+      time: 25 * 60 + 39,
+      log: "file=89d5f64c3006e36a7a39bee2c27f72215be6c9ad;bomb=3H1XK7",
+      completers: { defuser: "Wheaty", experts: ["angel shaaark", "Espik"] },
+    },
+    {
       time: 25 * 60 + 36,
       log: "file=9aff492d0eb261b0b20cc71884fc48d2665b7787;bomb=QQ6NE7",
       completers: { defuser: "Wheaty", experts: ["Whalien"] },
