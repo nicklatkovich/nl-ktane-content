@@ -26,6 +26,7 @@ export const magpink: MissionInfo = {
       completer: "Garuda",
     },
     { time: 8 * 60 + 34, log: "file=3089a77e7a7782e326b5195b19ac4c4da1ce6baa;bomb=PH8UH7", completer: "Fish" },
+    { time: 5 * 60 + 49, log: "file=a3ff568e23af17b7ced42f71cde952c9f8cd68b8;bomb=3W5ZI3", completer: "Dicey" },
   ],
   modules: [
     "ColourFlash",

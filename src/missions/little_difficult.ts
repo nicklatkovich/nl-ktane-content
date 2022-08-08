@@ -16,6 +16,11 @@ export const little_difficult: MissionInfo = {
     },
     { time: 24 * 60, log: "file=477704deb8d9a9e998bdaaad9b3e09656302b200;bomb=D77NX9", completer: "Puddle" },
     {
+      time: 20 * 60 + 4,
+      log: "file=064d6093e2f3c4b5c5f4c2b4e34976cd434cea71;bomb=3I0TC8",
+      completers: { defuser: "ManiaMate", experts: ["Espik", "Garuda"] },
+    },
+    {
       time: 16 * 60 + 27,
       vid: "https://www.youtube.com/watch?v=NgJKfVthrNU",
       completers: { defuser: "Zaakeil", experts: ["Cookiepocalypse", "KittyAshy"] },

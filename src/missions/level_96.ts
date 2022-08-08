@@ -8,6 +8,16 @@ export const level_96: MissionInfo = {
   widgets: 5,
   completions: [
     {
+      time: 15 * 60 + 56,
+      vid: "https://www.youtube.com/watch?v=JE0gjtxd_Qg",
+      completers: { defuser: "Danielstigman", experts: ["Miki2003pl", "Puddle"] },
+    },
+    {
+      time: 13 * 60 + 10,
+      vid: "https://www.youtube.com/watch?v=ZDZeAfmloOk",
+      completers: { defuser: "Benjamin", experts: ["Bianca", "Burniel", "Megum"] },
+    },
+    {
       time: 7 * 60 + 44,
       log: "file=8fac9a3f2ac630448f93f898ae9d20fc13143fde;bomb=7G4WU6",
       completers: { defuser: "Zefod", experts: ["Deaf", "Edan", "Fish"] },

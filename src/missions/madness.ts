@@ -7,6 +7,7 @@ export const madness: MissionInfo = {
   strikes: 5,
   widgets: 5,
   completions: [
+    { time: 7 * 60 + 32, log: "file=0612a3ed93e629dbbab47a3bf7e85d2b0502703d;bomb=4R4QE7", completer: "Edan" },
     {
       time: 4 * 60 + 35,
       isFirst: true,

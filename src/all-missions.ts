@@ -259,6 +259,7 @@ export * from "./missions/kwaninator";
 export * from "./missions/la_vie_est_drole";
 export * from "./missions/level_95";
 export * from "./missions/level_96";
+export * from "./missions/level_99";
 export * from "./missions/light_in_the_dark";
 export * from "./missions/lil_wayne_random_bomb";
 export * from "./missions/lilynator";

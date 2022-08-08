@@ -7,6 +7,11 @@ export const level_95: MissionInfo = {
   strikes: 11,
   widgets: 5,
   completions: [
+    {
+      time: 17 * 60 + 14,
+      vid: "https://www.youtube.com/watch?v=5Flp-3DrrZ0",
+      completers: { defuser: "Danielstigman", experts: ["Miki2003pl", "Puddle"] },
+    },
     { time: 12 * 60, log: "file=ed20a73fafb7655f5097c320bd2dd09fdc0a7dff;bomb=J69WW0", completer: "aGood_Usernam3" },
     {
       time: 13,

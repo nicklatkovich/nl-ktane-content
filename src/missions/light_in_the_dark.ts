@@ -39,6 +39,11 @@ export const light_in_the_dark: MissionInfo = {
     },
     { time: 5 * 60 + 5, log: "file=adf35a5e89d0a0cad1acb728a779059f6c669285;bomb=VE8HV4", completer: "Burniel" },
     {
+      time: 3 * 60 + 5,
+      log: "file=f0769ac1dd5ac8d8bec5c2e7f029c1d285bf878f;bomb=DI6QA4",
+      completers: { defuser: "PippyInATopHat", experts: ["KittyAshy", "Zaakeil"] },
+    },
+    {
       time: 2 * 60 + 22,
       log: "file=5ebd7fee6066ad456a2b171245728ecc3118758a;bomb=U27DP0",
       completers: { defuser: "Rexkix", experts: ["Garuda", "SillyPuppy"] },
