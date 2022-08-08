@@ -40,6 +40,11 @@ export const prisencolinensinainciusol: MissionInfo = {
     { time: 5 * 60 + 35, log: "file=d063f4e28d930e4ea9b663a84099a9e19b04d9ac;bomb=1I7JT9", completer: "Garuda" },
     { time: 3 * 60 + 29, log: "file=a9343fdce62347d625702edd1620859548b0c2dc;bomb=GI9MV9", completer: "Wheaty" },
     {
+      time: 3 * 60 + 14,
+      log: "file=e52cfc3979521c6867cd8687e54e281e3668bb25;bomb=0K4FS6",
+      completers: { defuser: "Wheaty", experts: ["Macanek", "weird"] },
+    },
+    {
       time: 5,
       vid: "https://www.youtube.com/watch?v=0xy4wpPET70",
       completers: { defuser: "Zefod", experts: ["Fish", "Vincology"] },

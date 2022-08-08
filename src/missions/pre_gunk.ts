@@ -18,6 +18,7 @@ export const pre_gunk: MissionInfo = {
       vid: "https://www.youtube.com/watch?v=tas23duDgiE",
       completers: { defuser: "Zaakeil", experts: ["Cookiepocalypse", "KittyAshy"] },
     },
+    { time: 5 * 60 + 47, vid: "https://www.youtube.com/watch?v=kX_LksxjwGo", completer: "Megum" },
     { time: 4 * 60 + 10, vid: "https://www.youtube.com/watch?v=PnVUO4zS0N4", completer: "weird" },
     {
       time: 2 * 60 + 21,

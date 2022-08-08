@@ -16,6 +16,7 @@ export const professional_group: MissionInfo = {
     { time: 31 * 60 + 7, log: "file=b241ecbf60261b6b8230292589f644038b8456a9;bomb=EC9IG5", completer: "LegendWilleh" },
     {
       time: 29 * 60 + 37,
+      vid: "https://www.youtube.com/watch?v=vTykcfW2u3M",
       log: "file=edfd3be78a590ed37ac05c471693ec83df169963;bomb=Q42CP7",
       completers: { defuser: "Danielstigman", experts: ["Miki2003pl", "Pokemine"] },
     },
