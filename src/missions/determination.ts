@@ -10,7 +10,7 @@ export const determination: MissionInfo = {
     {
       time: 66 * 60 + 52,
       isFirst: true,
-      vid: "https://ktane.timwi.de/More/Logfile%20Analyzer.html#file=c5bc728adafa078ffb44485f1095c76001866fed;bomb=PS3GP4",
+      log: "file=c5bc728adafa078ffb44485f1095c76001866fed;bomb=PS3GP4",
       completer: "Puddle",
     },
   ],

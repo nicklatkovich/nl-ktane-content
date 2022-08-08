@@ -8,6 +8,11 @@ export const double_down: MissionInfo = {
   widgets: 5,
   completions: [
     {
+      time: 9 * 60,
+      vid: "https://www.twitch.tv/videos/1528845086",
+      completers: { defuser: "Espik", experts: ["Crazycaleb", "ManiaMate"] },
+    },
+    {
       time: 7 * 60 + 12,
       vid: "https://www.youtube.com/watch?v=J5EY4uF0A3A",
       completers: { defuser: "KittyAshy", experts: ["Cookiepocalypse", "Zaakeil"] },

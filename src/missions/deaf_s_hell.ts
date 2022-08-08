@@ -8,6 +8,8 @@ export const deaf_s_hell: MissionInfo = {
   strikes: 15,
   widgets: 5,
   completions: [
+    { time: 32 * 60 + 43, log: "file=f12b3e6399d82baf3673b90653b94aa6c3f7602a;bomb=VH0LR7", completer: "Arceus" },
+    { time: 8 * 60 + 39, log: "file=61ed8cb7ccb11f6349da4cb7a1892c312363c0da;bomb=8C0QI1", completer: "Puddle" },
     {
       time: 39,
       isFirst: true,

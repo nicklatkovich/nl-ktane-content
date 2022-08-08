@@ -14,10 +14,16 @@ export const decimator: MissionInfo = {
       log: "file=95698bf4557d7a99e85e680d7ab58428d277dcae;bomb=JE3VB6",
       completer: "aGood_Usernam3",
     },
+    { time: 2 * 60 + 24, log: "file=a47f7452c2519fcb40e52bdb4a863ec566c4644c;bomb=CL1PJ9", completer: "Dicey" },
     {
       time: 2 * 60 + 30,
       log: "file=85adc4333f243b13f7050b048c796d107b0bc929",
       completers: { defuser: "Orinami", experts: ["Lily", "Sierra"] },
+    },
+    {
+      time: 1 * 60 + 32,
+      log: "file=80d7531636149966cde829b1ab3fac2190935bda;bomb=373FR4",
+      completers: { defuser: "ManiaMate", experts: ["Garuda"] },
     },
   ],
   modules: [

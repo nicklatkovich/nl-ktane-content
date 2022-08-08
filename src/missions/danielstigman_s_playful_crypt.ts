@@ -8,6 +8,11 @@ export const danielstigman_s_playful_crypt: MissionInfo = {
   widgets: 5,
   completions: [
     {
+      time: 31 * 60 + 59,
+      vid: "https://www.youtube.com/watch?v=EmxPMFrFFQY",
+      completers: { defuser: "Miki2003pl", experts: ["Danielstigman", "Puddle"] },
+    },
+    {
       time: 12 * 60 + 49,
       isFirst: true,
       log: "file=47804d9c02e454577c6b6e0c60dcc62e3c1b643c;bomb=MX1BJ7",

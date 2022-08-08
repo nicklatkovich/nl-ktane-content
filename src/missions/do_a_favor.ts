@@ -14,6 +14,7 @@ export const do_a_favor: MissionInfo = {
       vid: "https://www.youtube.com/watch?v=3NzbMAg1guY",
       completers: { defuser: "Zaakeil", experts: ["Cookiepocalypse", "KittyAshy"] },
     },
+    { time: 78 * 60, log: "file=beb184f036cca7eff1e9654e0bc48cb19935c05b;bomb=XZ1BI6", completer: "Dicey" },
     { time: 71 * 60 + 43, log: "file=3f99ec068080a5b117ea9fd04ce20babf27057b7;bomb=JQ6WW4", completer: "Edan" },
     {
       time: 66 * 60 + 39,

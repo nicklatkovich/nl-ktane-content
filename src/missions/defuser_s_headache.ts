@@ -22,6 +22,7 @@ export const defuser_s_headache: MissionInfo = {
       completer: "Ulv",
     },
     { time: 10 * 60 + 14, vid: "https://www.youtube.com/watch?v=khc0qrndA7g", completer: "Cookiepocalypse" },
+    { time: 1 * 60 + 10, log: "file=dd78510bdf70aa14d3aa14a2fca574968699947f;bomb=7S7DV4", completer: "Dicey" },
   ],
   modules: [
     "forgetThis",

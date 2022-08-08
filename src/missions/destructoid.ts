@@ -3,7 +3,7 @@ import { MissionInfo } from "nl-ktane-lib";
 export const destructoid: MissionInfo = {
   name: "Destructoid",
   missionPack: "Thicc Bombs",
-  time: 90 * 60,
+  time: 120 * 60,
   strikes: 6,
   widgets: 5,
   completions: [
@@ -14,6 +14,7 @@ export const destructoid: MissionInfo = {
       completer: "LegendWilleh",
     },
     { time: 1 * 60 + 35, log: "file=25f0767c4b3a97ce89a50117c6b5c6c6d1626b3a;bomb=XX8WI5", completer: "ManiaMate" },
+    { time: 22, log: "file=cc15a2a6ee5a281f31196405720e1fa23ebade2e;bomb=P25GZ8", completer: "Dicey" },
   ],
   modules: [
     "RailwayCargoLoading",

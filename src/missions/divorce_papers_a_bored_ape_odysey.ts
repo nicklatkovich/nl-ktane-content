@@ -7,6 +7,7 @@ export const divorce_papers_a_bored_ape_odysey: MissionInfo = {
   strikes: 5,
   widgets: 5,
   completions: [
+    { time: 11 * 60 + 58, log: "file=d6ced94df2c25dab06a402e70607e49c0700a64d;bomb=ED8EP9", completer: "Dicey" },
     {
       time: 9 * 60,
       isFirst: true,
