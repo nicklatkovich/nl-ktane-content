@@ -13,6 +13,7 @@ export const bad_beginning: MissionInfo = {
       log: "file=cd915b3fa643c3903eb72db7aa22e34d86740fe3;bomb=2P0XH9",
       completer: "Puddle",
     },
+    { time: 7 * 60 + 59, log: "file=1095e964fa223fcf97ed6032c2ba97301c5c9a3a;bomb=FG7DE5", completer: "Dicey" },
   ],
   modules: [
     "Wires",

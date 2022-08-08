@@ -9,6 +9,11 @@ export const astaroon_5: MissionInfo = {
   completions: [
     { time: 42 * 60 + 7, log: "file=db97c315553c90f69b9f4838db82bdef2c321d1c", completer: "LegendWilleh" },
     { time: 35 * 60 + 8, vid: "https://youtu.be/hvDX7er8FHY", completer: "Miki2003pl" },
+    {
+      time: 34 * 60 + 40,
+      log: "file=e6b777b240d14a91bd693d16c71e3c67197fab86;bomb=AE5UH7",
+      completers: { defuser: "Zaakeil", experts: ["Cookiepocalypse", "KittyAshy"] },
+    },
     { time: 22 * 60 + 22, log: "file=c7b26f3386e64be0f46c7eee28b4248d680f069d;bomb=RK4MH9", completer: "Crazycaleb" },
     {
       time: 21 * 60 + 13,

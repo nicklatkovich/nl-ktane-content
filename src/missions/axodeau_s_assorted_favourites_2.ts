@@ -7,6 +7,7 @@ export const axodeau_s_assorted_favourites_2: MissionInfo = {
   strikes: 5,
   widgets: 5,
   completions: [
+    { time: 12 * 60 + 26, log: "file=65003ac2fa3a6a90e57da2e8230440da738e840f;bomb=GE5RE5", completer: "Dicey" },
     {
       time: 7 * 60 + 25,
       isFirst: true,

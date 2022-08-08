@@ -19,6 +19,11 @@ export const a_way_out: MissionInfo = {
       completers: { defuser: "Zaakeil", experts: ["Espik", "KittyAshy"] },
     },
     {
+      time: 9 * 60 + 36,
+      log: "file=e9fbc69e61a7d4db7219b46e779af193f4238f62;bomb=2Z9TC2",
+      completers: { defuser: "Wheaty", experts: ["Copperkettle", "MageMage"] },
+    },
+    {
       time: 2 * 60 + 21,
       log: "file=e90bda2e4bac7f0be44b74eeffdd49c35cc0a413;bomb=114NL4",
       completers: { defuser: "Megum", experts: ["Benjamin", "Bianca"] },

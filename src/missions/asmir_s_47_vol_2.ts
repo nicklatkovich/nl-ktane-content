@@ -7,6 +7,7 @@ export const asmir_s_47_vol_2: MissionInfo = {
   strikes: 7,
   widgets: 5,
   completions: [
+    { time: 23 * 60, log: "file=fefc33e1853a5c75eb216cb6da03ccb37f682014;bomb=BE2EK8", completer: "Dicey" },
     {
       time: 22 * 60 + 33,
       isFirst: true,

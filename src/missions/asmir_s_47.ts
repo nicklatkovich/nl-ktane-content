@@ -39,6 +39,16 @@ export const asmir_s_47: MissionInfo = {
       log: "file=9d01c67b14c9a7d9688b302bde930b0ea3b1f254;bomb=RN1PQ1",
       completers: { defuser: "Mystery_Biscuits", experts: ["Burniel", "LXJ45"] },
     },
+    {
+      time: 19 * 60 + 30,
+      log: "file=6b877eae5aa62c30025f9f46eeb429b168f16593;bomb=PB8JZ6",
+      completers: { defuser: "Wheaty", experts: ["Kilo Bites", "weird"] },
+    },
+    {
+      time: 19 * 60 + 17,
+      log: "file=83a93c5abf1759e3dd201418e4a06aded4f921ba;bomb=A27QL5",
+      completers: { defuser: "SkipzPlays", experts: ["Aaron Kitty Boiii", "Striker"] },
+    },
     { time: 16 * 60 + 6, log: "file=339d467a61a87681ba8a3a49b05c51c3ab6ce968;bomb=XK1EI6", completer: "Megum" },
     {
       time: 15 * 60 + 25,
@@ -107,6 +117,12 @@ export const asmir_s_47: MissionInfo = {
       log: "file=94801b34f064da67fd6b69a690836b2e8b840225;bomb=646DL1",
       completers: { defuser: "Gwendolyn", experts: ["Gold", "Lily"] },
     },
+    {
+      time: 4 * 60 + 58,
+      log: "file=9cf2a5ced2f27f7f18b3a6dab43d8f55df967b22;bomb=1A5AE2",
+      completers: { defuser: "Kuro", experts: ["angel shaaark", "Badnoch"] },
+    },
+    { time: 4 * 60 + 55, log: "file=3f8aba5feef60618182f646034de11f38784e8c5;bomb=9S7UD8", completer: "Kuro" },
     { time: 4 * 60 + 53, log: "file=7b79716dfcbc84ee1e712821924f9b30ef112847;bomb=235FQ2", completer: "Harmony" },
     {
       time: 4 * 60 + 40,
@@ -114,8 +130,10 @@ export const asmir_s_47: MissionInfo = {
       completers: { defuser: "StormBlessed", experts: ["GiveMeHeals", "Vexorr"] },
     },
     { time: 4 * 60 + 34, log: "file=2cc2e6979e8c123fee510e836b366fb7bcedf83b;bomb=507SC7", completer: "Diffuse" },
+    { time: 4 * 60 + 23, log: "file=8b26f08b61f8ba540929da4c6e2a6673ed9666ae;bomb=1U0NV3", completer: "Coolpapabell" },
     { time: 3 * 60 + 55, log: "file=04b88056a6058853bc8820c9815c54460c44f422;bomb=P72GJ8", completer: "Ugh_Sunlight" },
     { time: 3 * 60 + 39, log: "file=77a46488e10845b76429c202dc43d7757b896858;bomb=FW3QF8", completer: "Pokemine" },
+    { time: 2 * 60 + 29, log: "file=0e035f15985f973922436a96beea311b0571854c", completer: "Aaron Kitty Boiii" },
     {
       time: 2 * 60 + 28,
       vid: "https://www.youtube.com/watch?v=N5IAtnPsxhE",
