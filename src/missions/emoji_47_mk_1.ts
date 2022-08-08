@@ -65,7 +65,6 @@ export const emoji_47_mk_1: MissionInfo = {
       completers: { defuser: "Wheaty", experts: ["Copperkettle", "MageMage"] },
     },
   ],
-  solvedByTP: true,
   modules: [
     "Amnesia",
     "forgetThis",

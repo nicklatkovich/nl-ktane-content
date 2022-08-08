@@ -7,6 +7,7 @@ export const _101mc_new_ones: MissionInfo = {
   strikes: 7,
   widgets: 5,
   completions: [
+    { time: 32 * 60 + 5, log: "file=fc9dd7aea3de1fd940a624f1f7afd41e0cc8f500;bomb=8B7LQ5", completer: "Miki2003pl" },
     {
       time: 24 * 60 + 23,
       isFirst: true,

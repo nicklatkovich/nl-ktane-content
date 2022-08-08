@@ -34,7 +34,9 @@ export const _17_again: MissionInfo = {
       log: "file=4b5fb435c11ac7cba9ac3865ca7b7efb83c4a901;bomb=HW1ED2",
       completer: "Benjamin",
     },
+    { time: 17 * 60 + 30, log: "file=f8bdc9ec37f0a67e786272544a521a1f5e4afeea;bomb=FZ6PG7", completer: "ManiaMate" },
     { time: 15 * 60 + 57, vid: "https://youtu.be/CyIasF-ZAAQ", completer: "Whalien" },
+    { time: 15 * 60 + 32, log: "file=7fac6129db1215680406bd4ef7c13582f7ebea91;bomb=0E6FW1", completer: "Pokemine" },
     { time: 15 * 60 + 27, log: "file=8ca821dd13e0beb8df1dec693399ba9f36007e14;bomb=NT5CM2", completer: "Asew" },
     {
       time: 14 * 60 + 40,
@@ -58,12 +60,22 @@ export const _17_again: MissionInfo = {
     },
     { time: 11 * 60 + 30, log: "file=37bce3a61e0b2d4b8e94cd95deaabbc71e3968b1;bomb=E38ET2", completer: "Senri" },
     {
+      time: 11 * 60 + 18,
+      log: "file=1a723fc80375571197700c8f8e3f2054abc16a46;bomb=FK5NX1",
+      completer: "RandomKugelblitz",
+    },
+    {
       time: 10 * 60 + 10,
       log: "file=5388b9daf3cb2ecf71062581956852309fe430fa;bomb=5M5XX7",
       completers: { defuser: "Wheaty", experts: ["Macanek", "MageMage"] },
     },
     { time: 9 * 60 + 32, log: "file=0306dd566d0e6c4f350af7f8aa2f02a53dbb51fb;bomb=G06CE9", completer: "Ugh_Sunlight" },
     { time: 9 * 60 + 4, log: "file=67db630150e09b297364501f6b1cb53090aa8dd1;bomb=UX5VA9", completer: "Crazycaleb" },
+    {
+      time: 6 * 60 + 59,
+      log: "file=74ddb70b0f3eec512e5ac7124f6abf536a001d69;bomb=SW3HQ1",
+      completer: "Aaron Kitty Boiii",
+    },
     { time: 6 * 60 + 42, log: "file=67d9d16df1760f7209bdd052e1baf343180b7ac0;bomb=DN2FD7", completer: "Diffuse" },
     {
       time: 5 * 60 + 54,
@@ -81,7 +93,17 @@ export const _17_again: MissionInfo = {
       completers: { defuser: "Bianca", experts: ["Benjamin"] },
     },
     { time: 4 * 60 + 39, log: "file=89932bd49f4eeeb9a471f70dbb4ffc2e86234c5f;bomb=5R3IJ9", completer: "t-chen" },
+    {
+      time: 4 * 60 + 26,
+      log: "file=53969c5582c6cd455655a2905625e340f81dd2fd;bomb=WQ2KE2",
+      completers: { defuser: "Aaron Kitty Boiii", experts: ["SkipzPlays", "Striker"] },
+    },
     { time: 4 * 60 + 10, log: "file=e9f63994bb72ed2930adec974b699918d392adbf;bomb=IS4HC6", completer: "Puddle" },
+    {
+      time: 3 * 60 + 22,
+      log: "file=45b3960c2f63c1e7d86a60b3a6c2a7e6dc4cfc31",
+      completers: { defuser: "Striker", experts: ["Aaron Kitty Boiii", "Kuro"] },
+    },
     { time: 2 * 60 + 47, log: "file=7fb784b7fe8e46f87dd486c5d330870931c4bed4;bomb=PX9ZR7", completer: "Garuda" },
     { time: 1 * 60 + 52, log: "file=b491f043b2d7a452ebb834ea5276726e46e58da8;bomb=JI3NZ8", completer: "VFlyer" },
     {
@@ -94,6 +116,7 @@ export const _17_again: MissionInfo = {
       log: "file=a56c23451dbbdd8f496b168005d9c215a58a76f1;bomb=DB9AF5",
       completers: { defuser: "Cure Chronos", experts: ["Danumbah"] },
     },
+    { time: 55, log: "file=1bad98a1b118f9be07b62e5f26498228822b893c;bomb=DE4PA3", completer: "Coolpapabell" },
     {
       time: 37,
       vid: "https://www.youtube.com/watch?v=LBMe2LIuf2k",

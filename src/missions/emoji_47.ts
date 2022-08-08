@@ -10,6 +10,11 @@ export const emoji_47: MissionInfo = {
     { time: 35 * 60 + 6, log: "file=ec60b5d53a097ef322b85c549a8edc197b0512b0;bomb=455TE3", completer: "LegendWilleh" },
     { time: 30 * 60 + 26, log: "file=5594e1fbd415b2ff27d171ade8bc84670611fc5c;bomb=RZ3WZ1", completer: "Edan" },
     {
+      time: 29 * 60 + 52,
+      log: "file=ee3fc47e28b519a90d233beafb721d53f8d6d6c3;bomb=FQ0BI5",
+      completers: { defuser: "Puddle", experts: ["Whalien"] },
+    },
+    {
       time: 28 * 60 + 12,
       vid: "https://www.youtube.com/watch?v=ri4SFPESTp4",
       completers: { defuser: "Želvík", experts: ["Asmir"] },
@@ -22,7 +27,13 @@ export const emoji_47: MissionInfo = {
       vid: "https://www.youtube.com/watch?v=C7tVRIKBrC0",
       completers: { defuser: "Zaakeil", experts: ["Cookiepocalypse", "KittyAshy"] },
     },
+    {
+      time: 22 * 60 + 58,
+      log: "file=27e6e3f4f11d12cb12a16cc46ab2d4d33390731e;bomb=XX9RW5",
+      completers: { defuser: "Whalien", experts: ["Puddle"] },
+    },
     { time: 22 * 60 + 20, vid: "https://www.youtube.com/watch?v=mBoCIF3-IPc", completer: "Whalien" },
+    { time: 21 * 60 + 16, log: "file=53ff6502a08b66754419eb2e9b4578cc1a03159a;bomb=ZU0GQ0", completer: "Kuro" },
     { time: 20 * 60 + 38, log: "file=4a825fbed67be401d307fcd81edcce2e109c51cd;bomb=B40NW5", completer: "ManiaMate" },
     { time: 20 * 60 + 28, log: "file=fe7c932842ff858f36fefa20fe8e3baccdf7ced0;bomb=K23HD5", completer: "Miki2003pl" },
     { time: 20 * 60 + 23, vid: "https://www.twitch.tv/videos/1280028623", completer: "Wheaty" },
@@ -41,6 +52,11 @@ export const emoji_47: MissionInfo = {
       vid: "https://www.youtube.com/watch?v=XCdd09bzXVg&feature=youtu.be",
       completers: { defuser: "Orinami", experts: ["Lily", "Sierra"] },
     },
+    {
+      time: 15 * 60 + 39,
+      log: "file=d554d2bac6220d82ff65590014371129a007d6d7;bomb=K62TG6",
+      completers: { defuser: "Striker", experts: ["Kuro"] },
+    },
     { time: 14 * 60 + 32, log: "file=5c0f5ffede31f8ebe14e736647ac0852c207012e;bomb=P46NH7", completer: "Burniel" },
     { time: 14 * 60 + 24, log: "file=6b28439a8d5653a6b31c6fc433810aaa515ba96b;bomb=ML7FJ8", completer: "Fish" },
     { time: 13 * 60 + 53, vid: "https://www.youtube.com/watch?v=_e91hLBtay0", completer: "Elias" },
@@ -52,6 +68,7 @@ export const emoji_47: MissionInfo = {
     { time: 13 * 60 + 44, log: "file=8df3d1207ad6b536b85687cb50601656acce4bb2;bomb=3B5ML7", completer: "Vincology" },
     { time: 13 * 60 + 36, log: "file=42182fdcd941233d5cd6c0b717bca31e0a3b94d3;bomb=0L6EJ3", completer: "Asew" },
     { time: 12 * 60 + 58, log: "file=4765efb9ce5a127cfd17e72caf791908bdd88da6;bomb=E79RK0", completer: "Danumbah" },
+    { time: 12 * 60 + 45, log: "file=d62220793da6baeb0e6e56fdfe80a246abcfea58;bomb=KK3JZ0", completer: "SkipzPlays" },
     {
       time: 12 * 60 + 31,
       vid: "https://www.youtube.com/watch?v=BmvqdesO_sM",
@@ -63,6 +80,11 @@ export const emoji_47: MissionInfo = {
       time: 10 * 60 + 38,
       log: "file=3d8c350ad265ed8576124d0d0048fb319419753d;bomb=LU5TN2",
       completers: { defuser: "Sierra", experts: ["SkipzPlays", "Tarutao"] },
+    },
+    {
+      time: 9 * 60 + 40,
+      log: "file=eb6d0d4e46d564882fd98bc6f0b43d4e635c67d4;bomb=Z37PB5",
+      completers: { defuser: "Kuro", experts: ["Striker"] },
     },
     {
       time: 8 * 60 + 53,
@@ -89,7 +111,7 @@ export const emoji_47: MissionInfo = {
     {
       time: 7 * 60 + 11,
       vid: "https://www.youtube.com/watch?v=bGwYkgy64ck",
-      completers: { defuser: "Gwendolyn", experts: ["Senri", "RandomKugelblitz"] },
+      completers: { defuser: "Gwendolyn", experts: ["RandomKugelblitz", "Senri"] },
     },
     { time: 7 * 60 + 9, vid: "https://www.youtube.com/watch?v=zZDUNXlF37Q", completer: "Vexorr" },
     { time: 6 * 60 + 32, log: "file=56a9ec99ecbc6f8ca546f511386aae1f9cddbe51;bomb=IC9HX5", completer: "Superstep" },
@@ -105,10 +127,21 @@ export const emoji_47: MissionInfo = {
     { time: 5 * 60 + 35, log: "file=5fea5ff6a942c4d626881ba639e7e48905d0fcf3;bomb=EG0ED8", completer: "Pokemine" },
     { time: 5 * 60 + 34, log: "file=3644af189f4eb1b73b46c8199c9c0fea9ced8884;bomb=H52ZV2", completer: "Harmony" },
     {
+      time: 5 * 60 + 30,
+      log: "file=25d4973201350c0ae57a289ffadc05126f408fd6;bomb=3L5ME7",
+      completers: { defuser: "Striker", experts: ["Aaron Kitty Boiii", "angel shaaark"] },
+    },
+    {
       time: 4 * 60 + 44,
       log: "file=0a5b9aef3070f2958b5c551403d71ab1f11baaab;bomb=XG6VP5",
       completers: { defuser: "Ulv", experts: ["JMan Zx"] },
     },
+    {
+      time: 4 * 60 + 19,
+      log: "file=6453b854047753d994b53bacc83b50e3147b518c;bomb=S16KZ0",
+      completers: { defuser: "SkipzPlays", experts: ["angel shaaark", "Wheaty"] },
+    },
+    { time: 4 * 60 + 13, log: "file=68a2c098bb2ebee94d71a3eba444a09c5294c4c1;bomb=BE2AE6", completer: "Striker" },
     {
       time: 4 * 60 + 1,
       log: "file=272ed65924ded9119d06bdd5ec0a14f401a30e17;bomb=H36KB3",
@@ -127,6 +160,7 @@ export const emoji_47: MissionInfo = {
       log: "file=bf909ce909bf3c70afada59299fc1f905fbf21f4;bomb=8Q6TC5",
       completers: { defuser: "t-chen", experts: ["alpha8404"] },
     },
+    { time: 2 * 60 + 40, log: "file=9532856a1b63126741fdaab64609e40f776a37f1", completer: "Aaron Kitty Boiii" },
     {
       time: 2 * 60 + 38,
       log: "url=https://cdn.discordapp.com/attachments/833785793729265764/929216526681251910/output_log.txt;bomb=X62SR9",

@@ -30,6 +30,7 @@ export const _18th_hole: MissionInfo = {
       completers: { defuser: "Deaf", experts: ["aGood_Usernam3", "Blananas", "Fish"] },
     },
     { time: 3 * 60, log: "file=9d26fcee7893eead87433d38fde2d29e59bdc059;bomb=ZE6TA4", completer: "Crazycaleb" },
+    { time: 2 * 60 + 27, log: "file=6cf31b7434e554940dd98b5229e63c5aacfce90c;bomb=SX6XM0", completer: "Danumbah" },
   ],
   modules: [
     "OneHundredAndOneDalmatiansModule",

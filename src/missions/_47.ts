@@ -94,6 +94,11 @@ export const _47: MissionInfo = {
       vid: "https://www.youtube.com/watch?v=IyDd1_Eqeng",
       completers: { defuser: "Vincology", experts: ["Garuda", "Rexkix"] },
     },
+    {
+      time: 1,
+      log: "file=e09afdb66419072bcb686380eec1b68e82e3bf66;bomb=ZU9ME6",
+      completers: { defuser: "Wheaty", experts: ["Copperkettle", "MageMage"] },
+    },
   ],
   solvedByTP: true,
   modules: [
