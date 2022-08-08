@@ -10,6 +10,7 @@ export const not_quite_vanilla: MissionInfo = {
   completions: [
     { time: 5 * 60 + 30, isFirst: true, vid: "https://www.youtube.com/watch?v=VZnbeLukL0s", completer: "Draket" },
     { time: 4 * 60 + 58, log: "file=2f1f7799f84eb1cf2d83207071863d1c652a0f06;bomb=FH6BM9", completer: "ManiaMate" },
+    { time: 1 * 60 + 42, log: "file=de1dd0399c9603baaea74402f227239fbc0b050f;bomb=NG0AA1", completer: "Crazycaleb" },
   ],
   solvedByTP: true,
   modules: [

@@ -9,6 +9,7 @@ export const not_centurion: MissionInfo = {
   widgets: 5,
   completions: [
     { time: 10 * 60 + 46, isFirst: true, vid: "https://www.youtube.com/watch?v=6rCirFa_TDQ", completer: "Espik" },
+    { time: 1 * 60 + 14, log: "file=d319d8a21e5cc36371964665c98d39a0be056d9b;bomb=G14QR1", completer: "Pokemine" },
   ],
   solvedByTP: true,
   modules: [

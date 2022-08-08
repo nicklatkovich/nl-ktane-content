@@ -17,6 +17,7 @@ export const nostalgia_critic: MissionInfo = {
     { time: 32 * 60 + 57, log: "file=da0b9b80620cf61ba45ad7dc2db4d70a39b05c03;bomb=EK6MA2", completer: "Garuda" },
     { time: 32 * 60 + 22, log: "file=ab6d5a4d696806a87791dd30eaaed54fcaeba886;bomb=I56TG2", completer: "tandyCake" },
     { time: 32 * 60 + 9, log: "file=6da6afc352e4abdc9fd4bcc2e98419f4909d0983;bomb=1H8WE2", completer: "GiveMeHeals" },
+    { time: 32 * 60 + 3, vid: "https://youtu.be/UGnrQGr1aLA", completer: "Megum" },
     { time: 29 * 60 + 3, log: "file=bb68672193524dc074aa305ca18ea7dfdebf085e;bomb=BL2RN4", completer: "Puddle" },
     { time: 27 * 60 + 7, log: "file=5043e1c398b108b34e93e9443947742c8e9c497e;bomb=AI9SJ4", completer: "Ulv" },
     { time: 23 * 60 + 41, log: "file=dc0beac6dafcb1c8eb35efafac5993f509f5bc7d;bomb=0I1MZ9", completer: "Vincology" },

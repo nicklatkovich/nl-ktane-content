@@ -28,6 +28,7 @@ export const nothing_to_spare_another_quick_bomb: MissionInfo = {
       completers: { defuser: "Orinami", experts: ["Puddle"] },
     },
     { time: 4 * 60 + 50, log: "file=edf0b30b0a6c88c45f164faa974016532ca12922;bomb=KW7IW9", completer: "Benjamin" },
+    { time: 4 * 60 + 22, log: "file=aa6426356c5ed923fb78d514362614cd404d25e4;bomb=Q51MD3", completer: "Ugh_Sunlight" },
     { time: 4 * 60 + 13, log: "file=e10d771282cf53e02ed55bcb467d5e79681b41b4;bomb=GG7PW0", completer: "Danumbah" },
     { time: 4 * 60 + 9, log: "file=180ebdd76e8a79e2a3ad289f55dd49c100cac2d9;bomb=U33VP4", completer: "Whalien" },
     { time: 4 * 60 + 7, log: "file=bcdfc0cf683957218da8bcfc44e60d9aae9d349b;bomb=3N0JC6", completer: "Azzaman" },

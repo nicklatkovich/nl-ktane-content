@@ -24,10 +24,16 @@ export const normalize: MissionInfo = {
       log: "file=36a5e0696a46d516e76a6163ac9c3b259db78b0a;bomb=1B4LX3",
       completers: { defuser: "Deaf", experts: ["Blananas", "Fish"] },
     },
+    { time: 6 * 60 + 38, vid: "https://www.youtube.com/watch?v=cRGg6KY_syw", completer: "Crazycaleb" },
     {
       time: 5 * 60 + 31,
       vid: "https://www.youtube.com/watch?v=pbtN0xkSHmY",
       completers: { defuser: "Benjamin", experts: ["Bianca", "Megum"] },
+    },
+    {
+      time: 1 * 60 + 20,
+      vid: "https://www.youtube.com/watch?v=faOLQnzCoVg",
+      completers: { defuser: "Skyeward", experts: ["Rexkix", "SillyPuppy"] },
     },
   ],
   solvedByTP: true,

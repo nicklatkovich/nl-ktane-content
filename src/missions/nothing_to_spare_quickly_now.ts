@@ -110,6 +110,7 @@ export const nothing_to_spare_quickly_now: MissionInfo = {
       vid: "https://www.youtube.com/watch?v=ocgBEzCkYyc",
       completers: { defuser: "Chestnut", experts: ["Burniel"] },
     },
+    { time: 43, log: "file=6cb1d9774b83b56d79c7d49303d12792bf47fb17;bomb=AS2ZJ4", completer: "Gwendolyn" },
     { time: 42, log: "file=2929004d7c77dc21d57d8f7937f1898f56065147;bomb=BS3TF0", completer: "Shummel" },
     { time: 38, log: "file=589ebd3cce19d01241af8a1a47c99ee778b8789f;bomb=JU4EA7", completer: "Puddle" },
     {
