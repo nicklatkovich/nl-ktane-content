@@ -9,6 +9,7 @@ TODO: ADD MANUALLY:
 * `Boss Module Endurance (Cruel)`
 * `Boss Soloing`
 * `Boss Module Endurance`
+* `BOTM Feb22`
 * `Cerberus`
 * `Climb`
 * `Core`

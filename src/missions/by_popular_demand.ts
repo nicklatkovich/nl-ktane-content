@@ -39,6 +39,11 @@ export const by_popular_demand: MissionInfo = {
     { time: 9 * 60 + 47, log: "file=ac2039fc1a63a37fb9164d2c80c1857c85e11c7a;bomb=S94MX4", completer: "ManiaMate" },
     { time: 9 * 60 + 25, log: "file=ab8f0adc6014002979426f21e6807a5384e98288;bomb=EC5GM4", completer: "Ugh_Sunlight" },
     { time: 7 * 60 + 13, log: "file=a0ca1a41b17bba24704efcab90bfb9d63a4d8205;bomb=2G7XL6", completer: "Crazycaleb" },
+    {
+      time: 7 * 60 + 1,
+      log: "file=db6326846311c7366f1f10d171864a91e8d778e0;bomb=X46EU6",
+      completers: { defuser: "SkipzPlays", experts: ["Aaron Kitty Boiii", "angel shaaark"] },
+    },
     { time: 6 * 60 + 53, vid: "https://www.youtube.com/watch?v=iRbI1Ot7IiY", completer: "Whalien" },
     {
       time: 6 * 60 + 40,
@@ -47,6 +52,11 @@ export const by_popular_demand: MissionInfo = {
     },
     { time: 6 * 60 + 15, log: "file=f7974ffd2983d6a5f767592fb923f14929e1834a;bomb=8U7MU5", completer: "t-chen" },
     { time: 6 * 60 + 12, log: "file=f7974ffd2983d6a5f767592fb923f14929e1834a;bomb=8U7MU5", completer: "Pokemine" },
+    {
+      time: 5 * 60 + 47,
+      log: "file=95415c9404725f889d87aecb414d41869858f359;bomb=ZX2LB7",
+      completer: "RandomKugelBlitz",
+    },
     {
       time: 5 * 60 + 46,
       vid: "https://www.youtube.com/watch?v=6budXCN71XE",
@@ -58,12 +68,18 @@ export const by_popular_demand: MissionInfo = {
       log: "file=6a9144552898386e5d74752a04a3f950c421687d;bomb=C31QT7",
       completers: { defuser: "Wheaty", experts: ["Macanek", "weird"] },
     },
+    { time: 5 * 60 + 16, log: "file=a8fd2df2d9fc09af2c03e545267521d560b6b94b;bomb=EB3AL1", completer: "SkipzPlays" },
     { time: 5 * 60 + 8, log: "file=e51ed80e7c2f6a3be438ffcd7ae7ae1ea6c23667;bomb=8V6MZ2", completer: "Wheaty" },
     { time: 4 * 60 + 25, log: "file=4cd1aad4c03f0fb711b3ab8ad33f79b6c669d2ef;bomb=UU3ER4", completer: "Cure Chronos" },
     {
       time: 4 * 60 + 13,
       vid: "https://www.youtube.com/watch?v=Eg78ed3BgG4",
       completers: { defuser: "Wheaty", experts: ["Copperkettle", "Danielstigman"] },
+    },
+    {
+      time: 3 * 60 + 54,
+      log: "file=47da7263090eb17d45e0d888c3cbad3cfa7bc826;bomb=F53GC8",
+      completers: { defuser: "Wheaty", experts: ["angel shaaark", "Striker"] },
     },
     { time: 3 * 60 + 43, log: "file=035f1a92ffde62f4cfeac346a74e15afe2098ac8;bomb=PM3RP3", completer: "Diffuse" },
     { time: 3 * 60 + 43, log: "file=1ff11fe5f3e9c24cfd933d2f4637fa142044887a;bomb=LQ2UU1", completer: "Garuda" },
@@ -92,6 +108,7 @@ export const by_popular_demand: MissionInfo = {
       completers: { defuser: "GoodHood", experts: ["SkipzPlays", "Tarutao"] },
     },
     { time: 1 * 60 + 40, log: "file=7a7f88dea7ab5db52cd9b14547e7bdc8d8d8dfb9;bomb=MU2ZE1", completer: "VFlyer" },
+    { time: 1 * 60, log: "file=f9eab3e969eaa7166cb015d2732fea002c65e149;bomb=QX1KJ2", completer: "Aaron Kitty Boiii" },
     { time: 6, log: "file=90e135d29f43462782e07b365da3e16b0de9ab9f;bomb=R37BW0", completer: "Lily" },
   ],
   solvedByTP: true,

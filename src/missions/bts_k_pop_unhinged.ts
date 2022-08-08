@@ -9,6 +9,11 @@ export const bts_k_pop_unhinged: MissionInfo = {
   widgets: 5,
   completions: [
     {
+      time: 24 * 60 + 42,
+      log: "file=2dbcc1a021080ac4c20df61c31bb893e5d302b27;bomb=UM1DX8",
+      completers: { defuser: "KittyAshy", experts: ["Cookiepocalypse", "Zaakeil"] },
+    },
+    {
       time: 16 * 60 + 27,
       isFirst: true,
       log: "file=72afdcb1fe90ec00d6a234e30c141cdbc58e6411;bomb=QB3RQ0",

@@ -13,6 +13,7 @@ export const brainer_power: MissionInfo = {
       completer: "LegendWilleh",
     },
     { time: 98 * 60 + 59, log: "file=43bb3f5be072af8f97237672f9ab51e89c2cfcd0;bomb=682QN0", completer: "Edan" },
+    { time: 65 * 60 + 7, log: "file=daec370ea3e8a36dce74ca29215b906441d9130c;bomb=8K7LS5", completer: "ManiaMate" },
     {
       time: 51 * 60 + 21,
       vid: "https://www.youtube.com/watch?v=P3UFYo9UIC4",

@@ -76,6 +76,8 @@ export * from "./missions/botm_2201";
 export * from "./missions/botm_2202";
 export * from "./missions/botm_2203";
 export * from "./missions/botm_2204";
+export * from "./missions/botm_2205";
+export * from "./missions/botm_2207";
 export * from "./missions/brainer_power";
 export * from "./missions/brainest_power";
 export * from "./missions/brain_power";

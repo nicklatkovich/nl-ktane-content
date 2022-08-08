@@ -8,33 +8,29 @@ export const botm_2203: MissionInfo = {
   strikes: 3,
   widgets: 5,
   completions: [
-    { time: 46 * 60 + 51, completer: "Puddle", log: "22860e2fd6c95d2da119f9e096ba63201f2e01bb" },
+    { time: 50 * 60 + 56, log: "file=bfd7a85bc116ca84414185bb8f319c5141898c05;bomb=TQ7MC1", completer: "Dicey" },
+    { time: 46 * 60 + 51, log: "file=22860e2fd6c95d2da119f9e096ba63201f2e01bb;bomb=EE4MM0", completer: "Puddle" },
     {
       time: 36 * 60 + 16,
+      log: "file=a23668167c4d8b2226a4ad00df5f566901af712d;bomb=4L2VZ7",
       completers: { defuser: "Zaakeil", experts: ["Cookiepocalypse", "KittyAshy"] },
-      log: "a23668167c4d8b2226a4ad00df5f566901af712d",
     },
     {
       time: 33 * 60 + 32,
+      log: "file=20c0ba05694a2c045af22f9c0c9a7acfe484a45f;bomb=TC7UF0",
       completers: { defuser: "Puddle", experts: ["weird"] },
-      log: "20c0ba05694a2c045af22f9c0c9a7acfe484a45f",
     },
+    { time: 32 * 60 + 52, log: "file=80e8010d4151c5b6eb3ea17d757539012994782f;bomb=M19BI9", completer: "Arceus" },
     {
       time: 29 * 60 + 49,
+      log: "file=42d0fc7755c6bce54f9fb8132baf376fa974c3ee;bomb=946MX2",
       completers: { defuser: "Orinami", experts: ["Lily", "Sierra"] },
-      log: "42d0fc7755c6bce54f9fb8132baf376fa974c3ee",
     },
-    {
-      time: 25 * 60 + 47,
-      completer: "Diffuse",
-      isFirst: true,
-      vid: "https://www.youtube.com/watch?v=VLViJeML4xw",
-      log: "5641eef1115f841eb76d388e3eb985b1f27b73af",
-    },
+    { time: 25 * 60 + 47, isFirst: true, vid: "https://www.youtube.com/watch?v=VLViJeML4xw", completer: "Diffuse" },
     {
       time: 21 * 60 + 13,
+      log: "file=e7853ccb752a0f5b57526e1d6d2eeeba4727c122;bomb=CU8SB8",
       completers: { defuser: "weird", experts: ["Puddle"] },
-      log: "e7853ccb752a0f5b57526e1d6d2eeeba4727c122",
     },
   ],
   modules: [

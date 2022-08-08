@@ -9,25 +9,34 @@ export const botm_2204: MissionInfo = {
   widgets: 5,
   completions: [
     {
+      type: CompletionType.SOLO,
       time: 56 * 60 + 3,
-      type: CompletionType.SOLO,
+      vid: "https://www.youtube.com/watch?v=uh5NiuXnQXY&feature=youtu.be",
       completer: "LegendWilleh",
-      vid: "https://www.youtube.com/watch?v=uh5NiuXnQXY",
     },
-    { time: 42 * 60 + 36, isFirst: true, completer: "LegendWilleh", log: "ef6cae9b2b75d716a9fad30e9d58fc325d58869b" },
     {
+      time: 42 * 60 + 36,
+      isFirst: true,
+      log: "file=ef6cae9b2b75d716a9fad30e9d58fc325d58869b",
+      completer: "LegendWilleh",
+    },
+    { time: 29 * 60 + 3, log: "file=e3885dce847a8360b4c1a7eec148e77c0d805199;bomb=BS6GB7", completer: "VFlyer" },
+    {
+      time: 17 * 60 + 57,
+      log: "file=44fb2ff23993d6961620ad540130b3b4c70053c7;bomb=UW2BQ7",
+      completers: { defuser: "Dicey", experts: ["Fish"] },
+    },
+    {
+      type: CompletionType.SOLO,
       time: 14 * 60 + 36,
-      type: CompletionType.SOLO,
-      completer: "Deaf",
       vid: "https://www.youtube.com/watch?v=KUwfs6C75P0",
-      log: "edda2d541c9d83843de392f8d95f36bf94e609cd",
+      completer: "Deaf",
     },
     {
-      time: 12 * 60 + 57,
       type: CompletionType.SOLO,
-      completer: "Cookiepocalypse",
+      time: 12 * 60 + 57,
       vid: "https://www.youtube.com/watch?v=auq6T_qOBk8",
-      log: "58aad4a665dc12499acb183b71edf889f6b94460",
+      completer: "Cookiepocalypse",
     },
   ],
   modules: [

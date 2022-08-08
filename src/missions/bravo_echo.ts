@@ -7,6 +7,7 @@ export const bravo_echo: MissionInfo = {
   strikes: 5,
   widgets: 5,
   completions: [
+    { time: 25 * 60 + 5, log: "file=6ad879756e0df17820dd11efd12059124eea3071;bomb=A67LG0", completer: "Dicey" },
     {
       time: 13 * 60 + 50,
       isFirst: true,

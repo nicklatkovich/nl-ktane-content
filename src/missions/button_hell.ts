@@ -7,6 +7,8 @@ export const button_hell: MissionInfo = {
   strikes: 8,
   widgets: 5,
   completions: [
+    { time: 56 * 60 + 13, log: "file=10ac8ad5132f6d98c7cc5003f09de295a22e48a3;bomb=UB3AR1", completer: "Dicey" },
+    { time: 39 * 60 + 27, log: "file=f3bd731e7c8faeace1af2c3ccb37725ed93e6755;bomb=UB4RX0", completer: "Edan" },
     {
       time: 10 * 60 + 57,
       isFirst: true,
