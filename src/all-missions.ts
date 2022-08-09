@@ -454,6 +454,7 @@ export * from "./missions/space_calmness";
 export * from "./missions/speeding_lap_2";
 export * from "./missions/speeding";
 export * from "./missions/squares_of_division";
+export * from "./missions/squares_triangles_circles";
 export * from "./missions/step_up";
 export * from "./missions/study_night";
 export * from "./missions/stuyvesant";
