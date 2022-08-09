@@ -13,6 +13,7 @@ export * from "./missions/_47";
 export * from "./missions/_4h";
 export * from "./missions/_50_50";
 export * from "./missions/_74_modules";
+export * from "./missions/a_bit_of_everything";
 export * from "./missions/achilles_destiny";
 export * from "./missions/acrux";
 export * from "./missions/adapted_swan_hell";
