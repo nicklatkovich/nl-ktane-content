@@ -1,4 +1,4 @@
-import { MissionInfo, MissionType } from "nl-ktane-lib";
+import { MissionInfo } from "nl-ktane-lib";
 
 export const alliterative_abilities: MissionInfo = {
   name: "Alliterative Abilities",

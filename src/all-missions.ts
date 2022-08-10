@@ -32,6 +32,7 @@ export * from "./missions/amnesia_hell";
 export * from "./missions/anamnesis";
 export * from "./missions/angry_video_game_nerd";
 export * from "./missions/a_not_so_hard";
+export * from "./missions/a_rule_seeded_set";
 export * from "./missions/anourome_random_bomb";
 export * from "./missions/arcturian";
 export * from "./missions/aries";

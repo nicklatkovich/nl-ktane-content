@@ -1,5 +1,4 @@
 TODO: ADD MANUALLY:
-* `A Rule-Seeded Set`
 * `BlvdBroken's Bomb of Bangers (Climb)`
 * `Boss Module Endurance (Cruel)`
 * `Boss Soloing`
