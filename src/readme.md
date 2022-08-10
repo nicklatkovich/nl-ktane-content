@@ -1,7 +1,4 @@
 TODO: ADD MANUALLY:
-* `[]/\O`
-* `A Bit of Everything`
-* `Alliterative Abilities`
 * `A Rule-Seeded Set`
 * `BlvdBroken's Bomb of Bangers (Climb)`
 * `Boss Module Endurance (Cruel)`

@@ -26,6 +26,7 @@ export * from "./missions/albatross";
 export * from "./missions/alcoholism";
 export * from "./missions/alfa_alfa_alpha";
 export * from "./missions/alfa_alfa_beta";
+export * from "./missions/alliterative_abilities";
 export * from "./missions/alternative_affinities";
 export * from "./missions/amnesia_hell";
 export * from "./missions/anamnesis";
